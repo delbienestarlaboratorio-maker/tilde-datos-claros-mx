@@ -1,0 +1,86 @@
+{
+  "id": "pobreza-general",
+  "name": "Población en Pobreza",
+  "inegi_id": "5300000150",
+  "unit": "Porcentaje de la población",
+  "description": "Mexicanos que viven en situación de pobreza (CONEVAL)",
+  "lastValue": "36.3",
+  "lastDate": "2024/01",
+  "previousValue": "43.9",
+  "changePercent": -17.31,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2008/01",
+      "value": 44.4
+    },
+    {
+      "date": "2009/01",
+      "value": 46.1
+    },
+    {
+      "date": "2010/01",
+      "value": 45.5
+    },
+    {
+      "date": "2011/01",
+      "value": 46.2
+    },
+    {
+      "date": "2012/01",
+      "value": 45.5
+    },
+    {
+      "date": "2013/01",
+      "value": 43.6
+    },
+    {
+      "date": "2014/01",
+      "value": 44.4
+    },
+    {
+      "date": "2015/01",
+      "value": 43.2
+    },
+    {
+      "date": "2016/01",
+      "value": 43.6
+    },
+    {
+      "date": "2017/01",
+      "value": 41.9
+    },
+    {
+      "date": "2018/01",
+      "value": 41.5
+    },
+    {
+      "date": "2019/01",
+      "value": 43.9
+    },
+    {
+      "date": "2020/01",
+      "value": 43.9
+    },
+    {
+      "date": "2021/01",
+      "value": 36.3
+    },
+    {
+      "date": "2022/01",
+      "value": 36.3
+    },
+    {
+      "date": "2023/01",
+      "value": 36.3
+    },
+    {
+      "date": "2024/01",
+      "value": 36.3
+    }
+  ],
+  "aiSummary": "El 36.3% de la población (unos 46.8 millones) vive en pobreza. Es una de las reducciones más fuertes de la historia en un periodo corto, cayendo desde 43.9% en 2020.",
+  "aiInsight": "La reducción se debe a dos factores principales: el fuerte incremento al salario mínimo (que ha subido más del 100% real) y las transferencias de dinero del gobierno (programas sociales).",
+  "source": "CONEVAL con datos INEGI",
+  "lastUpdate": "2025-01-15"
+}

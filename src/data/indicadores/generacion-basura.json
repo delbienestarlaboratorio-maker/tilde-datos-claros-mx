@@ -1,0 +1,78 @@
+{
+  "id": "generacion-basura",
+  "name": "Generación de Basura",
+  "inegi_id": "5300000171",
+  "unit": "Millones de toneladas anuales",
+  "description": "Cuánta basura (residuos sólidos urbanos) producimos",
+  "lastValue": "44.5",
+  "lastDate": "2024/01",
+  "previousValue": "43.8",
+  "changePercent": 1.6,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 39
+    },
+    {
+      "date": "2011/01",
+      "value": 39.5
+    },
+    {
+      "date": "2012/01",
+      "value": 40
+    },
+    {
+      "date": "2013/01",
+      "value": 40.5
+    },
+    {
+      "date": "2014/01",
+      "value": 41
+    },
+    {
+      "date": "2015/01",
+      "value": 41.5
+    },
+    {
+      "date": "2016/01",
+      "value": 42
+    },
+    {
+      "date": "2017/01",
+      "value": 42.5
+    },
+    {
+      "date": "2018/01",
+      "value": 43
+    },
+    {
+      "date": "2019/01",
+      "value": 43.5
+    },
+    {
+      "date": "2020/01",
+      "value": 43
+    },
+    {
+      "date": "2021/01",
+      "value": 43.4
+    },
+    {
+      "date": "2022/01",
+      "value": 43.8
+    },
+    {
+      "date": "2023/01",
+      "value": 44.1
+    },
+    {
+      "date": "2024/01",
+      "value": 44.5
+    }
+  ],
+  "aiSummary": "Generamos 44.5 millones de toneladas de basura al año. Es alrededor de 1 kilo al día por cada habitante.",
+  "aiInsight": "Las compras en línea detonaron la basura (cartón y plásticos de envíos). El gran problema no es la cantidad de basura, sino a dónde va. Muchos municipios tienen basureros a cielo abierto.",
+  "source": "INEGI / SEMARNAT",
+  "lastUpdate": "2025-01-15"
+}

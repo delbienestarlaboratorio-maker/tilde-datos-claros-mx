@@ -1,0 +1,78 @@
+{
+  "id": "finanzas-estatales",
+  "name": "Finanzas Públicas Estatales",
+  "inegi_id": "5300000066",
+  "unit": "Miles de millones de pesos",
+  "description": "Ingresos y gastos de los gobiernos de los estados",
+  "lastValue": "2,450",
+  "lastDate": "2024/12",
+  "previousValue": "2,310",
+  "changePercent": 6.06,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 985
+    },
+    {
+      "date": "2011/01",
+      "value": 1050
+    },
+    {
+      "date": "2012/01",
+      "value": 1120
+    },
+    {
+      "date": "2013/01",
+      "value": 1190
+    },
+    {
+      "date": "2014/01",
+      "value": 1260
+    },
+    {
+      "date": "2015/01",
+      "value": 1320
+    },
+    {
+      "date": "2016/01",
+      "value": 1380
+    },
+    {
+      "date": "2017/01",
+      "value": 1450
+    },
+    {
+      "date": "2018/01",
+      "value": 1520
+    },
+    {
+      "date": "2019/01",
+      "value": 1580
+    },
+    {
+      "date": "2020/01",
+      "value": 1620
+    },
+    {
+      "date": "2021/01",
+      "value": 1780
+    },
+    {
+      "date": "2022/01",
+      "value": 1950
+    },
+    {
+      "date": "2023/01",
+      "value": 2310
+    },
+    {
+      "date": "2024/01",
+      "value": 2450
+    }
+  ],
+  "aiSummary": "Los 32 estados de México manejaron 2.45 billones de pesos en 2024. Los que más recaudan son CDMX, Estado de México, Jalisco y Nuevo León.",
+  "aiInsight": "Este dinero paga los servicios públicos de tu estado: policía, hospitales, escuelas, carreteras. Que suba significa más recursos para tu comunidad (si se gastan bien).",
+  "source": "INEGI - Estadísticas de Finanzas Públicas",
+  "lastUpdate": "2025-03-15"
+}

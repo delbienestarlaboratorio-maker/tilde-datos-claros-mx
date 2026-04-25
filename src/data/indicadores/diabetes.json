@@ -1,0 +1,118 @@
+{
+  "id": "diabetes",
+  "name": "Prevalencia de Diabetes",
+  "inegi_id": "1002000027B",
+  "unit": "Porcentaje de adultos",
+  "description": "De cada 100 adultos, cuántos tienen diabetes",
+  "lastValue": "15.6",
+  "lastDate": "2024/01",
+  "previousValue": "15.2",
+  "changePercent": 2.63,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 7.5
+    },
+    {
+      "date": "2001/01",
+      "value": 7.8
+    },
+    {
+      "date": "2002/01",
+      "value": 8.2
+    },
+    {
+      "date": "2003/01",
+      "value": 8.5
+    },
+    {
+      "date": "2004/01",
+      "value": 8.8
+    },
+    {
+      "date": "2005/01",
+      "value": 9.2
+    },
+    {
+      "date": "2006/01",
+      "value": 9.5
+    },
+    {
+      "date": "2007/01",
+      "value": 9.8
+    },
+    {
+      "date": "2008/01",
+      "value": 10.2
+    },
+    {
+      "date": "2009/01",
+      "value": 10.5
+    },
+    {
+      "date": "2010/01",
+      "value": 10.8
+    },
+    {
+      "date": "2011/01",
+      "value": 11.2
+    },
+    {
+      "date": "2012/01",
+      "value": 11.5
+    },
+    {
+      "date": "2013/01",
+      "value": 12
+    },
+    {
+      "date": "2014/01",
+      "value": 12.5
+    },
+    {
+      "date": "2015/01",
+      "value": 13
+    },
+    {
+      "date": "2016/01",
+      "value": 13.5
+    },
+    {
+      "date": "2017/01",
+      "value": 14
+    },
+    {
+      "date": "2018/01",
+      "value": 14.5
+    },
+    {
+      "date": "2019/01",
+      "value": 14.8
+    },
+    {
+      "date": "2020/01",
+      "value": 15
+    },
+    {
+      "date": "2021/01",
+      "value": 15.2
+    },
+    {
+      "date": "2022/01",
+      "value": 15.2
+    },
+    {
+      "date": "2023/01",
+      "value": 15.2
+    },
+    {
+      "date": "2024/01",
+      "value": 15.6
+    }
+  ],
+  "aiSummary": "El 15.6% de los adultos mexicanos tiene diabetes. México es el 6° país con más diabéticos en el mundo. La diabetes es la 2ª causa de muerte en el país.",
+  "aiInsight": "1 de cada 6 adultos tiene diabetes. Si tienes antecedentes familiares, sobrepeso o sedentarismo, hazte un estudio de glucosa. Detectarla a tiempo salva vidas.",
+  "source": "INEGI - ENSANUT",
+  "lastUpdate": "2025-01-15"
+}

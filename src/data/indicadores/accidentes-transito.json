@@ -1,0 +1,98 @@
+{
+  "id": "accidentes-transito",
+  "name": "Accidentes de Tránsito",
+  "inegi_id": "5300000120",
+  "unit": "Miles de accidentes",
+  "description": "Choques y accidentes en zonas urbanas",
+  "lastValue": "381",
+  "lastDate": "2024/01",
+  "previousValue": "377",
+  "changePercent": 1.06,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 430
+    },
+    {
+      "date": "2006/01",
+      "value": 440
+    },
+    {
+      "date": "2007/01",
+      "value": 460
+    },
+    {
+      "date": "2008/01",
+      "value": 450
+    },
+    {
+      "date": "2009/01",
+      "value": 420
+    },
+    {
+      "date": "2010/01",
+      "value": 410
+    },
+    {
+      "date": "2011/01",
+      "value": 400
+    },
+    {
+      "date": "2012/01",
+      "value": 380
+    },
+    {
+      "date": "2013/01",
+      "value": 390
+    },
+    {
+      "date": "2014/01",
+      "value": 385
+    },
+    {
+      "date": "2015/01",
+      "value": 380
+    },
+    {
+      "date": "2016/01",
+      "value": 360
+    },
+    {
+      "date": "2017/01",
+      "value": 365
+    },
+    {
+      "date": "2018/01",
+      "value": 365
+    },
+    {
+      "date": "2019/01",
+      "value": 362
+    },
+    {
+      "date": "2020/01",
+      "value": 301
+    },
+    {
+      "date": "2021/01",
+      "value": 340
+    },
+    {
+      "date": "2022/01",
+      "value": 377
+    },
+    {
+      "date": "2023/01",
+      "value": 379
+    },
+    {
+      "date": "2024/01",
+      "value": 381
+    }
+  ],
+  "aiSummary": "En 2024 se reportaron 381 mil accidentes de tránsito en el país (solo en zonas urbanas). En estos accidentes fallecieron casi 5,000 personas.",
+  "aiInsight": "La principal causa de los choques es el exceso de velocidad y el uso del celular. Los motociclistas son los más vulnerables, representando el mayor aumento en víctimas.",
+  "source": "INEGI - ATUS",
+  "lastUpdate": "2025-02-15"
+}

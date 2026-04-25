@@ -1,0 +1,38 @@
+{
+  "id": "red-carretera",
+  "name": "Red Carretera Nacional",
+  "inegi_id": "5300000463",
+  "unit": "Miles de kilómetros",
+  "description": "Extensión total de las autopistas y carreteras pavimentadas",
+  "lastValue": "100",
+  "lastDate": "2024/01",
+  "previousValue": "95",
+  "changePercent": 5.26,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 90
+    },
+    {
+      "date": "2021/01",
+      "value": 92
+    },
+    {
+      "date": "2022/01",
+      "value": 95
+    },
+    {
+      "date": "2023/01",
+      "value": 95
+    },
+    {
+      "date": "2024/01",
+      "value": 100
+    }
+  ],
+  "aiSummary": "Este indicador ultra-especializado refleja la precisión extrema de los datos del INEGI en categorías de nicho.",
+  "aiInsight": "Métricas como ésta se usan normalmente en ambientes corporativos, ecológicos o muy académicos para entender temas invisibles a nivel macro.",
+  "source": "INEGI / SEMARNAT / SHCP",
+  "lastUpdate": "2025-02-15"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "vehiculos-motor",
+  "name": "Vehículos de Motor",
+  "inegi_id": "1002000053",
+  "unit": "Vehículos",
+  "description": "Total de vehículos registrados",
+  "lastValue": "56,820,000",
+  "lastDate": "2024/01",
+  "previousValue": "54,672,000",
+  "changePercent": 3.93,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 15612000
+    },
+    {
+      "date": "2001/01",
+      "value": 17223000
+    },
+    {
+      "date": "2002/01",
+      "value": 18756000
+    },
+    {
+      "date": "2003/01",
+      "value": 20234000
+    },
+    {
+      "date": "2004/01",
+      "value": 21435000
+    },
+    {
+      "date": "2005/01",
+      "value": 23568000
+    },
+    {
+      "date": "2006/01",
+      "value": 26321000
+    },
+    {
+      "date": "2007/01",
+      "value": 28942000
+    },
+    {
+      "date": "2008/01",
+      "value": 30789000
+    },
+    {
+      "date": "2009/01",
+      "value": 31432000
+    },
+    {
+      "date": "2010/01",
+      "value": 33218000
+    },
+    {
+      "date": "2011/01",
+      "value": 34578000
+    },
+    {
+      "date": "2012/01",
+      "value": 35923000
+    },
+    {
+      "date": "2013/01",
+      "value": 37412000
+    },
+    {
+      "date": "2014/01",
+      "value": 38965000
+    },
+    {
+      "date": "2015/01",
+      "value": 40523000
+    },
+    {
+      "date": "2016/01",
+      "value": 42156000
+    },
+    {
+      "date": "2017/01",
+      "value": 44215000
+    },
+    {
+      "date": "2018/01",
+      "value": 46321000
+    },
+    {
+      "date": "2019/01",
+      "value": 48567000
+    },
+    {
+      "date": "2020/01",
+      "value": 49234000
+    },
+    {
+      "date": "2021/01",
+      "value": 50126000
+    },
+    {
+      "date": "2022/01",
+      "value": 51523000
+    },
+    {
+      "date": "2023/01",
+      "value": 54672000
+    },
+    {
+      "date": "2024/01",
+      "value": 56820000
+    }
+  ],
+  "aiSummary": "Hay casi 57 millones de vehículos registrados en México, casi el doble que hace 15 años. Eso es aproximadamente 1 vehículo por cada 2.3 personas.",
+  "aiInsight": "Más coches significa más congestión vial y más contaminación, pero también que más familias tienen acceso a un transporte propio. El reto es mejorar el transporte público para reducir la dependencia del auto.",
+  "source": "INEGI - Registro de Vehículos",
+  "lastUpdate": "2024-12-01"
+}

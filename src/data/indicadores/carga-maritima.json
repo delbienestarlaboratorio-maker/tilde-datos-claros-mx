@@ -1,0 +1,78 @@
+{
+  "id": "carga-maritima",
+  "name": "Carga Marítima Comercial",
+  "inegi_id": "5300000221",
+  "unit": "Millones de toneladas",
+  "description": "Mercancía que entra/sale por puertos como Manzanillo o Veracruz",
+  "lastValue": "295",
+  "lastDate": "2024/01",
+  "previousValue": "282",
+  "changePercent": 4.61,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 260
+    },
+    {
+      "date": "2011/01",
+      "value": 265
+    },
+    {
+      "date": "2012/01",
+      "value": 270
+    },
+    {
+      "date": "2013/01",
+      "value": 275
+    },
+    {
+      "date": "2014/01",
+      "value": 280
+    },
+    {
+      "date": "2015/01",
+      "value": 285
+    },
+    {
+      "date": "2016/01",
+      "value": 290
+    },
+    {
+      "date": "2017/01",
+      "value": 295
+    },
+    {
+      "date": "2018/01",
+      "value": 302
+    },
+    {
+      "date": "2019/01",
+      "value": 305
+    },
+    {
+      "date": "2020/01",
+      "value": 260
+    },
+    {
+      "date": "2021/01",
+      "value": 270
+    },
+    {
+      "date": "2022/01",
+      "value": 282
+    },
+    {
+      "date": "2023/01",
+      "value": 295
+    },
+    {
+      "date": "2024/01",
+      "value": 295
+    }
+  ],
+  "aiSummary": "Casi 300 millones de toneladas de productos (acero, coches, comida, químicos, gas) entran o salen de México por barco anualmente.",
+  "aiInsight": "Si pides algo de China por internet a Monterrey, seguramente llega primero en un barco carguero gigante al puerto de Manzanillo, y de ahí sube por tráiler o tren.",
+  "source": "SEMAR / SCT",
+  "lastUpdate": "2025-02-15"
+}

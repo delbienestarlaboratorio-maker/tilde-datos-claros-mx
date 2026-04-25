@@ -1,0 +1,118 @@
+{
+  "id": "maestros",
+  "name": "Maestros",
+  "inegi_id": "1002000041",
+  "unit": "Miles",
+  "description": "Total de profesores en el país",
+  "lastValue": "2,110",
+  "lastDate": "2024/01",
+  "previousValue": "2,085",
+  "changePercent": 1.2,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 1585
+    },
+    {
+      "date": "2001/01",
+      "value": 1610
+    },
+    {
+      "date": "2002/01",
+      "value": 1635
+    },
+    {
+      "date": "2003/01",
+      "value": 1660
+    },
+    {
+      "date": "2004/01",
+      "value": 1685
+    },
+    {
+      "date": "2005/01",
+      "value": 1710
+    },
+    {
+      "date": "2006/01",
+      "value": 1735
+    },
+    {
+      "date": "2007/01",
+      "value": 1760
+    },
+    {
+      "date": "2008/01",
+      "value": 1785
+    },
+    {
+      "date": "2009/01",
+      "value": 1810
+    },
+    {
+      "date": "2010/01",
+      "value": 1835
+    },
+    {
+      "date": "2011/01",
+      "value": 1860
+    },
+    {
+      "date": "2012/01",
+      "value": 1885
+    },
+    {
+      "date": "2013/01",
+      "value": 1910
+    },
+    {
+      "date": "2014/01",
+      "value": 1935
+    },
+    {
+      "date": "2015/01",
+      "value": 1960
+    },
+    {
+      "date": "2016/01",
+      "value": 1985
+    },
+    {
+      "date": "2017/01",
+      "value": 2010
+    },
+    {
+      "date": "2018/01",
+      "value": 2035
+    },
+    {
+      "date": "2019/01",
+      "value": 2060
+    },
+    {
+      "date": "2020/01",
+      "value": 2050
+    },
+    {
+      "date": "2021/01",
+      "value": 2060
+    },
+    {
+      "date": "2022/01",
+      "value": 2085
+    },
+    {
+      "date": "2023/01",
+      "value": 2085
+    },
+    {
+      "date": "2024/01",
+      "value": 2110
+    }
+  ],
+  "aiSummary": "2.1 millones de maestros trabajan en México. El ratio es de 1 maestro por cada 26 alumnos en primaria, y 1 por cada 15 en preparatoria.",
+  "aiInsight": "Los maestros son la columna de la educación. Sin embargo, su salario promedio ($12,000/mes) está por debajo del promedio de la OCDE.",
+  "source": "INEGI - SEP",
+  "lastUpdate": "2025-01-15"
+}

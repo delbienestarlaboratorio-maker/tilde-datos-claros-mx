@@ -1,0 +1,270 @@
+{
+  "id": "confianza-consumidor",
+  "name": "Confianza del Consumidor",
+  "inegi_id": "5300000044",
+  "unit": "Índice base enero 2003=100",
+  "description": "Qué tan segura se siente la gente para comprar",
+  "lastValue": "47.2",
+  "lastDate": "2025/03",
+  "previousValue": "46.8",
+  "changePercent": 0.85,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 43.4
+    },
+    {
+      "date": "2020/02",
+      "value": 44.1
+    },
+    {
+      "date": "2020/03",
+      "value": 35.2
+    },
+    {
+      "date": "2020/04",
+      "value": 28.5
+    },
+    {
+      "date": "2020/05",
+      "value": 30.2
+    },
+    {
+      "date": "2020/06",
+      "value": 33.5
+    },
+    {
+      "date": "2020/07",
+      "value": 35.8
+    },
+    {
+      "date": "2020/08",
+      "value": 37.2
+    },
+    {
+      "date": "2020/09",
+      "value": 38.5
+    },
+    {
+      "date": "2020/10",
+      "value": 39.2
+    },
+    {
+      "date": "2020/11",
+      "value": 39.8
+    },
+    {
+      "date": "2020/12",
+      "value": 40.2
+    },
+    {
+      "date": "2021/01",
+      "value": 40.5
+    },
+    {
+      "date": "2021/02",
+      "value": 41.2
+    },
+    {
+      "date": "2021/03",
+      "value": 41.8
+    },
+    {
+      "date": "2021/04",
+      "value": 42.5
+    },
+    {
+      "date": "2021/05",
+      "value": 42.8
+    },
+    {
+      "date": "2021/06",
+      "value": 43.2
+    },
+    {
+      "date": "2021/07",
+      "value": 43.5
+    },
+    {
+      "date": "2021/08",
+      "value": 43.8
+    },
+    {
+      "date": "2021/09",
+      "value": 44.2
+    },
+    {
+      "date": "2021/10",
+      "value": 44.5
+    },
+    {
+      "date": "2021/11",
+      "value": 44.8
+    },
+    {
+      "date": "2021/12",
+      "value": 45.2
+    },
+    {
+      "date": "2022/01",
+      "value": 45.5
+    },
+    {
+      "date": "2022/02",
+      "value": 45.8
+    },
+    {
+      "date": "2022/03",
+      "value": 46.2
+    },
+    {
+      "date": "2022/04",
+      "value": 46.5
+    },
+    {
+      "date": "2022/05",
+      "value": 46.2
+    },
+    {
+      "date": "2022/06",
+      "value": 46.5
+    },
+    {
+      "date": "2022/07",
+      "value": 46.8
+    },
+    {
+      "date": "2022/08",
+      "value": 46.5
+    },
+    {
+      "date": "2022/09",
+      "value": 46.2
+    },
+    {
+      "date": "2022/10",
+      "value": 46.5
+    },
+    {
+      "date": "2022/11",
+      "value": 46.8
+    },
+    {
+      "date": "2022/12",
+      "value": 47.2
+    },
+    {
+      "date": "2023/01",
+      "value": 46.5
+    },
+    {
+      "date": "2023/02",
+      "value": 46.2
+    },
+    {
+      "date": "2023/03",
+      "value": 46.5
+    },
+    {
+      "date": "2023/04",
+      "value": 46.8
+    },
+    {
+      "date": "2023/05",
+      "value": 47.2
+    },
+    {
+      "date": "2023/06",
+      "value": 47.5
+    },
+    {
+      "date": "2023/07",
+      "value": 47.2
+    },
+    {
+      "date": "2023/08",
+      "value": 46.8
+    },
+    {
+      "date": "2023/09",
+      "value": 46.5
+    },
+    {
+      "date": "2023/10",
+      "value": 46.8
+    },
+    {
+      "date": "2023/11",
+      "value": 47.2
+    },
+    {
+      "date": "2023/12",
+      "value": 47.5
+    },
+    {
+      "date": "2024/01",
+      "value": 46.8
+    },
+    {
+      "date": "2024/02",
+      "value": 46.5
+    },
+    {
+      "date": "2024/03",
+      "value": 46.8
+    },
+    {
+      "date": "2024/04",
+      "value": 47.2
+    },
+    {
+      "date": "2024/05",
+      "value": 47.5
+    },
+    {
+      "date": "2024/06",
+      "value": 47.2
+    },
+    {
+      "date": "2024/07",
+      "value": 46.8
+    },
+    {
+      "date": "2024/08",
+      "value": 46.5
+    },
+    {
+      "date": "2024/09",
+      "value": 46.8
+    },
+    {
+      "date": "2024/10",
+      "value": 47.2
+    },
+    {
+      "date": "2024/11",
+      "value": 47.5
+    },
+    {
+      "date": "2024/12",
+      "value": 47.2
+    },
+    {
+      "date": "2025/01",
+      "value": 46.5
+    },
+    {
+      "date": "2025/02",
+      "value": 46.8
+    },
+    {
+      "date": "2025/03",
+      "value": 47.2
+    }
+  ],
+  "aiSummary": "La confianza del consumidor está en 47.2 puntos. Durante la pandemia cayó a 28 puntos pero se ha recuperado gradualmente. Cuando este índice sube, la gente se atreve a comprar más.",
+  "aiInsight": "Si el índice baja mucho, la gente deja de comprar cosas no esenciales como ropa, electrónicos o coches. Cuando sube, la economía se activa porque hay más ventas.",
+  "source": "INEGI - ENCO",
+  "lastUpdate": "2025-04-15"
+}

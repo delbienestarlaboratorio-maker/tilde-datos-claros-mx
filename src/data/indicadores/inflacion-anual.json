@@ -1,0 +1,246 @@
+{
+  "id": "inflacion-anual",
+  "name": "Inflación Anual",
+  "inegi_id": "628196",
+  "unit": "Porcentaje",
+  "description": "Cuánto subieron los precios en un año",
+  "lastValue": "3.80",
+  "lastDate": "2025/03",
+  "previousValue": "3.93",
+  "changePercent": -3.31,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 3.24
+    },
+    {
+      "date": "2020/02",
+      "value": 3.7
+    },
+    {
+      "date": "2020/03",
+      "value": 3.25
+    },
+    {
+      "date": "2020/04",
+      "value": 2.15
+    },
+    {
+      "date": "2020/05",
+      "value": 2.84
+    },
+    {
+      "date": "2020/06",
+      "value": 3.33
+    },
+    {
+      "date": "2020/07",
+      "value": 3.62
+    },
+    {
+      "date": "2020/08",
+      "value": 4.05
+    },
+    {
+      "date": "2020/09",
+      "value": 4.01
+    },
+    {
+      "date": "2020/10",
+      "value": 4.09
+    },
+    {
+      "date": "2020/11",
+      "value": 3.33
+    },
+    {
+      "date": "2020/12",
+      "value": 3.15
+    },
+    {
+      "date": "2021/01",
+      "value": 3.54
+    },
+    {
+      "date": "2021/02",
+      "value": 3.76
+    },
+    {
+      "date": "2021/03",
+      "value": 4.67
+    },
+    {
+      "date": "2021/04",
+      "value": 6.08
+    },
+    {
+      "date": "2021/05",
+      "value": 5.89
+    },
+    {
+      "date": "2021/06",
+      "value": 5.88
+    },
+    {
+      "date": "2021/07",
+      "value": 5.81
+    },
+    {
+      "date": "2021/08",
+      "value": 5.59
+    },
+    {
+      "date": "2021/09",
+      "value": 6
+    },
+    {
+      "date": "2021/10",
+      "value": 6.24
+    },
+    {
+      "date": "2021/11",
+      "value": 7.37
+    },
+    {
+      "date": "2021/12",
+      "value": 7.36
+    },
+    {
+      "date": "2022/01",
+      "value": 7.07
+    },
+    {
+      "date": "2022/02",
+      "value": 7.28
+    },
+    {
+      "date": "2022/03",
+      "value": 7.45
+    },
+    {
+      "date": "2022/04",
+      "value": 7.68
+    },
+    {
+      "date": "2022/05",
+      "value": 7.65
+    },
+    {
+      "date": "2022/06",
+      "value": 7.99
+    },
+    {
+      "date": "2022/07",
+      "value": 8.15
+    },
+    {
+      "date": "2022/08",
+      "value": 8.7
+    },
+    {
+      "date": "2022/09",
+      "value": 8.7
+    },
+    {
+      "date": "2022/10",
+      "value": 8.41
+    },
+    {
+      "date": "2022/11",
+      "value": 8.51
+    },
+    {
+      "date": "2022/12",
+      "value": 7.82
+    },
+    {
+      "date": "2023/01",
+      "value": 7.91
+    },
+    {
+      "date": "2023/02",
+      "value": 7.62
+    },
+    {
+      "date": "2023/03",
+      "value": 6.85
+    },
+    {
+      "date": "2023/04",
+      "value": 6.25
+    },
+    {
+      "date": "2023/05",
+      "value": 5.84
+    },
+    {
+      "date": "2023/06",
+      "value": 5.53
+    },
+    {
+      "date": "2023/07",
+      "value": 5.28
+    },
+    {
+      "date": "2023/08",
+      "value": 4.98
+    },
+    {
+      "date": "2023/09",
+      "value": 4.92
+    },
+    {
+      "date": "2023/10",
+      "value": 4.66
+    },
+    {
+      "date": "2023/11",
+      "value": 4.69
+    },
+    {
+      "date": "2023/12",
+      "value": 4.42
+    },
+    {
+      "date": "2024/01",
+      "value": 4.88
+    },
+    {
+      "date": "2024/02",
+      "value": 4.4
+    },
+    {
+      "date": "2024/03",
+      "value": 3.97
+    },
+    {
+      "date": "2024/04",
+      "value": 3.93
+    },
+    {
+      "date": "2024/05",
+      "value": 4.21
+    },
+    {
+      "date": "2024/06",
+      "value": 3.98
+    },
+    {
+      "date": "2024/07",
+      "value": 3.85
+    },
+    {
+      "date": "2024/08",
+      "value": 3.8
+    },
+    {
+      "date": "2024/09",
+      "value": 3.72
+    }
+  ],
+  "aiSummary": "La inflación anual bajó a 3.80%, acercándose al objetivo del Banco de México (3%). Hace dos años estaba arriba del 8%. Esto significa que los precios están subiendo más lentamente que antes.",
+  "aiInsight": "Cuando la inflación baja, tu sueldo rinde más. Si ganas lo mismo pero los precios suben menos, en la práctica estás ganando más poder de compra.",
+  "source": "INEGI - INPC",
+  "lastUpdate": "2025-04-10"
+}

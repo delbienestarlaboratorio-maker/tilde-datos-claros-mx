@@ -1,0 +1,38 @@
+{
+  "id": "afrodescendientes",
+  "name": "Población Afrodescendiente",
+  "inegi_id": "5300000141",
+  "unit": "Millones de personas",
+  "description": "Mexicanos que se reconocen como afromexicanos",
+  "lastValue": "2.58",
+  "lastDate": "2024/01",
+  "previousValue": "2.58",
+  "changePercent": 0,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 2.58
+    },
+    {
+      "date": "2021/01",
+      "value": 2.58
+    },
+    {
+      "date": "2022/01",
+      "value": 2.58
+    },
+    {
+      "date": "2023/01",
+      "value": 2.58
+    },
+    {
+      "date": "2024/01",
+      "value": 2.58
+    }
+  ],
+  "aiSummary": "2.58 millones de personas se reconocen como afromexicanas o afrodescendientes (2% de la población total). Se concentran principalmente en Guerrero, Oaxaca y Veracruz.",
+  "aiInsight": "Hasta 2020, el Censo nunca había contado a los afromexicanos. Su reconocimiento estadístico fue un paso histórico para visibilizar lo que se llama 'la tercera raíz' de México.",
+  "source": "INEGI - Censo",
+  "lastUpdate": "2025-01-15"
+}

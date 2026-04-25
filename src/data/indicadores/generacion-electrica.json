@@ -1,0 +1,78 @@
+{
+  "id": "generacion-electrica",
+  "name": "Generación de Electricidad",
+  "inegi_id": "5300000230",
+  "unit": "Teravatios-hora (TWh)",
+  "description": "Toda la luz producida anualmente",
+  "lastValue": "348.5",
+  "lastDate": "2024/01",
+  "previousValue": "338.2",
+  "changePercent": 3.05,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 280
+    },
+    {
+      "date": "2011/01",
+      "value": 285
+    },
+    {
+      "date": "2012/01",
+      "value": 290
+    },
+    {
+      "date": "2013/01",
+      "value": 295
+    },
+    {
+      "date": "2014/01",
+      "value": 302
+    },
+    {
+      "date": "2015/01",
+      "value": 310
+    },
+    {
+      "date": "2016/01",
+      "value": 318
+    },
+    {
+      "date": "2017/01",
+      "value": 322
+    },
+    {
+      "date": "2018/01",
+      "value": 328
+    },
+    {
+      "date": "2019/01",
+      "value": 332
+    },
+    {
+      "date": "2020/01",
+      "value": 320
+    },
+    {
+      "date": "2021/01",
+      "value": 325
+    },
+    {
+      "date": "2022/01",
+      "value": 330
+    },
+    {
+      "date": "2023/01",
+      "value": 338.2
+    },
+    {
+      "date": "2024/01",
+      "value": 348.5
+    }
+  ],
+  "aiSummary": "El país consumió y generó la cifra récord de 348.5 Teravatios-hora. El calor extremo (que hace que todos prendan el aire acondicionado) está poniendo al máximo el sistema eléctrico.",
+  "aiInsight": "La CFE (el gobierno) produce gran parte, pero las plantas privadas y los paneles solares de las fábricas ayudan a suplir la tremenda demanda de electricidad.",
+  "source": "CENACE / SENER",
+  "lastUpdate": "2025-02-15"
+}

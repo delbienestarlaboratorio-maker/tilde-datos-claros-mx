@@ -1,0 +1,86 @@
+{
+  "id": "gasto-hogar",
+  "name": "Gasto Promedio por Hogar",
+  "inegi_id": "1002000034",
+  "unit": "Pesos mensuales",
+  "description": "Cuánto gasta en promedio cada familia al mes",
+  "lastValue": "19,850",
+  "lastDate": "2024/01",
+  "previousValue": "18,200",
+  "changePercent": 9.07,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2008/01",
+      "value": 11200
+    },
+    {
+      "date": "2009/01",
+      "value": 10800
+    },
+    {
+      "date": "2010/01",
+      "value": 11200
+    },
+    {
+      "date": "2011/01",
+      "value": 11500
+    },
+    {
+      "date": "2012/01",
+      "value": 11800
+    },
+    {
+      "date": "2013/01",
+      "value": 12100
+    },
+    {
+      "date": "2014/01",
+      "value": 12400
+    },
+    {
+      "date": "2015/01",
+      "value": 12800
+    },
+    {
+      "date": "2016/01",
+      "value": 13200
+    },
+    {
+      "date": "2017/01",
+      "value": 13800
+    },
+    {
+      "date": "2018/01",
+      "value": 14200
+    },
+    {
+      "date": "2019/01",
+      "value": 14800
+    },
+    {
+      "date": "2020/01",
+      "value": 12800
+    },
+    {
+      "date": "2021/01",
+      "value": 14500
+    },
+    {
+      "date": "2022/01",
+      "value": 16500
+    },
+    {
+      "date": "2023/01",
+      "value": 18200
+    },
+    {
+      "date": "2024/01",
+      "value": 19850
+    }
+  ],
+  "aiSummary": "Las familias gastan en promedio $19,850 pesos al mes. El gasto más fuerte es en alimentación (35%), seguido de transporte (19%) y vivienda (10%).",
+  "aiInsight": "Si gastas más del 35% de tu ingreso en comida, dedicas más de lo ideal. Los expertos sugieren que alimentación no debería superar el 30% del ingreso familiar.",
+  "source": "INEGI - ENIGH",
+  "lastUpdate": "2025-01-15"
+}

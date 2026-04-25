@@ -1,0 +1,42 @@
+{
+  "id": "covid-acumulado",
+  "name": "COVID-19 Acumulado",
+  "inegi_id": "1002000031B",
+  "unit": "Miles de defunciones",
+  "description": "Total de muertes por COVID-19 en México",
+  "lastValue": "334",
+  "lastDate": "2025/01",
+  "previousValue": "334",
+  "changePercent": 0,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 148
+    },
+    {
+      "date": "2021/01",
+      "value": 301
+    },
+    {
+      "date": "2022/01",
+      "value": 330
+    },
+    {
+      "date": "2023/01",
+      "value": 333
+    },
+    {
+      "date": "2024/01",
+      "value": 334
+    },
+    {
+      "date": "2025/01",
+      "value": 334
+    }
+  ],
+  "aiSummary": "334 mil mexicanos murieron por COVID-19 (cifra oficial). El exceso de mortalidad sugiere que la cifra real podría ser de más de 600 mil. Fue la mayor emergencia sanitaria en un siglo.",
+  "aiInsight": "La pandemia cambió todo: aceleró el trabajo remoto, las compras en línea, la telemedicina y evidenció las carencias del sistema de salud mexicano.",
+  "source": "INEGI - Estadísticas Vitales / SS",
+  "lastUpdate": "2025-01-15"
+}

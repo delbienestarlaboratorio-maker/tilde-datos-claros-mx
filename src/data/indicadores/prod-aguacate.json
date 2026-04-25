@@ -1,0 +1,78 @@
+{
+  "id": "prod-aguacate",
+  "name": "Producción de Aguacate",
+  "inegi_id": "5300000131",
+  "unit": "Millones de toneladas",
+  "description": "El 'oro verde' de exportación",
+  "lastValue": "2.5",
+  "lastDate": "2024/01",
+  "previousValue": "2.4",
+  "changePercent": 4.17,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 1.1
+    },
+    {
+      "date": "2011/01",
+      "value": 1.2
+    },
+    {
+      "date": "2012/01",
+      "value": 1.3
+    },
+    {
+      "date": "2013/01",
+      "value": 1.4
+    },
+    {
+      "date": "2014/01",
+      "value": 1.5
+    },
+    {
+      "date": "2015/01",
+      "value": 1.6
+    },
+    {
+      "date": "2016/01",
+      "value": 1.8
+    },
+    {
+      "date": "2017/01",
+      "value": 2
+    },
+    {
+      "date": "2018/01",
+      "value": 2.1
+    },
+    {
+      "date": "2019/01",
+      "value": 2.3
+    },
+    {
+      "date": "2020/01",
+      "value": 2.3
+    },
+    {
+      "date": "2021/01",
+      "value": 2.4
+    },
+    {
+      "date": "2022/01",
+      "value": 2.4
+    },
+    {
+      "date": "2023/01",
+      "value": 2.4
+    },
+    {
+      "date": "2024/01",
+      "value": 2.5
+    }
+  ],
+  "aiSummary": "Se produjeron 2.5 millones de toneladas de aguacate, exportando la mayor parte a EUA. Michoacán y Jalisco dominan la producción.",
+  "aiInsight": "El aguacate genera más dólares para México que muchas industrias completas. El Super Bowl es la época del año donde todo EUA come aguacate mexicano.",
+  "source": "INEGI / SADER",
+  "lastUpdate": "2025-02-15"
+}

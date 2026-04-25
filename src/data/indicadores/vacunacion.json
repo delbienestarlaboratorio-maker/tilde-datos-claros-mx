@@ -1,0 +1,98 @@
+{
+  "id": "vacunacion",
+  "name": "Cobertura de Vacunación",
+  "inegi_id": "1002000029",
+  "unit": "Porcentaje de niños",
+  "description": "Niños con esquema de vacunación completo",
+  "lastValue": "78.5",
+  "lastDate": "2024/01",
+  "previousValue": "76.2",
+  "changePercent": 3.02,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 92
+    },
+    {
+      "date": "2006/01",
+      "value": 91.5
+    },
+    {
+      "date": "2007/01",
+      "value": 91
+    },
+    {
+      "date": "2008/01",
+      "value": 90.5
+    },
+    {
+      "date": "2009/01",
+      "value": 90
+    },
+    {
+      "date": "2010/01",
+      "value": 89.5
+    },
+    {
+      "date": "2011/01",
+      "value": 88.5
+    },
+    {
+      "date": "2012/01",
+      "value": 87.5
+    },
+    {
+      "date": "2013/01",
+      "value": 86.5
+    },
+    {
+      "date": "2014/01",
+      "value": 85.5
+    },
+    {
+      "date": "2015/01",
+      "value": 84.5
+    },
+    {
+      "date": "2016/01",
+      "value": 83.5
+    },
+    {
+      "date": "2017/01",
+      "value": 82.5
+    },
+    {
+      "date": "2018/01",
+      "value": 81.5
+    },
+    {
+      "date": "2019/01",
+      "value": 72
+    },
+    {
+      "date": "2020/01",
+      "value": 70.5
+    },
+    {
+      "date": "2021/01",
+      "value": 73.2
+    },
+    {
+      "date": "2022/01",
+      "value": 75.5
+    },
+    {
+      "date": "2023/01",
+      "value": 76.2
+    },
+    {
+      "date": "2024/01",
+      "value": 78.5
+    }
+  ],
+  "aiSummary": "Solo el 78.5% de los niños tiene su esquema de vacunación completo, cayendo desde el 92% en 2005. La pandemia afectó gravemente los programas de vacunación infantil.",
+  "aiInsight": "Si tienes hijos menores de 5 años, lleva su cartilla al día. Las vacunas protegen contra enfermedades graves como sarampión, difteria y polio.",
+  "source": "INEGI - SS",
+  "lastUpdate": "2025-01-15"
+}

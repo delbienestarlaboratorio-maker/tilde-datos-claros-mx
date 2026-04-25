@@ -1,0 +1,82 @@
+{
+  "id": "informalidad",
+  "name": "Tasa de Informalidad",
+  "inegi_id": "444612",
+  "unit": "Porcentaje",
+  "description": "Personas que trabajan sin seguro ni prestaciones",
+  "lastValue": "54.8",
+  "lastDate": "2025/01",
+  "previousValue": "55.2",
+  "changePercent": -0.72,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 59.3
+    },
+    {
+      "date": "2011/01",
+      "value": 59.1
+    },
+    {
+      "date": "2012/01",
+      "value": 59.4
+    },
+    {
+      "date": "2013/01",
+      "value": 58.8
+    },
+    {
+      "date": "2014/01",
+      "value": 57.9
+    },
+    {
+      "date": "2015/01",
+      "value": 57.2
+    },
+    {
+      "date": "2016/01",
+      "value": 57
+    },
+    {
+      "date": "2017/01",
+      "value": 56.6
+    },
+    {
+      "date": "2018/01",
+      "value": 56.1
+    },
+    {
+      "date": "2019/01",
+      "value": 56
+    },
+    {
+      "date": "2020/01",
+      "value": 55.6
+    },
+    {
+      "date": "2021/01",
+      "value": 56.2
+    },
+    {
+      "date": "2022/01",
+      "value": 55.8
+    },
+    {
+      "date": "2023/01",
+      "value": 55.5
+    },
+    {
+      "date": "2024/01",
+      "value": 55.2
+    },
+    {
+      "date": "2025/01",
+      "value": 54.8
+    }
+  ],
+  "aiSummary": "El 54.8% de los trabajadores en México no tiene seguro social ni prestaciones. Aunque ha bajado lentamente desde el 59% en 2010, más de la mitad de los trabajadores siguen en la informalidad.",
+  "aiInsight": "Si trabajas sin contrato, sin IMSS y sin aguinaldo, eres parte de la economía informal. Que este número baje significa que más personas están consiguiendo empleos formales con prestaciones.",
+  "source": "INEGI - ENOE",
+  "lastUpdate": "2025-03-15"
+}

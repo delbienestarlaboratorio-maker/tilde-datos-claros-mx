@@ -1,0 +1,78 @@
+{
+  "id": "localidades",
+  "name": "Total de Localidades",
+  "inegi_id": "5300000181",
+  "unit": "Miles de localidades",
+  "description": "Pueblos, comunidades apartadas y ciudades en todo el país",
+  "lastValue": "189",
+  "lastDate": "2024/01",
+  "previousValue": "188",
+  "changePercent": 0.53,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 192
+    },
+    {
+      "date": "2011/01",
+      "value": 192
+    },
+    {
+      "date": "2012/01",
+      "value": 192
+    },
+    {
+      "date": "2013/01",
+      "value": 192
+    },
+    {
+      "date": "2014/01",
+      "value": 192
+    },
+    {
+      "date": "2015/01",
+      "value": 192
+    },
+    {
+      "date": "2016/01",
+      "value": 192
+    },
+    {
+      "date": "2017/01",
+      "value": 192
+    },
+    {
+      "date": "2018/01",
+      "value": 192
+    },
+    {
+      "date": "2019/01",
+      "value": 192
+    },
+    {
+      "date": "2020/01",
+      "value": 189
+    },
+    {
+      "date": "2021/01",
+      "value": 189
+    },
+    {
+      "date": "2022/01",
+      "value": 189
+    },
+    {
+      "date": "2023/01",
+      "value": 188
+    },
+    {
+      "date": "2024/01",
+      "value": 189
+    }
+  ],
+  "aiSummary": "Existen 189,000 rancherías, pueblos locales y ciudades en México (geográficamente dispersas). Este es el trabajo maestro del INEGI en mapeo.",
+  "aiInsight": "A nivel geografía, México es uno de los países más 'dispersos'. Hay miles de 'localidades' donde las casas están clavadas en sierras y montañas a donde ni luz ni gobierno llegan.",
+  "source": "INEGI - Censo",
+  "lastUpdate": "2025-01-15"
+}

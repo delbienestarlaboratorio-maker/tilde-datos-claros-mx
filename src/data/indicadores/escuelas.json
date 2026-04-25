@@ -1,0 +1,118 @@
+{
+  "id": "escuelas",
+  "name": "Escuelas",
+  "inegi_id": "1002000040",
+  "unit": "Miles",
+  "description": "Total de escuelas en México",
+  "lastValue": "260.4",
+  "lastDate": "2024/01",
+  "previousValue": "258.5",
+  "changePercent": 0.74,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 218.5
+    },
+    {
+      "date": "2001/01",
+      "value": 220.2
+    },
+    {
+      "date": "2002/01",
+      "value": 222.5
+    },
+    {
+      "date": "2003/01",
+      "value": 224.8
+    },
+    {
+      "date": "2004/01",
+      "value": 227.2
+    },
+    {
+      "date": "2005/01",
+      "value": 229.5
+    },
+    {
+      "date": "2006/01",
+      "value": 232
+    },
+    {
+      "date": "2007/01",
+      "value": 234.5
+    },
+    {
+      "date": "2008/01",
+      "value": 237
+    },
+    {
+      "date": "2009/01",
+      "value": 239.5
+    },
+    {
+      "date": "2010/01",
+      "value": 242
+    },
+    {
+      "date": "2011/01",
+      "value": 244.2
+    },
+    {
+      "date": "2012/01",
+      "value": 246.5
+    },
+    {
+      "date": "2013/01",
+      "value": 248.8
+    },
+    {
+      "date": "2014/01",
+      "value": 250.5
+    },
+    {
+      "date": "2015/01",
+      "value": 252.2
+    },
+    {
+      "date": "2016/01",
+      "value": 254
+    },
+    {
+      "date": "2017/01",
+      "value": 255.8
+    },
+    {
+      "date": "2018/01",
+      "value": 257.2
+    },
+    {
+      "date": "2019/01",
+      "value": 258.5
+    },
+    {
+      "date": "2020/01",
+      "value": 256
+    },
+    {
+      "date": "2021/01",
+      "value": 257.5
+    },
+    {
+      "date": "2022/01",
+      "value": 258.5
+    },
+    {
+      "date": "2023/01",
+      "value": 258.5
+    },
+    {
+      "date": "2024/01",
+      "value": 260.4
+    }
+  ],
+  "aiSummary": "México tiene 260 mil escuelas, desde preescolar hasta universidad. El 83% son públicas y el 17% privadas. Las escuelas rurales representan más de la mitad.",
+  "aiInsight": "Aunque hay muchas escuelas, el reto es la calidad. Muchas escuelas rurales carecen de internet, sanitarios o materiales actualizados.",
+  "source": "INEGI - SEP",
+  "lastUpdate": "2025-01-15"
+}

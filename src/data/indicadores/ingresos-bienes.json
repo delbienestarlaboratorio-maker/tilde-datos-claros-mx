@@ -1,0 +1,82 @@
+{
+  "id": "ingresos-bienes",
+  "name": "Ingresos por Suministro de Bienes",
+  "inegi_id": "5300000046",
+  "unit": "Índice base 2018=100",
+  "description": "Dinero generado por la venta de productos",
+  "lastValue": "109.5",
+  "lastDate": "2025/01",
+  "previousValue": "107.8",
+  "changePercent": 1.58,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 75.2
+    },
+    {
+      "date": "2011/01",
+      "value": 78.5
+    },
+    {
+      "date": "2012/01",
+      "value": 82.1
+    },
+    {
+      "date": "2013/01",
+      "value": 86.5
+    },
+    {
+      "date": "2014/01",
+      "value": 90.2
+    },
+    {
+      "date": "2015/01",
+      "value": 93.8
+    },
+    {
+      "date": "2016/01",
+      "value": 96.5
+    },
+    {
+      "date": "2017/01",
+      "value": 98.2
+    },
+    {
+      "date": "2018/01",
+      "value": 100
+    },
+    {
+      "date": "2019/01",
+      "value": 98.5
+    },
+    {
+      "date": "2020/01",
+      "value": 88.2
+    },
+    {
+      "date": "2021/01",
+      "value": 96.5
+    },
+    {
+      "date": "2022/01",
+      "value": 100.8
+    },
+    {
+      "date": "2023/01",
+      "value": 104.5
+    },
+    {
+      "date": "2024/01",
+      "value": 107.8
+    },
+    {
+      "date": "2025/01",
+      "value": 109.5
+    }
+  ],
+  "aiSummary": "Los ingresos por venta de bienes son 9.5% superiores a 2018, con un crecimiento constante tras la caída de 2020. El comercio mexicano genera cada vez más dinero.",
+  "aiInsight": "Este indicador refleja la capacidad de compra de los mexicanos. Si sube, hay más consumo, lo que genera más empleo y más actividad económica en general.",
+  "source": "INEGI - EMEC",
+  "lastUpdate": "2025-03-15"
+}

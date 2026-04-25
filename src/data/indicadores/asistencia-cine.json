@@ -1,0 +1,58 @@
+{
+  "id": "asistencia-cine",
+  "name": "Asistencia al Cine",
+  "inegi_id": "5300000205",
+  "unit": "Millones de boletos",
+  "description": "Cuánta gente va la cine en México",
+  "lastValue": "235",
+  "lastDate": "2024/01",
+  "previousValue": "185",
+  "changePercent": 27.03,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 296
+    },
+    {
+      "date": "2016/01",
+      "value": 331
+    },
+    {
+      "date": "2017/01",
+      "value": 348
+    },
+    {
+      "date": "2018/01",
+      "value": 332
+    },
+    {
+      "date": "2019/01",
+      "value": 350
+    },
+    {
+      "date": "2020/01",
+      "value": 65
+    },
+    {
+      "date": "2021/01",
+      "value": 114
+    },
+    {
+      "date": "2022/01",
+      "value": 185
+    },
+    {
+      "date": "2023/01",
+      "value": 235
+    },
+    {
+      "date": "2024/01",
+      "value": 235
+    }
+  ],
+  "aiSummary": "Se vendieron 235 millones de boletos de cine. México es tradicionalmente uno de los top 5 países del mundo que más va al cine por sus precios muy baratos.",
+  "aiInsight": "El streaming (Netflix, Disney+) y los resagos de la pandemia cambiaron el negocio: los cines ahora viven de las palomitas y de ser un 'lugar para salir en citas', más que del boleto.",
+  "source": "CANACINE / INEGI",
+  "lastUpdate": "2025-02-15"
+}

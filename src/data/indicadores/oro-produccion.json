@@ -1,0 +1,98 @@
+{
+  "id": "oro-produccion",
+  "name": "Producción de Oro",
+  "inegi_id": "5300000082",
+  "unit": "Kilogramos",
+  "description": "Cuánto oro se saca de minas mexicanas",
+  "lastValue": "82,500",
+  "lastDate": "2024/12",
+  "previousValue": "85,200",
+  "changePercent": -3.17,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 30566
+    },
+    {
+      "date": "2006/01",
+      "value": 35089
+    },
+    {
+      "date": "2007/01",
+      "value": 39380
+    },
+    {
+      "date": "2008/01",
+      "value": 50764
+    },
+    {
+      "date": "2009/01",
+      "value": 62425
+    },
+    {
+      "date": "2010/01",
+      "value": 72596
+    },
+    {
+      "date": "2011/01",
+      "value": 88594
+    },
+    {
+      "date": "2012/01",
+      "value": 102960
+    },
+    {
+      "date": "2013/01",
+      "value": 119835
+    },
+    {
+      "date": "2014/01",
+      "value": 117207
+    },
+    {
+      "date": "2015/01",
+      "value": 135185
+    },
+    {
+      "date": "2016/01",
+      "value": 130536
+    },
+    {
+      "date": "2017/01",
+      "value": 122670
+    },
+    {
+      "date": "2018/01",
+      "value": 110134
+    },
+    {
+      "date": "2019/01",
+      "value": 111412
+    },
+    {
+      "date": "2020/01",
+      "value": 100891
+    },
+    {
+      "date": "2021/01",
+      "value": 97584
+    },
+    {
+      "date": "2022/01",
+      "value": 90230
+    },
+    {
+      "date": "2023/01",
+      "value": 85200
+    },
+    {
+      "date": "2024/01",
+      "value": 82500
+    }
+  ],
+  "aiSummary": "México produjo 82,500 kg de oro. Aunque la producción ha bajado desde el pico de 2015 (135 toneladas), seguimos entre los 10 mayores productores del mundo.",
+  "aiInsight": "El oro mexicano vale más de 5 mil millones de dólares al año. Sonora y Chihuahua concentran la mayor producción del país.",
+  "source": "INEGI - Industria Minerometalúrgica",
+  "lastUpdate": "2025-03-15"
+}

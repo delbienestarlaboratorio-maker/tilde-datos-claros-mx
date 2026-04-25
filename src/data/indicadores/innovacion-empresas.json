@@ -1,0 +1,58 @@
+{
+  "id": "innovacion-empresas",
+  "name": "Innovación en Empresas",
+  "inegi_id": "5300000102",
+  "unit": "Porcentaje de empresas",
+  "description": "Empresas que crearon productos o procesos nuevos",
+  "lastValue": "18.5",
+  "lastDate": "2024/01",
+  "previousValue": "17.2",
+  "changePercent": 7.55,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 10.5
+    },
+    {
+      "date": "2016/01",
+      "value": 11.2
+    },
+    {
+      "date": "2017/01",
+      "value": 12
+    },
+    {
+      "date": "2018/01",
+      "value": 13.5
+    },
+    {
+      "date": "2019/01",
+      "value": 14.8
+    },
+    {
+      "date": "2020/01",
+      "value": 12.5
+    },
+    {
+      "date": "2021/01",
+      "value": 14
+    },
+    {
+      "date": "2022/01",
+      "value": 15.5
+    },
+    {
+      "date": "2023/01",
+      "value": 17.2
+    },
+    {
+      "date": "2024/01",
+      "value": 18.5
+    }
+  ],
+  "aiSummary": "Solo 18.5% de las empresas en México reporta haber realizado alguna innovación. El desarrollo tecnológico propio en México sigue siendo muy bajo comparado con países desarrollados.",
+  "aiInsight": "México es excelente manufacturando tecnología inventada en otros países (teles, celulares, autos), pero inventamos y patentamos muy poco nosotros mismos.",
+  "source": "INEGI - ESIDET",
+  "lastUpdate": "2025-01-15"
+}

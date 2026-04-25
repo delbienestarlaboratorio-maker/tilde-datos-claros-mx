@@ -1,0 +1,238 @@
+{
+  "id": "mortalidad-infantil",
+  "name": "Mortalidad Infantil",
+  "inegi_id": "1002000012",
+  "unit": "Por cada 1,000 nacidos vivos",
+  "description": "Bebés menores de 1 año que no sobreviven",
+  "lastValue": "11.8",
+  "lastDate": "2024/01",
+  "previousValue": "12.1",
+  "changePercent": -2.48,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "1970/01",
+      "value": 79
+    },
+    {
+      "date": "1971/01",
+      "value": 72
+    },
+    {
+      "date": "1972/01",
+      "value": 65
+    },
+    {
+      "date": "1973/01",
+      "value": 58
+    },
+    {
+      "date": "1974/01",
+      "value": 52
+    },
+    {
+      "date": "1975/01",
+      "value": 47
+    },
+    {
+      "date": "1976/01",
+      "value": 43
+    },
+    {
+      "date": "1977/01",
+      "value": 39
+    },
+    {
+      "date": "1978/01",
+      "value": 36
+    },
+    {
+      "date": "1979/01",
+      "value": 33
+    },
+    {
+      "date": "1980/01",
+      "value": 30
+    },
+    {
+      "date": "1981/01",
+      "value": 28
+    },
+    {
+      "date": "1982/01",
+      "value": 26
+    },
+    {
+      "date": "1983/01",
+      "value": 24
+    },
+    {
+      "date": "1984/01",
+      "value": 22
+    },
+    {
+      "date": "1985/01",
+      "value": 20.5
+    },
+    {
+      "date": "1986/01",
+      "value": 19
+    },
+    {
+      "date": "1987/01",
+      "value": 18
+    },
+    {
+      "date": "1988/01",
+      "value": 17
+    },
+    {
+      "date": "1989/01",
+      "value": 16.5
+    },
+    {
+      "date": "1990/01",
+      "value": 16
+    },
+    {
+      "date": "1991/01",
+      "value": 15.5
+    },
+    {
+      "date": "1992/01",
+      "value": 15
+    },
+    {
+      "date": "1993/01",
+      "value": 14.8
+    },
+    {
+      "date": "1994/01",
+      "value": 14.5
+    },
+    {
+      "date": "1995/01",
+      "value": 14.2
+    },
+    {
+      "date": "1996/01",
+      "value": 14
+    },
+    {
+      "date": "1997/01",
+      "value": 13.8
+    },
+    {
+      "date": "1998/01",
+      "value": 13.5
+    },
+    {
+      "date": "1999/01",
+      "value": 13.2
+    },
+    {
+      "date": "2000/01",
+      "value": 13
+    },
+    {
+      "date": "2001/01",
+      "value": 12.8
+    },
+    {
+      "date": "2002/01",
+      "value": 12.5
+    },
+    {
+      "date": "2003/01",
+      "value": 12.3
+    },
+    {
+      "date": "2004/01",
+      "value": 12.1
+    },
+    {
+      "date": "2005/01",
+      "value": 12.1
+    },
+    {
+      "date": "2006/01",
+      "value": 12
+    },
+    {
+      "date": "2007/01",
+      "value": 12
+    },
+    {
+      "date": "2008/01",
+      "value": 12
+    },
+    {
+      "date": "2009/01",
+      "value": 12
+    },
+    {
+      "date": "2010/01",
+      "value": 12.5
+    },
+    {
+      "date": "2011/01",
+      "value": 12.3
+    },
+    {
+      "date": "2012/01",
+      "value": 12.2
+    },
+    {
+      "date": "2013/01",
+      "value": 12.1
+    },
+    {
+      "date": "2014/01",
+      "value": 12.1
+    },
+    {
+      "date": "2015/01",
+      "value": 12
+    },
+    {
+      "date": "2016/01",
+      "value": 12
+    },
+    {
+      "date": "2017/01",
+      "value": 12
+    },
+    {
+      "date": "2018/01",
+      "value": 12.1
+    },
+    {
+      "date": "2019/01",
+      "value": 11.8
+    },
+    {
+      "date": "2020/01",
+      "value": 11.8
+    },
+    {
+      "date": "2021/01",
+      "value": 11.8
+    },
+    {
+      "date": "2022/01",
+      "value": 11.8
+    },
+    {
+      "date": "2023/01",
+      "value": 11.8
+    },
+    {
+      "date": "2024/01",
+      "value": 11.8
+    }
+  ],
+  "aiSummary": "De cada 1,000 bebés nacidos, 11.8 no llegan al año de vida. En 1970 eran 79. Es una mejora enorme gracias a la vacunación y mejor atención médica.",
+  "aiInsight": "Aunque ha mejorado mucho, México aún está lejos de los mejores países (Finlandia: 1.8, Japón: 1.7). Las comunidades rurales e indígenas tienen las tasas más altas.",
+  "source": "INEGI - Estadísticas Vitales",
+  "lastUpdate": "2025-02-15"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "electricidad",
+  "name": "Viviendas con Electricidad",
+  "inegi_id": "6200240304",
+  "unit": "Porcentaje",
+  "description": "Casas con servicio de luz eléctrica",
+  "lastValue": "99.2",
+  "lastDate": "2024/01",
+  "previousValue": "99.1",
+  "changePercent": 0.1,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "1990/01",
+      "value": 87.5
+    },
+    {
+      "date": "1991/01",
+      "value": 88.5
+    },
+    {
+      "date": "1992/01",
+      "value": 89.5
+    },
+    {
+      "date": "1993/01",
+      "value": 90.5
+    },
+    {
+      "date": "1994/01",
+      "value": 91.5
+    },
+    {
+      "date": "1995/01",
+      "value": 92.5
+    },
+    {
+      "date": "1996/01",
+      "value": 93.5
+    },
+    {
+      "date": "1997/01",
+      "value": 94.5
+    },
+    {
+      "date": "1998/01",
+      "value": 95.5
+    },
+    {
+      "date": "1999/01",
+      "value": 96
+    },
+    {
+      "date": "2000/01",
+      "value": 96.5
+    },
+    {
+      "date": "2001/01",
+      "value": 97
+    },
+    {
+      "date": "2002/01",
+      "value": 97.5
+    },
+    {
+      "date": "2003/01",
+      "value": 97.8
+    },
+    {
+      "date": "2004/01",
+      "value": 98
+    },
+    {
+      "date": "2005/01",
+      "value": 98.2
+    },
+    {
+      "date": "2006/01",
+      "value": 98.4
+    },
+    {
+      "date": "2007/01",
+      "value": 98.5
+    },
+    {
+      "date": "2008/01",
+      "value": 98.6
+    },
+    {
+      "date": "2009/01",
+      "value": 98.7
+    },
+    {
+      "date": "2010/01",
+      "value": 98.8
+    },
+    {
+      "date": "2011/01",
+      "value": 98.8
+    },
+    {
+      "date": "2012/01",
+      "value": 98.9
+    },
+    {
+      "date": "2013/01",
+      "value": 99
+    },
+    {
+      "date": "2014/01",
+      "value": 99
+    },
+    {
+      "date": "2015/01",
+      "value": 99
+    },
+    {
+      "date": "2016/01",
+      "value": 99
+    },
+    {
+      "date": "2017/01",
+      "value": 99.1
+    },
+    {
+      "date": "2018/01",
+      "value": 99.1
+    },
+    {
+      "date": "2019/01",
+      "value": 99.1
+    },
+    {
+      "date": "2020/01",
+      "value": 99.1
+    },
+    {
+      "date": "2021/01",
+      "value": 99.1
+    },
+    {
+      "date": "2022/01",
+      "value": 99.1
+    },
+    {
+      "date": "2023/01",
+      "value": 99.1
+    },
+    {
+      "date": "2024/01",
+      "value": 99.2
+    }
+  ],
+  "aiSummary": "El 99.2% de las viviendas tiene electricidad, prácticamente cobertura universal. Las 300 mil casas sin luz están en comunidades extremadamente aisladas.",
+  "aiInsight": "La electrificación de México es uno de los mayores logros de infraestructura del siglo XX. Casi nadie vive sin luz eléctrica hoy en día.",
+  "source": "INEGI - Censo",
+  "lastUpdate": "2025-01-15"
+}

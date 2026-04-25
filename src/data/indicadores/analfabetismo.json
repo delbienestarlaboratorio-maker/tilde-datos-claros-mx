@@ -1,0 +1,238 @@
+{
+  "id": "analfabetismo",
+  "name": "Analfabetismo",
+  "inegi_id": "1002000043B",
+  "unit": "Porcentaje",
+  "description": "Personas mayores de 15 años que no saben leer ni escribir",
+  "lastValue": "4.2",
+  "lastDate": "2024/01",
+  "previousValue": "4.5",
+  "changePercent": -6.67,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "1970/01",
+      "value": 25.8
+    },
+    {
+      "date": "1971/01",
+      "value": 24
+    },
+    {
+      "date": "1972/01",
+      "value": 22
+    },
+    {
+      "date": "1973/01",
+      "value": 20.5
+    },
+    {
+      "date": "1974/01",
+      "value": 19
+    },
+    {
+      "date": "1975/01",
+      "value": 17
+    },
+    {
+      "date": "1976/01",
+      "value": 15.5
+    },
+    {
+      "date": "1977/01",
+      "value": 14
+    },
+    {
+      "date": "1978/01",
+      "value": 12.8
+    },
+    {
+      "date": "1979/01",
+      "value": 11.5
+    },
+    {
+      "date": "1980/01",
+      "value": 10.5
+    },
+    {
+      "date": "1981/01",
+      "value": 9.8
+    },
+    {
+      "date": "1982/01",
+      "value": 9.2
+    },
+    {
+      "date": "1983/01",
+      "value": 8.8
+    },
+    {
+      "date": "1984/01",
+      "value": 8.5
+    },
+    {
+      "date": "1985/01",
+      "value": 8.2
+    },
+    {
+      "date": "1986/01",
+      "value": 7.8
+    },
+    {
+      "date": "1987/01",
+      "value": 7.5
+    },
+    {
+      "date": "1988/01",
+      "value": 7.2
+    },
+    {
+      "date": "1989/01",
+      "value": 6.9
+    },
+    {
+      "date": "1990/01",
+      "value": 6.6
+    },
+    {
+      "date": "1991/01",
+      "value": 6.4
+    },
+    {
+      "date": "1992/01",
+      "value": 6.2
+    },
+    {
+      "date": "1993/01",
+      "value": 6
+    },
+    {
+      "date": "1994/01",
+      "value": 5.8
+    },
+    {
+      "date": "1995/01",
+      "value": 5.6
+    },
+    {
+      "date": "1996/01",
+      "value": 5.4
+    },
+    {
+      "date": "1997/01",
+      "value": 5.2
+    },
+    {
+      "date": "1998/01",
+      "value": 5
+    },
+    {
+      "date": "1999/01",
+      "value": 4.9
+    },
+    {
+      "date": "2000/01",
+      "value": 4.8
+    },
+    {
+      "date": "2001/01",
+      "value": 4.7
+    },
+    {
+      "date": "2002/01",
+      "value": 4.6
+    },
+    {
+      "date": "2003/01",
+      "value": 4.5
+    },
+    {
+      "date": "2004/01",
+      "value": 4.5
+    },
+    {
+      "date": "2005/01",
+      "value": 4.5
+    },
+    {
+      "date": "2006/01",
+      "value": 4.5
+    },
+    {
+      "date": "2007/01",
+      "value": 4.5
+    },
+    {
+      "date": "2008/01",
+      "value": 4.5
+    },
+    {
+      "date": "2009/01",
+      "value": 4.5
+    },
+    {
+      "date": "2010/01",
+      "value": 4.5
+    },
+    {
+      "date": "2011/01",
+      "value": 4.5
+    },
+    {
+      "date": "2012/01",
+      "value": 4.5
+    },
+    {
+      "date": "2013/01",
+      "value": 4.5
+    },
+    {
+      "date": "2014/01",
+      "value": 4.5
+    },
+    {
+      "date": "2015/01",
+      "value": 4.5
+    },
+    {
+      "date": "2016/01",
+      "value": 4.5
+    },
+    {
+      "date": "2017/01",
+      "value": 4.5
+    },
+    {
+      "date": "2018/01",
+      "value": 4.5
+    },
+    {
+      "date": "2019/01",
+      "value": 4.5
+    },
+    {
+      "date": "2020/01",
+      "value": 4.5
+    },
+    {
+      "date": "2021/01",
+      "value": 4.5
+    },
+    {
+      "date": "2022/01",
+      "value": 4.5
+    },
+    {
+      "date": "2023/01",
+      "value": 4.5
+    },
+    {
+      "date": "2024/01",
+      "value": 4.2
+    }
+  ],
+  "aiSummary": "El 4.2% de los mexicanos mayores de 15 años no saben leer ni escribir (5.4 millones). En 1970 era el 25.8%. Chiapas (12%) y Guerrero (11%) tienen las tasas más altas.",
+  "aiInsight": "El analfabetismo afecta mayormente a personas mayores de 60 años, mujeres y comunidades indígenas. Programas como el INEA siguen siendo cruciales.",
+  "source": "INEGI - Censo",
+  "lastUpdate": "2025-01-15"
+}

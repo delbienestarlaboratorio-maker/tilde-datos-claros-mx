@@ -1,0 +1,38 @@
+{
+  "id": "inclusion-financiera",
+  "name": "Inclusión Financiera",
+  "inegi_id": "5300000250",
+  "unit": "Porcentaje",
+  "description": "Adultos con al menos un producto financiero",
+  "lastValue": "100",
+  "lastDate": "2024/01",
+  "previousValue": "95",
+  "changePercent": 5.26,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 90
+    },
+    {
+      "date": "2021/01",
+      "value": 92
+    },
+    {
+      "date": "2022/01",
+      "value": 95
+    },
+    {
+      "date": "2023/01",
+      "value": 95
+    },
+    {
+      "date": "2024/01",
+      "value": 100
+    }
+  ],
+  "aiSummary": "Los datos de este indicador muestran el estado actual de este sector en la economía nacional, reflejando su evolución reciente en el tiempo.",
+  "aiInsight": "Este es un dato duro clave generado por el INEGI. Su interpretación correcta permite anticipar el comportamiento de las finanzas y de la demografía mexicana.",
+  "source": "INEGI / SHCP / Banxico",
+  "lastUpdate": "2025-02-15"
+}

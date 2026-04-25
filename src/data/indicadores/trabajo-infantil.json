@@ -1,0 +1,58 @@
+{
+  "id": "trabajo-infantil",
+  "name": "Trabajo Infantil",
+  "inegi_id": "5300000197",
+  "unit": "Millones de niñas/niños",
+  "description": "Menores de 15 años trabajando o menores de 18 en trabajos peligrosos",
+  "lastValue": "3.7",
+  "lastDate": "2024/01",
+  "previousValue": "3.3",
+  "changePercent": 12.12,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 2.5
+    },
+    {
+      "date": "2016/01",
+      "value": 2.7
+    },
+    {
+      "date": "2017/01",
+      "value": 3
+    },
+    {
+      "date": "2018/01",
+      "value": 3.1
+    },
+    {
+      "date": "2019/01",
+      "value": 3.2
+    },
+    {
+      "date": "2020/01",
+      "value": 3.3
+    },
+    {
+      "date": "2021/01",
+      "value": 3.8
+    },
+    {
+      "date": "2022/01",
+      "value": 3.5
+    },
+    {
+      "date": "2023/01",
+      "value": 3.3
+    },
+    {
+      "date": "2024/01",
+      "value": 3.7
+    }
+  ],
+  "aiSummary": "En México hay 3.7 millones de niñas, niños y adolescentes en situación de trabajo infantil. Muchos trabajan en el campo (jornaleros) o en comercio informal.",
+  "aiInsight": "El trabajo infantil priva a los niños de su educación y perpetúa el ciclo de pobreza de sus familias. Ha habido un ligero repunte desde la pandemia.",
+  "source": "INEGI - ENTI",
+  "lastUpdate": "2025-02-15"
+}

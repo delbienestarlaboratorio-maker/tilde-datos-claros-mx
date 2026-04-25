@@ -1,0 +1,78 @@
+{
+  "id": "pib-primario",
+  "name": "PIB Sector Primario",
+  "inegi_id": "6207067154",
+  "unit": "Millones de pesos",
+  "description": "Agricultura, ganadería y pesca",
+  "lastValue": "792,341",
+  "lastDate": "2024/04",
+  "previousValue": "768,150",
+  "changePercent": 3.15,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 420156
+    },
+    {
+      "date": "2011/01",
+      "value": 415890
+    },
+    {
+      "date": "2012/01",
+      "value": 445320
+    },
+    {
+      "date": "2013/01",
+      "value": 461200
+    },
+    {
+      "date": "2014/01",
+      "value": 478900
+    },
+    {
+      "date": "2015/01",
+      "value": 496500
+    },
+    {
+      "date": "2016/01",
+      "value": 512400
+    },
+    {
+      "date": "2017/01",
+      "value": 535600
+    },
+    {
+      "date": "2018/01",
+      "value": 558900
+    },
+    {
+      "date": "2019/01",
+      "value": 572300
+    },
+    {
+      "date": "2020/01",
+      "value": 591200
+    },
+    {
+      "date": "2021/01",
+      "value": 628400
+    },
+    {
+      "date": "2022/01",
+      "value": 678300
+    },
+    {
+      "date": "2023/01",
+      "value": 731500
+    },
+    {
+      "date": "2024/01",
+      "value": 792341
+    }
+  ],
+  "aiSummary": "El campo mexicano produjo más de 792 mil millones de pesos. La agricultura y ganadería crecieron 3.15%, señal de buenas cosechas y mayor producción ganadera.",
+  "aiInsight": "Cuando el campo produce más, los precios de alimentos tienden a ser más estables y hay más trabajo en zonas rurales.",
+  "source": "INEGI - PIB Trimestral",
+  "lastUpdate": "2025-03-15"
+}

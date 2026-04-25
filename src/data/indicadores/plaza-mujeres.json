@@ -1,0 +1,78 @@
+{
+  "id": "plaza-mujeres",
+  "name": "Participación Femenina",
+  "inegi_id": "5300000196",
+  "unit": "Porcentaje",
+  "description": "Mujeres en edad de trabajar que tienen o buscan empleo",
+  "lastValue": "46.2",
+  "lastDate": "2024/01",
+  "previousValue": "45.0",
+  "changePercent": 2.67,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 40.5
+    },
+    {
+      "date": "2011/01",
+      "value": 41.2
+    },
+    {
+      "date": "2012/01",
+      "value": 41.8
+    },
+    {
+      "date": "2013/01",
+      "value": 42.5
+    },
+    {
+      "date": "2014/01",
+      "value": 43.2
+    },
+    {
+      "date": "2015/01",
+      "value": 43.8
+    },
+    {
+      "date": "2016/01",
+      "value": 44.5
+    },
+    {
+      "date": "2017/01",
+      "value": 45.2
+    },
+    {
+      "date": "2018/01",
+      "value": 45.8
+    },
+    {
+      "date": "2019/01",
+      "value": 46
+    },
+    {
+      "date": "2020/01",
+      "value": 41.5
+    },
+    {
+      "date": "2021/01",
+      "value": 43.2
+    },
+    {
+      "date": "2022/01",
+      "value": 44.5
+    },
+    {
+      "date": "2023/01",
+      "value": 45
+    },
+    {
+      "date": "2024/01",
+      "value": 46.2
+    }
+  ],
+  "aiSummary": "Solo el 46.2% de las mujeres mexicanas participa en el mercado laboral formal o informal. El resto (53.8%) se dedica principalmente a labores del hogar no remuneradas.",
+  "aiInsight": "La participación laboral femenina en México es una de las más bajas de Latinoamérica. Mejorar esto requiere guarderías y un reparto más equitativo de las tareas del hogar.",
+  "source": "INEGI - ENOE",
+  "lastUpdate": "2025-02-15"
+}

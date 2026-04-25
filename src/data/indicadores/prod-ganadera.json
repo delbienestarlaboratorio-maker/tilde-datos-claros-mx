@@ -1,0 +1,78 @@
+{
+  "id": "prod-ganadera",
+  "name": "Producción de Carne",
+  "inegi_id": "5300000132",
+  "unit": "Millones de toneladas",
+  "description": "Suma de res, cerdo y ave",
+  "lastValue": "7.8",
+  "lastDate": "2024/01",
+  "previousValue": "7.6",
+  "changePercent": 2.63,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 5.5
+    },
+    {
+      "date": "2011/01",
+      "value": 5.7
+    },
+    {
+      "date": "2012/01",
+      "value": 5.8
+    },
+    {
+      "date": "2013/01",
+      "value": 6
+    },
+    {
+      "date": "2014/01",
+      "value": 6.1
+    },
+    {
+      "date": "2015/01",
+      "value": 6.2
+    },
+    {
+      "date": "2016/01",
+      "value": 6.4
+    },
+    {
+      "date": "2017/01",
+      "value": 6.6
+    },
+    {
+      "date": "2018/01",
+      "value": 6.8
+    },
+    {
+      "date": "2019/01",
+      "value": 7
+    },
+    {
+      "date": "2020/01",
+      "value": 7.2
+    },
+    {
+      "date": "2021/01",
+      "value": 7.3
+    },
+    {
+      "date": "2022/01",
+      "value": 7.5
+    },
+    {
+      "date": "2023/01",
+      "value": 7.6
+    },
+    {
+      "date": "2024/01",
+      "value": 7.8
+    }
+  ],
+  "aiSummary": "México produjo 7.8 millones de toneladas de carne, siendo la carne de ave (pollo) la más producida y consumida, ya que es la más barata.",
+  "aiInsight": "El consumo de carne por mexicano ha subido con los años. Exportamos carne premium (res) de Sonora, e importamos patas y muslos de pollo.",
+  "source": "INEGI / SADER",
+  "lastUpdate": "2025-02-15"
+}

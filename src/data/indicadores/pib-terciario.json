@@ -1,0 +1,78 @@
+{
+  "id": "pib-terciario",
+  "name": "PIB Sector Terciario",
+  "inegi_id": "6207067156",
+  "unit": "Millones de pesos",
+  "description": "Comercio y servicios",
+  "lastValue": "13,591,118",
+  "lastDate": "2024/04",
+  "previousValue": "13,343,566",
+  "changePercent": 1.85,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 7521800
+    },
+    {
+      "date": "2011/01",
+      "value": 7782100
+    },
+    {
+      "date": "2012/01",
+      "value": 8125600
+    },
+    {
+      "date": "2013/01",
+      "value": 8312400
+    },
+    {
+      "date": "2014/01",
+      "value": 8612500
+    },
+    {
+      "date": "2015/01",
+      "value": 8925600
+    },
+    {
+      "date": "2016/01",
+      "value": 9124500
+    },
+    {
+      "date": "2017/01",
+      "value": 9423800
+    },
+    {
+      "date": "2018/01",
+      "value": 9724500
+    },
+    {
+      "date": "2019/01",
+      "value": 9612300
+    },
+    {
+      "date": "2020/01",
+      "value": 8821500
+    },
+    {
+      "date": "2021/01",
+      "value": 9512400
+    },
+    {
+      "date": "2022/01",
+      "value": 10215600
+    },
+    {
+      "date": "2023/01",
+      "value": 11124500
+    },
+    {
+      "date": "2024/01",
+      "value": 13591118
+    }
+  ],
+  "aiSummary": "Los servicios y el comercio representan la mayor parte de la economía mexicana con más de 13.5 billones de pesos. El turismo, restaurantes, tiendas y servicios financieros siguen creciendo.",
+  "aiInsight": "Si trabajas en comercio, restaurantes, turismo o servicios, este sector es tu sector. Que crezca significa que hay más negocios abiertos y más demanda de empleados.",
+  "source": "INEGI - PIB Trimestral",
+  "lastUpdate": "2025-03-15"
+}

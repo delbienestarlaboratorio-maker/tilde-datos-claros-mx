@@ -1,0 +1,118 @@
+{
+  "id": "camas-hospitalarias",
+  "name": "Camas Hospitalarias",
+  "inegi_id": "1002000024",
+  "unit": "Por cada 1,000 hab",
+  "description": "Cuántas camas de hospital hay para atender enfermos",
+  "lastValue": "1.0",
+  "lastDate": "2024/01",
+  "previousValue": "1.0",
+  "changePercent": 0,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 1.1
+    },
+    {
+      "date": "2001/01",
+      "value": 1.1
+    },
+    {
+      "date": "2002/01",
+      "value": 1.1
+    },
+    {
+      "date": "2003/01",
+      "value": 1.1
+    },
+    {
+      "date": "2004/01",
+      "value": 1.1
+    },
+    {
+      "date": "2005/01",
+      "value": 1.1
+    },
+    {
+      "date": "2006/01",
+      "value": 1.1
+    },
+    {
+      "date": "2007/01",
+      "value": 1
+    },
+    {
+      "date": "2008/01",
+      "value": 1
+    },
+    {
+      "date": "2009/01",
+      "value": 1
+    },
+    {
+      "date": "2010/01",
+      "value": 1
+    },
+    {
+      "date": "2011/01",
+      "value": 1
+    },
+    {
+      "date": "2012/01",
+      "value": 1
+    },
+    {
+      "date": "2013/01",
+      "value": 1
+    },
+    {
+      "date": "2014/01",
+      "value": 1
+    },
+    {
+      "date": "2015/01",
+      "value": 1
+    },
+    {
+      "date": "2016/01",
+      "value": 1
+    },
+    {
+      "date": "2017/01",
+      "value": 1
+    },
+    {
+      "date": "2018/01",
+      "value": 1
+    },
+    {
+      "date": "2019/01",
+      "value": 1
+    },
+    {
+      "date": "2020/01",
+      "value": 0.9
+    },
+    {
+      "date": "2021/01",
+      "value": 0.9
+    },
+    {
+      "date": "2022/01",
+      "value": 1
+    },
+    {
+      "date": "2023/01",
+      "value": 1
+    },
+    {
+      "date": "2024/01",
+      "value": 1
+    }
+  ],
+  "aiSummary": "México tiene solo 1 cama de hospital por cada 1,000 habitantes. La OMS recomienda mínimo 3. Estamos muy por debajo de Alemania (8) y Japón (13).",
+  "aiInsight": "Si hay una emergencia de salud, no hay suficientes camas para todos. La pandemia evidenció esta carencia cuando los hospitales se saturaron.",
+  "source": "INEGI - Salud",
+  "lastUpdate": "2025-01-15"
+}

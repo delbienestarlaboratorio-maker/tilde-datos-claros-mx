@@ -1,0 +1,58 @@
+{
+  "id": "confianza-ine",
+  "name": "Confianza Institucional (INE)",
+  "inegi_id": "5300000212",
+  "unit": "Porcentaje",
+  "description": "Nivel de confianza ciudadana",
+  "lastValue": "73.2",
+  "lastDate": "2024/01",
+  "previousValue": "71.5",
+  "changePercent": 2.38,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 55.2
+    },
+    {
+      "date": "2016/01",
+      "value": 56.5
+    },
+    {
+      "date": "2017/01",
+      "value": 58
+    },
+    {
+      "date": "2018/01",
+      "value": 60.2
+    },
+    {
+      "date": "2019/01",
+      "value": 65.5
+    },
+    {
+      "date": "2020/01",
+      "value": 68.2
+    },
+    {
+      "date": "2021/01",
+      "value": 69.5
+    },
+    {
+      "date": "2022/01",
+      "value": 70.2
+    },
+    {
+      "date": "2023/01",
+      "value": 71.5
+    },
+    {
+      "date": "2024/01",
+      "value": 73.2
+    }
+  ],
+  "aiSummary": "El Instituto Nacional Electoral (INE) mantiene una de las confianzas ciudadanas más altas de todo el aparato estatal mexicano (73.2%), apenas por debajo de fuerzas armadas y universidades.",
+  "aiInsight": "Que el que 'cuenta' los votos sea el ciudadano común (tu vecino de casilla), aumenta masivamente la confianza comparado con los fraudes de los años 80.",
+  "source": "INE / ENCIG",
+  "lastUpdate": "2025-02-15"
+}

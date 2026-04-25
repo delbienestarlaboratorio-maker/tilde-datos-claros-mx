@@ -1,0 +1,58 @@
+{
+  "id": "salario-promedio",
+  "name": "Salario Promedio (IMSS)",
+  "inegi_id": "5300000198",
+  "unit": "Pesos mensuales",
+  "description": "Cuánto ganan en promedio los trabajadores formales en México",
+  "lastValue": "17,500",
+  "lastDate": "2024/01",
+  "previousValue": "16,200",
+  "changePercent": 8.02,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 8500
+    },
+    {
+      "date": "2016/01",
+      "value": 9200
+    },
+    {
+      "date": "2017/01",
+      "value": 9800
+    },
+    {
+      "date": "2018/01",
+      "value": 10500
+    },
+    {
+      "date": "2019/01",
+      "value": 11200
+    },
+    {
+      "date": "2020/01",
+      "value": 12100
+    },
+    {
+      "date": "2021/01",
+      "value": 13500
+    },
+    {
+      "date": "2022/01",
+      "value": 14800
+    },
+    {
+      "date": "2023/01",
+      "value": 16200
+    },
+    {
+      "date": "2024/01",
+      "value": 17500
+    }
+  ],
+  "aiSummary": "El salario base promedio de cotización ante el IMSS es de 17,500 pesos mensuales. Ha crecido mucho nominalmente, empujado por las alzas al salario mínimo.",
+  "aiInsight": "A pesar del aumento, casi el 50% de los trabajadores formales ganan menos de dos salarios mínimos mensuales.",
+  "source": "IMSS con datos INEGI",
+  "lastUpdate": "2025-02-15"
+}

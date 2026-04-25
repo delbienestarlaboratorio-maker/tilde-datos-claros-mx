@@ -1,0 +1,118 @@
+{
+  "id": "balanza-comercial",
+  "name": "Balanza Comercial",
+  "inegi_id": "5300000052",
+  "unit": "Millones de dólares",
+  "description": "Si vendimos más de lo que compramos (o al revés)",
+  "lastValue": "-11,813",
+  "lastDate": "2024/12",
+  "previousValue": "-13,183",
+  "changePercent": 10.39,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": -8003
+    },
+    {
+      "date": "2001/01",
+      "value": -9954
+    },
+    {
+      "date": "2002/01",
+      "value": -7633
+    },
+    {
+      "date": "2003/01",
+      "value": -5780
+    },
+    {
+      "date": "2004/01",
+      "value": -8811
+    },
+    {
+      "date": "2005/01",
+      "value": -7586
+    },
+    {
+      "date": "2006/01",
+      "value": -6133
+    },
+    {
+      "date": "2007/01",
+      "value": -10074
+    },
+    {
+      "date": "2008/01",
+      "value": -17260
+    },
+    {
+      "date": "2009/01",
+      "value": -4748
+    },
+    {
+      "date": "2010/01",
+      "value": 3177
+    },
+    {
+      "date": "2011/01",
+      "value": -1410
+    },
+    {
+      "date": "2012/01",
+      "value": -67
+    },
+    {
+      "date": "2013/01",
+      "value": -1021
+    },
+    {
+      "date": "2014/01",
+      "value": -3065
+    },
+    {
+      "date": "2015/01",
+      "value": -14460
+    },
+    {
+      "date": "2016/01",
+      "value": -13135
+    },
+    {
+      "date": "2017/01",
+      "value": -10875
+    },
+    {
+      "date": "2018/01",
+      "value": -13555
+    },
+    {
+      "date": "2019/01",
+      "value": -6018
+    },
+    {
+      "date": "2020/01",
+      "value": 34014
+    },
+    {
+      "date": "2021/01",
+      "value": -11491
+    },
+    {
+      "date": "2022/01",
+      "value": -26424
+    },
+    {
+      "date": "2023/01",
+      "value": -13183
+    },
+    {
+      "date": "2024/01",
+      "value": -11813
+    }
+  ],
+  "aiSummary": "México tuvo un déficit comercial de 11,813 millones de dólares: compramos más de lo que vendimos. Pero es menor que el año pasado, señal de mejoría.",
+  "aiInsight": "Un déficit no siempre es malo. Importamos muchas materias primas para fabricar productos que luego exportamos con mayor valor agregado.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "viviendas-total",
+  "name": "Total de Viviendas",
+  "inegi_id": "1002000014",
+  "unit": "Viviendas",
+  "description": "Casas habitadas en México",
+  "lastValue": "35,689,000",
+  "lastDate": "2024/01",
+  "previousValue": "35,316,000",
+  "changePercent": 1.06,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 21513000
+    },
+    {
+      "date": "2001/01",
+      "value": 22268000
+    },
+    {
+      "date": "2002/01",
+      "value": 23023000
+    },
+    {
+      "date": "2003/01",
+      "value": 23778000
+    },
+    {
+      "date": "2004/01",
+      "value": 24533000
+    },
+    {
+      "date": "2005/01",
+      "value": 24803000
+    },
+    {
+      "date": "2006/01",
+      "value": 25678000
+    },
+    {
+      "date": "2007/01",
+      "value": 26334000
+    },
+    {
+      "date": "2008/01",
+      "value": 27012000
+    },
+    {
+      "date": "2009/01",
+      "value": 27489000
+    },
+    {
+      "date": "2010/01",
+      "value": 28138000
+    },
+    {
+      "date": "2011/01",
+      "value": 28853000
+    },
+    {
+      "date": "2012/01",
+      "value": 29210000
+    },
+    {
+      "date": "2013/01",
+      "value": 29556000
+    },
+    {
+      "date": "2014/01",
+      "value": 29905000
+    },
+    {
+      "date": "2015/01",
+      "value": 30625000
+    },
+    {
+      "date": "2016/01",
+      "value": 31345000
+    },
+    {
+      "date": "2017/01",
+      "value": 31860000
+    },
+    {
+      "date": "2018/01",
+      "value": 32428000
+    },
+    {
+      "date": "2019/01",
+      "value": 33012000
+    },
+    {
+      "date": "2020/01",
+      "value": 33580000
+    },
+    {
+      "date": "2021/01",
+      "value": 34121000
+    },
+    {
+      "date": "2022/01",
+      "value": 34567000
+    },
+    {
+      "date": "2023/01",
+      "value": 35316000
+    },
+    {
+      "date": "2024/01",
+      "value": 35689000
+    }
+  ],
+  "aiSummary": "Hay más de 35.6 millones de viviendas habitadas en México. El número crece cada año, pero la demanda de vivienda sigue siendo mayor que la oferta, especialmente en ciudades grandes.",
+  "aiInsight": "Más casas construidas puede significar mejor acceso a vivienda. Pero el reto sigue siendo que muchas familias no tienen acceso a créditos hipotecarios o viven en condiciones precarias.",
+  "source": "INEGI - Censo y Encuestas de Vivienda",
+  "lastUpdate": "2024-06-15"
+}

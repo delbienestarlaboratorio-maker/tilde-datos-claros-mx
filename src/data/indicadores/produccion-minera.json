@@ -1,0 +1,98 @@
+{
+  "id": "produccion-minera",
+  "name": "Producción Minera",
+  "inegi_id": "5300000080",
+  "unit": "Índice base 2018=100",
+  "description": "Cuánto se extrae de las minas mexicanas",
+  "lastValue": "95.8",
+  "lastDate": "2024/12",
+  "previousValue": "98.2",
+  "changePercent": -2.44,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 78.2
+    },
+    {
+      "date": "2006/01",
+      "value": 82.5
+    },
+    {
+      "date": "2007/01",
+      "value": 85.2
+    },
+    {
+      "date": "2008/01",
+      "value": 88.5
+    },
+    {
+      "date": "2009/01",
+      "value": 80.2
+    },
+    {
+      "date": "2010/01",
+      "value": 85.5
+    },
+    {
+      "date": "2011/01",
+      "value": 90.2
+    },
+    {
+      "date": "2012/01",
+      "value": 95.5
+    },
+    {
+      "date": "2013/01",
+      "value": 98.2
+    },
+    {
+      "date": "2014/01",
+      "value": 100.5
+    },
+    {
+      "date": "2015/01",
+      "value": 102.8
+    },
+    {
+      "date": "2016/01",
+      "value": 105.2
+    },
+    {
+      "date": "2017/01",
+      "value": 108.5
+    },
+    {
+      "date": "2018/01",
+      "value": 100
+    },
+    {
+      "date": "2019/01",
+      "value": 98.5
+    },
+    {
+      "date": "2020/01",
+      "value": 92.5
+    },
+    {
+      "date": "2021/01",
+      "value": 95.8
+    },
+    {
+      "date": "2022/01",
+      "value": 98.5
+    },
+    {
+      "date": "2023/01",
+      "value": 98.2
+    },
+    {
+      "date": "2024/01",
+      "value": 95.8
+    }
+  ],
+  "aiSummary": "La producción minera bajó 2.4%, principalmente por menores precios internacionales y agotamiento de algunos yacimientos. México sigue siendo potencia minera mundial.",
+  "aiInsight": "México es el primer productor mundial de plata y está entre los top 10 en oro, cobre y zinc. La minería genera 380 mil empleos directos.",
+  "source": "INEGI - Industria Minerometalúrgica",
+  "lastUpdate": "2025-03-15"
+}

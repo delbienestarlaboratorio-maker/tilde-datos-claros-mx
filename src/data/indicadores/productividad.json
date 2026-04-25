@@ -1,0 +1,78 @@
+{
+  "id": "productividad",
+  "name": "Productividad Laboral",
+  "inegi_id": "5300000103",
+  "unit": "Índice base 2018=100",
+  "description": "Qué tanto se produce por cada hora trabajada",
+  "lastValue": "98.5",
+  "lastDate": "2024/12",
+  "previousValue": "97.2",
+  "changePercent": 1.33,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 88.5
+    },
+    {
+      "date": "2011/01",
+      "value": 90.2
+    },
+    {
+      "date": "2012/01",
+      "value": 92.5
+    },
+    {
+      "date": "2013/01",
+      "value": 94.8
+    },
+    {
+      "date": "2014/01",
+      "value": 96.5
+    },
+    {
+      "date": "2015/01",
+      "value": 98.2
+    },
+    {
+      "date": "2016/01",
+      "value": 99.5
+    },
+    {
+      "date": "2017/01",
+      "value": 100.8
+    },
+    {
+      "date": "2018/01",
+      "value": 100
+    },
+    {
+      "date": "2019/01",
+      "value": 98.5
+    },
+    {
+      "date": "2020/01",
+      "value": 85.2
+    },
+    {
+      "date": "2021/01",
+      "value": 92.5
+    },
+    {
+      "date": "2022/01",
+      "value": 95.8
+    },
+    {
+      "date": "2023/01",
+      "value": 97.2
+    },
+    {
+      "date": "2024/01",
+      "value": 98.5
+    }
+  ],
+  "aiSummary": "La productividad laboral lleva varios años estancada. Los mexicanos son los que más horas trabajan al año en la OCDE (2,128 hrs), pero no los que más producen.",
+  "aiInsight": "Trabajar muchas horas no es igual a ser productivo. Sin innovación, automatización y mejor capacitación, trabajar más duro no mejorará los salarios reales.",
+  "source": "INEGI - IGPL",
+  "lastUpdate": "2025-03-15"
+}

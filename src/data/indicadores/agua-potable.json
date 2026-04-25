@@ -1,0 +1,118 @@
+{
+  "id": "agua-potable",
+  "name": "Cobertura de Agua Potable",
+  "inegi_id": "6200240316",
+  "unit": "Porcentaje",
+  "description": "Hogares con acceso a agua potable",
+  "lastValue": "96.1",
+  "lastDate": "2024/01",
+  "previousValue": "95.8",
+  "changePercent": 0.31,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 84.3
+    },
+    {
+      "date": "2001/01",
+      "value": 85.1
+    },
+    {
+      "date": "2002/01",
+      "value": 85.8
+    },
+    {
+      "date": "2003/01",
+      "value": 86.5
+    },
+    {
+      "date": "2004/01",
+      "value": 87.2
+    },
+    {
+      "date": "2005/01",
+      "value": 87.9
+    },
+    {
+      "date": "2006/01",
+      "value": 88.5
+    },
+    {
+      "date": "2007/01",
+      "value": 89.2
+    },
+    {
+      "date": "2008/01",
+      "value": 89.8
+    },
+    {
+      "date": "2009/01",
+      "value": 90.4
+    },
+    {
+      "date": "2010/01",
+      "value": 91.1
+    },
+    {
+      "date": "2011/01",
+      "value": 91.6
+    },
+    {
+      "date": "2012/01",
+      "value": 92.1
+    },
+    {
+      "date": "2013/01",
+      "value": 92.5
+    },
+    {
+      "date": "2014/01",
+      "value": 93
+    },
+    {
+      "date": "2015/01",
+      "value": 93.4
+    },
+    {
+      "date": "2016/01",
+      "value": 93.8
+    },
+    {
+      "date": "2017/01",
+      "value": 94.2
+    },
+    {
+      "date": "2018/01",
+      "value": 94.6
+    },
+    {
+      "date": "2019/01",
+      "value": 95
+    },
+    {
+      "date": "2020/01",
+      "value": 95.3
+    },
+    {
+      "date": "2021/01",
+      "value": 95.5
+    },
+    {
+      "date": "2022/01",
+      "value": 95.7
+    },
+    {
+      "date": "2023/01",
+      "value": 95.8
+    },
+    {
+      "date": "2024/01",
+      "value": 96.1
+    }
+  ],
+  "aiSummary": "El 96.1% de los hogares mexicanos tienen acceso a agua potable, una mejora significativa desde el 84% en el año 2000. Sin embargo, tener acceso no siempre significa tener agua suficiente o de calidad.",
+  "aiInsight": "Que el agua llegue a tu casa no significa que sea potable. En muchas zonas el agua necesita ser filtrada o hervida. El 3.9% que no tiene acceso son principalmente comunidades rurales e indígenas.",
+  "source": "INEGI - Censos y encuestas",
+  "lastUpdate": "2024-06-15"
+}

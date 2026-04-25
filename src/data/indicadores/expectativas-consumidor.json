@@ -1,0 +1,62 @@
+{
+  "id": "expectativas-consumidor",
+  "name": "Expectativas del Consumidor",
+  "inegi_id": "5300000045",
+  "unit": "Índice",
+  "description": "Si la gente cree que la economía mejorará o empeorará",
+  "lastValue": "52.8",
+  "lastDate": "2025/03",
+  "previousValue": "51.5",
+  "changePercent": 2.52,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 38.5
+    },
+    {
+      "date": "2016/01",
+      "value": 36.2
+    },
+    {
+      "date": "2017/01",
+      "value": 37.8
+    },
+    {
+      "date": "2018/01",
+      "value": 42.5
+    },
+    {
+      "date": "2019/01",
+      "value": 46.2
+    },
+    {
+      "date": "2020/01",
+      "value": 32.5
+    },
+    {
+      "date": "2021/01",
+      "value": 42.8
+    },
+    {
+      "date": "2022/01",
+      "value": 46.5
+    },
+    {
+      "date": "2023/01",
+      "value": 48.2
+    },
+    {
+      "date": "2024/01",
+      "value": 51.5
+    },
+    {
+      "date": "2025/01",
+      "value": 52.8
+    }
+  ],
+  "aiSummary": "Las expectativas a futuro están en 52.8, el nivel más alto en años. Más de la mitad de la gente cree que la economía mejorará en los próximos 12 meses.",
+  "aiInsight": "Cuando la gente espera mejoría, gasta más e invierte más en sus negocios, lo que se convierte en una profecía autocumplida que realmente impulsa la economía.",
+  "source": "INEGI - ENCO",
+  "lastUpdate": "2025-04-15"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tiie",
+  "name": "Tasa TIIE",
+  "inegi_id": "5300000061",
+  "unit": "Porcentaje anual",
+  "description": "La tasa de interés de referencia en México",
+  "lastValue": "9.25",
+  "lastDate": "2025/03",
+  "previousValue": "10.00",
+  "changePercent": -7.5,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 4.91
+    },
+    {
+      "date": "2011/01",
+      "value": 4.78
+    },
+    {
+      "date": "2012/01",
+      "value": 4.79
+    },
+    {
+      "date": "2013/01",
+      "value": 3.8
+    },
+    {
+      "date": "2014/01",
+      "value": 3.31
+    },
+    {
+      "date": "2015/01",
+      "value": 3.32
+    },
+    {
+      "date": "2016/01",
+      "value": 5.41
+    },
+    {
+      "date": "2017/01",
+      "value": 7.37
+    },
+    {
+      "date": "2018/01",
+      "value": 8.28
+    },
+    {
+      "date": "2019/01",
+      "value": 8.47
+    },
+    {
+      "date": "2020/01",
+      "value": 5.28
+    },
+    {
+      "date": "2021/01",
+      "value": 5.72
+    },
+    {
+      "date": "2022/01",
+      "value": 9.25
+    },
+    {
+      "date": "2023/01",
+      "value": 11.5
+    },
+    {
+      "date": "2024/01",
+      "value": 11.25
+    },
+    {
+      "date": "2025/01",
+      "value": 9.25
+    }
+  ],
+  "aiSummary": "La tasa TIIE bajó a 9.25%, después de llegar a 11.50% en 2023. Cuando baja la tasa, los créditos se abaratan: hipotecas, tarjetas y préstamos cuestan menos intereses.",
+  "aiInsight": "Si estás pensando en pedir una hipoteca o un crédito automotriz, las tasas están bajando. Eso significa mensualidades más bajas que hace un año.",
+  "source": "INEGI / Banxico",
+  "lastUpdate": "2025-04-01"
+}

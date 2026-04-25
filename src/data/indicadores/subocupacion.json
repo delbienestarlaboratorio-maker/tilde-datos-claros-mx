@@ -1,0 +1,78 @@
+{
+  "id": "subocupacion",
+  "name": "Tasa de Subocupación",
+  "inegi_id": "5300000195",
+  "unit": "Porcentaje",
+  "description": "Personas que necesitan trabajar más horas pero no las consiguen",
+  "lastValue": "7.1",
+  "lastDate": "2024/01",
+  "previousValue": "7.5",
+  "changePercent": -5.33,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 8.2
+    },
+    {
+      "date": "2011/01",
+      "value": 8.5
+    },
+    {
+      "date": "2012/01",
+      "value": 8.1
+    },
+    {
+      "date": "2013/01",
+      "value": 7.8
+    },
+    {
+      "date": "2014/01",
+      "value": 7.5
+    },
+    {
+      "date": "2015/01",
+      "value": 7.2
+    },
+    {
+      "date": "2016/01",
+      "value": 7
+    },
+    {
+      "date": "2017/01",
+      "value": 6.8
+    },
+    {
+      "date": "2018/01",
+      "value": 6.8
+    },
+    {
+      "date": "2019/01",
+      "value": 6.5
+    },
+    {
+      "date": "2020/01",
+      "value": 15.5
+    },
+    {
+      "date": "2021/01",
+      "value": 11.2
+    },
+    {
+      "date": "2022/01",
+      "value": 8.5
+    },
+    {
+      "date": "2023/01",
+      "value": 7.5
+    },
+    {
+      "date": "2024/01",
+      "value": 7.1
+    }
+  ],
+  "aiSummary": "El 7.1% de los trabajadores está subocupado. Es decir, tienen trabajo, pero son de medio tiempo o por horas y necesitan trabajar más para que les alcance el dinero.",
+  "aiInsight": "La crisis del COVID en 2020 disparó la subocupación al 15.5% porque muchas empresas recortaron horarios y sueldos en lugar de despedir gente. Hoy ya se normalizó.",
+  "source": "INEGI - ENOE",
+  "lastUpdate": "2025-02-15"
+}

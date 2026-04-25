@@ -1,0 +1,78 @@
+{
+  "id": "coeficiente-gini",
+  "name": "Coeficiente de Gini",
+  "inegi_id": "5300000152",
+  "unit": "Índice (0-1)",
+  "description": "Nivel de desigualdad (más cerca de 1 es más desigual)",
+  "lastValue": "0.402",
+  "lastDate": "2024/01",
+  "previousValue": "0.415",
+  "changePercent": -3.13,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 0.47
+    },
+    {
+      "date": "2011/01",
+      "value": 0.468
+    },
+    {
+      "date": "2012/01",
+      "value": 0.465
+    },
+    {
+      "date": "2013/01",
+      "value": 0.462
+    },
+    {
+      "date": "2014/01",
+      "value": 0.458
+    },
+    {
+      "date": "2015/01",
+      "value": 0.455
+    },
+    {
+      "date": "2016/01",
+      "value": 0.45
+    },
+    {
+      "date": "2017/01",
+      "value": 0.448
+    },
+    {
+      "date": "2018/01",
+      "value": 0.445
+    },
+    {
+      "date": "2019/01",
+      "value": 0.435
+    },
+    {
+      "date": "2020/01",
+      "value": 0.415
+    },
+    {
+      "date": "2021/01",
+      "value": 0.41
+    },
+    {
+      "date": "2022/01",
+      "value": 0.408
+    },
+    {
+      "date": "2023/01",
+      "value": 0.405
+    },
+    {
+      "date": "2024/01",
+      "value": 0.402
+    }
+  ],
+  "aiSummary": "El índice Gini de México bajó a 0.402, el nivel de desigualdad más bajo desde que se tiene registro. Para contexto, Europa está en 0.30 y Sudáfrica en 0.63.",
+  "aiInsight": "La brecha salarial se ha reducido: el 10% más pobre vio crecer sus ingresos mucho más rápido que el 10% más rico en los últimos años.",
+  "source": "INEGI - ENIGH",
+  "lastUpdate": "2025-01-15"
+}

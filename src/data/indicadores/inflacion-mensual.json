@@ -1,0 +1,126 @@
+{
+  "id": "inflacion-mensual",
+  "name": "Inflación Mensual",
+  "inegi_id": "628195",
+  "unit": "Porcentaje",
+  "description": "Cuánto subieron los precios este mes",
+  "lastValue": "0.43",
+  "lastDate": "2025/03",
+  "previousValue": "0.31",
+  "changePercent": 38.71,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2023/01",
+      "value": 0.68
+    },
+    {
+      "date": "2023/02",
+      "value": 0.56
+    },
+    {
+      "date": "2023/03",
+      "value": 0.27
+    },
+    {
+      "date": "2023/04",
+      "value": 0.02
+    },
+    {
+      "date": "2023/05",
+      "value": -0.22
+    },
+    {
+      "date": "2023/06",
+      "value": 0.1
+    },
+    {
+      "date": "2023/07",
+      "value": 0.48
+    },
+    {
+      "date": "2023/08",
+      "value": 0.55
+    },
+    {
+      "date": "2023/09",
+      "value": 0.44
+    },
+    {
+      "date": "2023/10",
+      "value": 0.38
+    },
+    {
+      "date": "2023/11",
+      "value": 0.32
+    },
+    {
+      "date": "2023/12",
+      "value": 0.46
+    },
+    {
+      "date": "2024/01",
+      "value": 0.49
+    },
+    {
+      "date": "2024/02",
+      "value": 0.42
+    },
+    {
+      "date": "2024/03",
+      "value": 0.29
+    },
+    {
+      "date": "2024/04",
+      "value": 0.09
+    },
+    {
+      "date": "2024/05",
+      "value": -0.19
+    },
+    {
+      "date": "2024/06",
+      "value": 0.15
+    },
+    {
+      "date": "2024/07",
+      "value": 0.51
+    },
+    {
+      "date": "2024/08",
+      "value": 0.42
+    },
+    {
+      "date": "2024/09",
+      "value": 0.37
+    },
+    {
+      "date": "2024/10",
+      "value": 0.25
+    },
+    {
+      "date": "2024/11",
+      "value": 0.31
+    },
+    {
+      "date": "2024/12",
+      "value": 0.34
+    },
+    {
+      "date": "2025/01",
+      "value": 0.43
+    },
+    {
+      "date": "2025/02",
+      "value": 0.39
+    },
+    {
+      "date": "2025/03",
+      "value": 0.28
+    }
+  ],
+  "aiSummary": "Los precios subieron 0.43% en marzo 2025 respecto a febrero. Es un aumento moderado, dentro del rango normal. En algunos meses los precios incluso bajaron (como mayo, con -0.22%).",
+  "aiInsight": "Una inflación mensual entre 0.2% y 0.5% es normal. Si ves que sube por encima de 1% en un mes, es señal de que algo está encareciendo rápidamente, como gasolina o alimentos.",
+  "source": "INEGI - INPC",
+  "lastUpdate": "2025-04-10"
+}

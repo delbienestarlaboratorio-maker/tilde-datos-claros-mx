@@ -1,0 +1,70 @@
+{
+  "id": "padron-electoral",
+  "name": "Padrón Electoral",
+  "inegi_id": "5300000210",
+  "unit": "Millones de personas",
+  "description": "Total de mexicanos con INE listos para votar",
+  "lastValue": "98.5",
+  "lastDate": "2024/01",
+  "previousValue": "96.2",
+  "changePercent": 2.39,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2012/01",
+      "value": 79.5
+    },
+    {
+      "date": "2013/01",
+      "value": 80.2
+    },
+    {
+      "date": "2014/01",
+      "value": 81.5
+    },
+    {
+      "date": "2015/01",
+      "value": 83
+    },
+    {
+      "date": "2016/01",
+      "value": 85.2
+    },
+    {
+      "date": "2017/01",
+      "value": 87.5
+    },
+    {
+      "date": "2018/01",
+      "value": 89.3
+    },
+    {
+      "date": "2019/01",
+      "value": 90.5
+    },
+    {
+      "date": "2020/01",
+      "value": 92.8
+    },
+    {
+      "date": "2021/01",
+      "value": 94.5
+    },
+    {
+      "date": "2022/01",
+      "value": 95.6
+    },
+    {
+      "date": "2023/01",
+      "value": 96.2
+    },
+    {
+      "date": "2024/01",
+      "value": 98.5
+    }
+  ],
+  "aiSummary": "Actualmente 98.5 millones de mexicanos tienen su 'INE' vigente y pueden votar. Es una de las bases de datos biométricas (huellas y fotos) más grandes del mundo.",
+  "aiInsight": "En México la credencial de elector se usa para absolutamente todo en el día a día (ir al banco, entrar a un edificio), lo que mantiene al padrón impresionantemente actualizado.",
+  "source": "INE",
+  "lastUpdate": "2025-02-15"
+}

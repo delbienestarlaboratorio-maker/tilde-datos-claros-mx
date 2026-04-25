@@ -1,0 +1,78 @@
+{
+  "id": "hogares-computadora",
+  "name": "Hogares con Computadora",
+  "inegi_id": "5300000112",
+  "unit": "Porcentaje de hogares",
+  "description": "De cada 100 casas, cuántas tienen PC o laptop",
+  "lastValue": "43.5",
+  "lastDate": "2024/01",
+  "previousValue": "44.8",
+  "changePercent": -2.9,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 29.8
+    },
+    {
+      "date": "2011/01",
+      "value": 30
+    },
+    {
+      "date": "2012/01",
+      "value": 32.2
+    },
+    {
+      "date": "2013/01",
+      "value": 35.8
+    },
+    {
+      "date": "2014/01",
+      "value": 38.3
+    },
+    {
+      "date": "2015/01",
+      "value": 44.9
+    },
+    {
+      "date": "2016/01",
+      "value": 45.6
+    },
+    {
+      "date": "2017/01",
+      "value": 45.4
+    },
+    {
+      "date": "2018/01",
+      "value": 44.9
+    },
+    {
+      "date": "2019/01",
+      "value": 44.3
+    },
+    {
+      "date": "2020/01",
+      "value": 44.2
+    },
+    {
+      "date": "2021/01",
+      "value": 44.8
+    },
+    {
+      "date": "2022/01",
+      "value": 44.2
+    },
+    {
+      "date": "2023/01",
+      "value": 44
+    },
+    {
+      "date": "2024/01",
+      "value": 43.5
+    }
+  ],
+  "aiSummary": "Solo el 43.5% de los hogares tiene computadora, una cifra que lleva años cayendo o estancada. La gente prefiere tener un buen smartphone que una computadora.",
+  "aiInsight": "Aunque el celular sirve para consultar internet, la falta de computadora en casa es una desventaja enorme para los estudiantes a la hora de hacer tareas complejas o programar.",
+  "source": "INEGI - ENDUTIH",
+  "lastUpdate": "2025-01-15"
+}

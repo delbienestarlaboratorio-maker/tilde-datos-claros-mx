@@ -1,0 +1,118 @@
+{
+  "id": "socios-comerciales",
+  "name": "Comercio con EUA",
+  "inegi_id": "5300000056",
+  "unit": "Porcentaje del total",
+  "description": "Cuánto de nuestro comercio es con Estados Unidos",
+  "lastValue": "83.5",
+  "lastDate": "2024/12",
+  "previousValue": "82.8",
+  "changePercent": 0.85,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 80.7
+    },
+    {
+      "date": "2001/01",
+      "value": 78.6
+    },
+    {
+      "date": "2002/01",
+      "value": 78.2
+    },
+    {
+      "date": "2003/01",
+      "value": 77.5
+    },
+    {
+      "date": "2004/01",
+      "value": 77.8
+    },
+    {
+      "date": "2005/01",
+      "value": 79.5
+    },
+    {
+      "date": "2006/01",
+      "value": 80.2
+    },
+    {
+      "date": "2007/01",
+      "value": 80.5
+    },
+    {
+      "date": "2008/01",
+      "value": 80.1
+    },
+    {
+      "date": "2009/01",
+      "value": 79.8
+    },
+    {
+      "date": "2010/01",
+      "value": 80.2
+    },
+    {
+      "date": "2011/01",
+      "value": 80.5
+    },
+    {
+      "date": "2012/01",
+      "value": 80.8
+    },
+    {
+      "date": "2013/01",
+      "value": 80.5
+    },
+    {
+      "date": "2014/01",
+      "value": 80.2
+    },
+    {
+      "date": "2015/01",
+      "value": 81.2
+    },
+    {
+      "date": "2016/01",
+      "value": 81.5
+    },
+    {
+      "date": "2017/01",
+      "value": 81.8
+    },
+    {
+      "date": "2018/01",
+      "value": 82.2
+    },
+    {
+      "date": "2019/01",
+      "value": 82.5
+    },
+    {
+      "date": "2020/01",
+      "value": 82.8
+    },
+    {
+      "date": "2021/01",
+      "value": 82.5
+    },
+    {
+      "date": "2022/01",
+      "value": 82.2
+    },
+    {
+      "date": "2023/01",
+      "value": 82.8
+    },
+    {
+      "date": "2024/01",
+      "value": 83.5
+    }
+  ],
+  "aiSummary": "El 83.5% de todo lo que exporta México va a Estados Unidos. Somos su socio comercial #1, superando a China y Canadá. Esta relación comercial es la más importante para nuestra economía.",
+  "aiInsight": "Que el 83% de nuestro comercio sea con EUA es bueno por el volumen, pero riesgoso por la dependencia. Si la economía gringa se desacelera, México lo siente directo.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

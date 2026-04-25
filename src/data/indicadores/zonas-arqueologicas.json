@@ -1,0 +1,58 @@
+{
+  "id": "zonas-arqueologicas",
+  "name": "Zonas Arqueológicas",
+  "inegi_id": "5300000204",
+  "unit": "Millones de visitas",
+  "description": "Visitas a Teotihuacán, Chichén Itzá, etc.",
+  "lastValue": "18.2",
+  "lastDate": "2024/01",
+  "previousValue": "15.5",
+  "changePercent": 17.42,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 24.5
+    },
+    {
+      "date": "2016/01",
+      "value": 25.8
+    },
+    {
+      "date": "2017/01",
+      "value": 26.5
+    },
+    {
+      "date": "2018/01",
+      "value": 27.2
+    },
+    {
+      "date": "2019/01",
+      "value": 28
+    },
+    {
+      "date": "2020/01",
+      "value": 6.5
+    },
+    {
+      "date": "2021/01",
+      "value": 8.2
+    },
+    {
+      "date": "2022/01",
+      "value": 12.5
+    },
+    {
+      "date": "2023/01",
+      "value": 15.5
+    },
+    {
+      "date": "2024/01",
+      "value": 18.2
+    }
+  ],
+  "aiSummary": "Cerca de 18.2 millones de personas visitaron las zonas arqueológicas gestionadas por el INAH. Teotihuacán en el centro y Chichén Itzá en el sureste dominan el ranking.",
+  "aiInsight": "Gran parte de estas visitas dependen del turismo extranjero. El Tren Maya busca aumentar masivamente las visitas a zonas más alejadas como Palenque o Calakmul.",
+  "source": "INAH / INEGI",
+  "lastUpdate": "2025-02-15"
+}

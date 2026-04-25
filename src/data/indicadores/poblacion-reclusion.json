@@ -1,0 +1,118 @@
+{
+  "id": "poblacion-reclusion",
+  "name": "Población en Reclusión",
+  "inegi_id": "1002000062",
+  "unit": "Miles de personas",
+  "description": "Cuántas personas están en prisión",
+  "lastValue": "225",
+  "lastDate": "2024/01",
+  "previousValue": "220",
+  "changePercent": 2.27,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 154
+    },
+    {
+      "date": "2001/01",
+      "value": 160
+    },
+    {
+      "date": "2002/01",
+      "value": 172
+    },
+    {
+      "date": "2003/01",
+      "value": 182
+    },
+    {
+      "date": "2004/01",
+      "value": 193
+    },
+    {
+      "date": "2005/01",
+      "value": 205
+    },
+    {
+      "date": "2006/01",
+      "value": 210
+    },
+    {
+      "date": "2007/01",
+      "value": 212
+    },
+    {
+      "date": "2008/01",
+      "value": 220
+    },
+    {
+      "date": "2009/01",
+      "value": 224
+    },
+    {
+      "date": "2010/01",
+      "value": 226
+    },
+    {
+      "date": "2011/01",
+      "value": 230
+    },
+    {
+      "date": "2012/01",
+      "value": 242
+    },
+    {
+      "date": "2013/01",
+      "value": 246
+    },
+    {
+      "date": "2014/01",
+      "value": 252
+    },
+    {
+      "date": "2015/01",
+      "value": 255
+    },
+    {
+      "date": "2016/01",
+      "value": 210
+    },
+    {
+      "date": "2017/01",
+      "value": 205
+    },
+    {
+      "date": "2018/01",
+      "value": 208
+    },
+    {
+      "date": "2019/01",
+      "value": 212
+    },
+    {
+      "date": "2020/01",
+      "value": 200
+    },
+    {
+      "date": "2021/01",
+      "value": 205
+    },
+    {
+      "date": "2022/01",
+      "value": 210
+    },
+    {
+      "date": "2023/01",
+      "value": 220
+    },
+    {
+      "date": "2024/01",
+      "value": 225
+    }
+  ],
+  "aiSummary": "225 mil personas están en prisión en México. El 40% aún no tiene sentencia (están en espera de juicio). Las cárceles operan al 103% de su capacidad.",
+  "aiInsight": "Si alguien que conoces está preso sin sentencia, tiene derecho a un abogado defensor gratuito. El 40% sin sentencia refleja un sistema de justicia lento.",
+  "source": "INEGI - Censo de Gobierno",
+  "lastUpdate": "2025-01-15"
+}

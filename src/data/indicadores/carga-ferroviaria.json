@@ -1,0 +1,78 @@
+{
+  "id": "carga-ferroviaria",
+  "name": "Carga Ferroviaria",
+  "inegi_id": "5300000122",
+  "unit": "Millones de toneladas",
+  "description": "Mercancía transportada en tren",
+  "lastValue": "135.5",
+  "lastDate": "2024/01",
+  "previousValue": "128.2",
+  "changePercent": 5.69,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 105
+    },
+    {
+      "date": "2011/01",
+      "value": 110
+    },
+    {
+      "date": "2012/01",
+      "value": 115
+    },
+    {
+      "date": "2013/01",
+      "value": 118
+    },
+    {
+      "date": "2014/01",
+      "value": 120
+    },
+    {
+      "date": "2015/01",
+      "value": 122
+    },
+    {
+      "date": "2016/01",
+      "value": 125
+    },
+    {
+      "date": "2017/01",
+      "value": 127
+    },
+    {
+      "date": "2018/01",
+      "value": 128
+    },
+    {
+      "date": "2019/01",
+      "value": 125
+    },
+    {
+      "date": "2020/01",
+      "value": 119
+    },
+    {
+      "date": "2021/01",
+      "value": 122
+    },
+    {
+      "date": "2022/01",
+      "value": 125
+    },
+    {
+      "date": "2023/01",
+      "value": 128.2
+    },
+    {
+      "date": "2024/01",
+      "value": 135.5
+    }
+  ],
+  "aiSummary": "Los trenes movieron 135.5 millones de toneladas de carga. Los trenes en México mueven mercancías pesadas: granos agrícolas, minerales y autopartes.",
+  "aiInsight": "Mover carga en tren es mucho más barato y contamina menos que usar tráilers. El sector automotriz depende absolutamente del tren para exportar a EUA.",
+  "source": "INEGI / SICT",
+  "lastUpdate": "2025-01-15"
+}

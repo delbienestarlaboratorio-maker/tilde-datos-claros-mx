@@ -1,0 +1,78 @@
+{
+  "id": "pib-secundario",
+  "name": "PIB Sector Secundario",
+  "inegi_id": "6207067155",
+  "unit": "Millones de pesos",
+  "description": "Industria y manufactura",
+  "lastValue": "5,891,420",
+  "lastDate": "2024/04",
+  "previousValue": "5,712,800",
+  "changePercent": 3.12,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 3215600
+    },
+    {
+      "date": "2011/01",
+      "value": 3298400
+    },
+    {
+      "date": "2012/01",
+      "value": 3412500
+    },
+    {
+      "date": "2013/01",
+      "value": 3489200
+    },
+    {
+      "date": "2014/01",
+      "value": 3612300
+    },
+    {
+      "date": "2015/01",
+      "value": 3724500
+    },
+    {
+      "date": "2016/01",
+      "value": 3798600
+    },
+    {
+      "date": "2017/01",
+      "value": 3901200
+    },
+    {
+      "date": "2018/01",
+      "value": 4025800
+    },
+    {
+      "date": "2019/01",
+      "value": 3889500
+    },
+    {
+      "date": "2020/01",
+      "value": 3592100
+    },
+    {
+      "date": "2021/01",
+      "value": 3928400
+    },
+    {
+      "date": "2022/01",
+      "value": 4312500
+    },
+    {
+      "date": "2023/01",
+      "value": 4689200
+    },
+    {
+      "date": "2024/01",
+      "value": 5891420
+    }
+  ],
+  "aiSummary": "La industria mexicana generó casi 5.9 billones de pesos, con un crecimiento del 3.12%. La manufactura sigue siendo uno de los motores más fuertes de la economía, impulsada por el nearshoring.",
+  "aiInsight": "Más producción industrial significa más empleos en fábricas, mejores exportaciones y más inversión extranjera en México.",
+  "source": "INEGI - PIB Trimestral",
+  "lastUpdate": "2025-03-15"
+}

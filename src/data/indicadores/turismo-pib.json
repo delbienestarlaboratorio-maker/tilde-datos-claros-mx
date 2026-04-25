@@ -1,0 +1,78 @@
+{
+  "id": "turismo-pib",
+  "name": "Turismo como % del PIB",
+  "inegi_id": "5300000074",
+  "unit": "Porcentaje",
+  "description": "Cuánto del dinero del país viene del turismo",
+  "lastValue": "8.5",
+  "lastDate": "2024/12",
+  "previousValue": "7.9",
+  "changePercent": 7.59,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 8
+    },
+    {
+      "date": "2011/01",
+      "value": 8.2
+    },
+    {
+      "date": "2012/01",
+      "value": 8.4
+    },
+    {
+      "date": "2013/01",
+      "value": 8.5
+    },
+    {
+      "date": "2014/01",
+      "value": 8.7
+    },
+    {
+      "date": "2015/01",
+      "value": 8.7
+    },
+    {
+      "date": "2016/01",
+      "value": 8.5
+    },
+    {
+      "date": "2017/01",
+      "value": 8.7
+    },
+    {
+      "date": "2018/01",
+      "value": 8.6
+    },
+    {
+      "date": "2019/01",
+      "value": 8.7
+    },
+    {
+      "date": "2020/01",
+      "value": 3.8
+    },
+    {
+      "date": "2021/01",
+      "value": 5.5
+    },
+    {
+      "date": "2022/01",
+      "value": 7.2
+    },
+    {
+      "date": "2023/01",
+      "value": 7.9
+    },
+    {
+      "date": "2024/01",
+      "value": 8.5
+    }
+  ],
+  "aiSummary": "El turismo aporta el 8.5% de todo lo que produce México. Es uno de los sectores más importantes de la economía, dando empleo a millones de personas.",
+  "aiInsight": "Ciudades como Cancún o Puerto Vallarta dependen del turismo en más del 50% de su economía. Si el turismo baja, estas ciudades lo resienten enormemente.",
+  "source": "INEGI - Cuenta Satélite del Turismo",
+  "lastUpdate": "2025-03-15"
+}

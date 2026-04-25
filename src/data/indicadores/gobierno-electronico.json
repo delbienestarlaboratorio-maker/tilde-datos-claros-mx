@@ -1,0 +1,58 @@
+{
+  "id": "gobierno-electronico",
+  "name": "Gobierno Electrónico",
+  "inegi_id": "5300000113",
+  "unit": "Porcentaje de usuarios",
+  "description": "Personas que hacen trámites de gobierno por internet",
+  "lastValue": "48.5",
+  "lastDate": "2024/01",
+  "previousValue": "45.2",
+  "changePercent": 7.3,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 15.8
+    },
+    {
+      "date": "2016/01",
+      "value": 18.2
+    },
+    {
+      "date": "2017/01",
+      "value": 21.5
+    },
+    {
+      "date": "2018/01",
+      "value": 25.8
+    },
+    {
+      "date": "2019/01",
+      "value": 30.2
+    },
+    {
+      "date": "2020/01",
+      "value": 38.5
+    },
+    {
+      "date": "2021/01",
+      "value": 42.8
+    },
+    {
+      "date": "2022/01",
+      "value": 45.2
+    },
+    {
+      "date": "2023/01",
+      "value": 47
+    },
+    {
+      "date": "2024/01",
+      "value": 48.5
+    }
+  ],
+  "aiSummary": "El 48.5% de los internautas usa la web para interactuar con el gobierno (tramitar actas, pagar impuestos de forma electrónica, sacar citas).",
+  "aiInsight": "El COVID empujó la digitalización del gobierno 10 años hacia el futuro. Trámites que antes obligaban a hacer 3 horas de fila ahora se resuelven en 5 minutos.",
+  "source": "INEGI - ENDUTIH / ENCIG",
+  "lastUpdate": "2025-01-15"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "prod-maiz",
+  "name": "Producción de Maíz",
+  "inegi_id": "5300000130",
+  "unit": "Millones de toneladas",
+  "description": "La base de la alimentación mexicana",
+  "lastValue": "26.5",
+  "lastDate": "2024/01",
+  "previousValue": "27.8",
+  "changePercent": -4.68,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 23.3
+    },
+    {
+      "date": "2011/01",
+      "value": 17.6
+    },
+    {
+      "date": "2012/01",
+      "value": 22
+    },
+    {
+      "date": "2013/01",
+      "value": 22.6
+    },
+    {
+      "date": "2014/01",
+      "value": 23.2
+    },
+    {
+      "date": "2015/01",
+      "value": 24.6
+    },
+    {
+      "date": "2016/01",
+      "value": 28.2
+    },
+    {
+      "date": "2017/01",
+      "value": 27.7
+    },
+    {
+      "date": "2018/01",
+      "value": 27.1
+    },
+    {
+      "date": "2019/01",
+      "value": 27.2
+    },
+    {
+      "date": "2020/01",
+      "value": 27.4
+    },
+    {
+      "date": "2021/01",
+      "value": 27.5
+    },
+    {
+      "date": "2022/01",
+      "value": 26.5
+    },
+    {
+      "date": "2023/01",
+      "value": 27.8
+    },
+    {
+      "date": "2024/01",
+      "value": 26.5
+    }
+  ],
+  "aiSummary": "México produjo 26.5 millones de toneladas de maíz, pero consumimos cerca de 45 millones. El diferencial (principalmente maíz amarillo para animales) lo tenemos que importar.",
+  "aiInsight": "México es autosuficiente en maíz blanco para tortillas y consumo humano, pero importamos muchísimo maíz amarillo de EUA para engordar reses, cerdos y pollos.",
+  "source": "INEGI / SADER",
+  "lastUpdate": "2025-02-15"
+}

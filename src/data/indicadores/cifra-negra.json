@@ -1,0 +1,74 @@
+{
+  "id": "cifra-negra",
+  "name": "Cifra Negra",
+  "inegi_id": "1002000061",
+  "unit": "Porcentaje",
+  "description": "Delitos que no se denuncian",
+  "lastValue": "92.4",
+  "lastDate": "2024/01",
+  "previousValue": "93.2",
+  "changePercent": -0.86,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2011/01",
+      "value": 91.6
+    },
+    {
+      "date": "2012/01",
+      "value": 92.1
+    },
+    {
+      "date": "2013/01",
+      "value": 93.8
+    },
+    {
+      "date": "2014/01",
+      "value": 92.8
+    },
+    {
+      "date": "2015/01",
+      "value": 93.7
+    },
+    {
+      "date": "2016/01",
+      "value": 94.1
+    },
+    {
+      "date": "2017/01",
+      "value": 93.2
+    },
+    {
+      "date": "2018/01",
+      "value": 93.2
+    },
+    {
+      "date": "2019/01",
+      "value": 92.4
+    },
+    {
+      "date": "2020/01",
+      "value": 93.3
+    },
+    {
+      "date": "2021/01",
+      "value": 93.3
+    },
+    {
+      "date": "2022/01",
+      "value": 93.2
+    },
+    {
+      "date": "2023/01",
+      "value": 93.2
+    },
+    {
+      "date": "2024/01",
+      "value": 92.4
+    }
+  ],
+  "aiSummary": "El 92.4% de los delitos NO se denuncian. Es decir, de cada 100 delitos que ocurren en México, solo se reportan 7.6. Esta 'cifra negra' es una de las más altas del mundo.",
+  "aiInsight": "La gente no denuncia porque cree que 'no sirve de nada' o por miedo. Denunciar es importante: sin datos reales, las autoridades no pueden asignar recursos.",
+  "source": "INEGI - ENVIPE",
+  "lastUpdate": "2025-01-15"
+}

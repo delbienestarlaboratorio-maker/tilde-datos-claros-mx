@@ -1,0 +1,86 @@
+{
+  "id": "ingreso-hogar",
+  "name": "Ingreso Promedio por Hogar",
+  "inegi_id": "1002000033",
+  "unit": "Pesos mensuales",
+  "description": "Cuánto gana en promedio cada familia al mes",
+  "lastValue": "22,500",
+  "lastDate": "2024/01",
+  "previousValue": "20,800",
+  "changePercent": 8.17,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2008/01",
+      "value": 12960
+    },
+    {
+      "date": "2009/01",
+      "value": 12300
+    },
+    {
+      "date": "2010/01",
+      "value": 12850
+    },
+    {
+      "date": "2011/01",
+      "value": 13250
+    },
+    {
+      "date": "2012/01",
+      "value": 13500
+    },
+    {
+      "date": "2013/01",
+      "value": 13600
+    },
+    {
+      "date": "2014/01",
+      "value": 13870
+    },
+    {
+      "date": "2015/01",
+      "value": 14120
+    },
+    {
+      "date": "2016/01",
+      "value": 14580
+    },
+    {
+      "date": "2017/01",
+      "value": 15200
+    },
+    {
+      "date": "2018/01",
+      "value": 15850
+    },
+    {
+      "date": "2019/01",
+      "value": 16280
+    },
+    {
+      "date": "2020/01",
+      "value": 14500
+    },
+    {
+      "date": "2021/01",
+      "value": 16250
+    },
+    {
+      "date": "2022/01",
+      "value": 18500
+    },
+    {
+      "date": "2023/01",
+      "value": 20800
+    },
+    {
+      "date": "2024/01",
+      "value": 22500
+    }
+  ],
+  "aiSummary": "El hogar mexicano promedio gana $22,500 pesos al mes, un 8% más que el año anterior. Pero el 30% de los hogares gana menos de $12,000 mensuales.",
+  "aiInsight": "Si tu familia gana más de $22,500 al mes, están arriba del promedio nacional. La desigualdad es enorme: el 10% más rico gana 21 veces más que el 10% más pobre.",
+  "source": "INEGI - ENIGH",
+  "lastUpdate": "2025-01-15"
+}

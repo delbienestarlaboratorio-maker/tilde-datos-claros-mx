@@ -1,0 +1,118 @@
+{
+  "id": "importaciones",
+  "name": "Importaciones Totales",
+  "inegi_id": "5300000051",
+  "unit": "Millones de dólares",
+  "description": "Todo lo que México compra del extranjero",
+  "lastValue": "604,825",
+  "lastDate": "2024/12",
+  "previousValue": "576,290",
+  "changePercent": 4.95,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 174458
+    },
+    {
+      "date": "2001/01",
+      "value": 168396
+    },
+    {
+      "date": "2002/01",
+      "value": 168679
+    },
+    {
+      "date": "2003/01",
+      "value": 170546
+    },
+    {
+      "date": "2004/01",
+      "value": 196810
+    },
+    {
+      "date": "2005/01",
+      "value": 221820
+    },
+    {
+      "date": "2006/01",
+      "value": 256058
+    },
+    {
+      "date": "2007/01",
+      "value": 281949
+    },
+    {
+      "date": "2008/01",
+      "value": 308603
+    },
+    {
+      "date": "2009/01",
+      "value": 234385
+    },
+    {
+      "date": "2010/01",
+      "value": 301482
+    },
+    {
+      "date": "2011/01",
+      "value": 350843
+    },
+    {
+      "date": "2012/01",
+      "value": 370752
+    },
+    {
+      "date": "2013/01",
+      "value": 381210
+    },
+    {
+      "date": "2014/01",
+      "value": 399977
+    },
+    {
+      "date": "2015/01",
+      "value": 395232
+    },
+    {
+      "date": "2016/01",
+      "value": 387065
+    },
+    {
+      "date": "2017/01",
+      "value": 420369
+    },
+    {
+      "date": "2018/01",
+      "value": 464268
+    },
+    {
+      "date": "2019/01",
+      "value": 467134
+    },
+    {
+      "date": "2020/01",
+      "value": 382985
+    },
+    {
+      "date": "2021/01",
+      "value": 505716
+    },
+    {
+      "date": "2022/01",
+      "value": 604613
+    },
+    {
+      "date": "2023/01",
+      "value": 576290
+    },
+    {
+      "date": "2024/01",
+      "value": 604825
+    }
+  ],
+  "aiSummary": "México importó 604 mil millones de dólares en 2024. Compramos principalmente maquinaria, electrónicos, gasolina y productos químicos del extranjero.",
+  "aiInsight": "Importar no es malo: mucho de lo que compramos son partes para fabricar productos que luego exportamos. El celular que usas probablemente tiene piezas importadas.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

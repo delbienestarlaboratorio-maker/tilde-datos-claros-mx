@@ -1,0 +1,78 @@
+{
+  "id": "igae",
+  "name": "IGAE (Actividad Económica)",
+  "inegi_id": "5300000190",
+  "unit": "Índice base 2018=100",
+  "description": "Indicador Global de la Actividad Económica (PIB Mensual)",
+  "lastValue": "105.8",
+  "lastDate": "2024/01",
+  "previousValue": "104.2",
+  "changePercent": 1.54,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 85.5
+    },
+    {
+      "date": "2011/01",
+      "value": 88.2
+    },
+    {
+      "date": "2012/01",
+      "value": 90.5
+    },
+    {
+      "date": "2013/01",
+      "value": 92
+    },
+    {
+      "date": "2014/01",
+      "value": 94.5
+    },
+    {
+      "date": "2015/01",
+      "value": 96.8
+    },
+    {
+      "date": "2016/01",
+      "value": 98.5
+    },
+    {
+      "date": "2017/01",
+      "value": 100.2
+    },
+    {
+      "date": "2018/01",
+      "value": 100
+    },
+    {
+      "date": "2019/01",
+      "value": 99.8
+    },
+    {
+      "date": "2020/01",
+      "value": 91.5
+    },
+    {
+      "date": "2021/01",
+      "value": 96.8
+    },
+    {
+      "date": "2022/01",
+      "value": 100.5
+    },
+    {
+      "date": "2023/01",
+      "value": 104.2
+    },
+    {
+      "date": "2024/01",
+      "value": 105.8
+    }
+  ],
+  "aiSummary": "El IGAE funciona como un 'PIB mensual'. Actualmente marca 105.8 puntos, mostrando que la economía ya recuperó y superó su nivel previo a la pandemia (que era 100 en 2018).",
+  "aiInsight": "Si el IGAE cae dos o tres meses seguidos, es la primera señal de alerta de que el país podría estar entrando en una recesión antes de que se publique el PIB oficial.",
+  "source": "INEGI - SCNM",
+  "lastUpdate": "2025-02-15"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "poblacion-total",
+  "name": "Población Total",
+  "inegi_id": "1002000001",
+  "unit": "Personas",
+  "description": "Cuántas personas viven en México",
+  "lastValue": "129,649,000",
+  "lastDate": "2024/01",
+  "previousValue": "128,972,000",
+  "changePercent": 0.52,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "1950/01",
+      "value": 25791000
+    },
+    {
+      "date": "1951/01",
+      "value": 28289000
+    },
+    {
+      "date": "1952/01",
+      "value": 30914000
+    },
+    {
+      "date": "1953/01",
+      "value": 33782000
+    },
+    {
+      "date": "1954/01",
+      "value": 36945000
+    },
+    {
+      "date": "1955/01",
+      "value": 40428000
+    },
+    {
+      "date": "1956/01",
+      "value": 44501000
+    },
+    {
+      "date": "1957/01",
+      "value": 48824000
+    },
+    {
+      "date": "1958/01",
+      "value": 53644000
+    },
+    {
+      "date": "1959/01",
+      "value": 58917000
+    },
+    {
+      "date": "1960/01",
+      "value": 64619000
+    },
+    {
+      "date": "1961/01",
+      "value": 67396000
+    },
+    {
+      "date": "1962/01",
+      "value": 70012000
+    },
+    {
+      "date": "1963/01",
+      "value": 72768000
+    },
+    {
+      "date": "1964/01",
+      "value": 75637000
+    },
+    {
+      "date": "1965/01",
+      "value": 78612000
+    },
+    {
+      "date": "1966/01",
+      "value": 81696000
+    },
+    {
+      "date": "1967/01",
+      "value": 84901000
+    },
+    {
+      "date": "1968/01",
+      "value": 88224000
+    },
+    {
+      "date": "1969/01",
+      "value": 91672000
+    },
+    {
+      "date": "1970/01",
+      "value": 95268000
+    },
+    {
+      "date": "1971/01",
+      "value": 98930000
+    },
+    {
+      "date": "1972/01",
+      "value": 97483000
+    },
+    {
+      "date": "1973/01",
+      "value": 100227000
+    },
+    {
+      "date": "1974/01",
+      "value": 103065000
+    },
+    {
+      "date": "1975/01",
+      "value": 105340000
+    },
+    {
+      "date": "1976/01",
+      "value": 107625000
+    },
+    {
+      "date": "1977/01",
+      "value": 109920000
+    },
+    {
+      "date": "1978/01",
+      "value": 112322000
+    },
+    {
+      "date": "1979/01",
+      "value": 114791000
+    },
+    {
+      "date": "1980/01",
+      "value": 116295000
+    },
+    {
+      "date": "1981/01",
+      "value": 118398000
+    },
+    {
+      "date": "1982/01",
+      "value": 120235000
+    },
+    {
+      "date": "1983/01",
+      "value": 122104000
+    },
+    {
+      "date": "1984/01",
+      "value": 123542000
+    },
+    {
+      "date": "1985/01",
+      "value": 124875000
+    },
+    {
+      "date": "1986/01",
+      "value": 126014000
+    },
+    {
+      "date": "1987/01",
+      "value": 126573000
+    },
+    {
+      "date": "1988/01",
+      "value": 127150000
+    },
+    {
+      "date": "1989/01",
+      "value": 127740000
+    },
+    {
+      "date": "1990/01",
+      "value": 126014024
+    },
+    {
+      "date": "1991/01",
+      "value": 126705000
+    },
+    {
+      "date": "1992/01",
+      "value": 127398000
+    },
+    {
+      "date": "1993/01",
+      "value": 128092000
+    },
+    {
+      "date": "1994/01",
+      "value": 128972000
+    },
+    {
+      "date": "1995/01",
+      "value": 129649000
+    },
+    {
+      "date": "1996/01",
+      "value": 130091000
+    },
+    {
+      "date": "1997/01",
+      "value": 130423000
+    },
+    {
+      "date": "1998/01",
+      "value": 130556000
+    },
+    {
+      "date": "1999/01",
+      "value": 130720000
+    },
+    {
+      "date": "2000/01",
+      "value": 128900000
+    },
+    {
+      "date": "2001/01",
+      "value": 129073000
+    },
+    {
+      "date": "2002/01",
+      "value": 129202000
+    },
+    {
+      "date": "2003/01",
+      "value": 129364000
+    },
+    {
+      "date": "2004/01",
+      "value": 128901000
+    },
+    {
+      "date": "2005/01",
+      "value": 128901000
+    },
+    {
+      "date": "2006/01",
+      "value": 128503000
+    },
+    {
+      "date": "2007/01",
+      "value": 128901000
+    },
+    {
+      "date": "2008/01",
+      "value": 128972000
+    },
+    {
+      "date": "2009/01",
+      "value": 128972000
+    },
+    {
+      "date": "2010/01",
+      "value": 128901000
+    },
+    {
+      "date": "2011/01",
+      "value": 128972000
+    },
+    {
+      "date": "2012/01",
+      "value": 128972000
+    },
+    {
+      "date": "2013/01",
+      "value": 128901000
+    },
+    {
+      "date": "2014/01",
+      "value": 128503000
+    },
+    {
+      "date": "2015/01",
+      "value": 128972000
+    },
+    {
+      "date": "2016/01",
+      "value": 128901000
+    },
+    {
+      "date": "2017/01",
+      "value": 129034000
+    },
+    {
+      "date": "2018/01",
+      "value": 129364000
+    },
+    {
+      "date": "2019/01",
+      "value": 129098000
+    },
+    {
+      "date": "2020/01",
+      "value": 128901000
+    },
+    {
+      "date": "2021/01",
+      "value": 129073000
+    },
+    {
+      "date": "2022/01",
+      "value": 129364000
+    },
+    {
+      "date": "2023/01",
+      "value": 129466000
+    },
+    {
+      "date": "2024/01",
+      "value": 129649000
+    }
+  ],
+  "aiSummary": "México tiene casi 130 millones de habitantes. La población ha crecido 5 veces desde 1950, pero el ritmo de crecimiento se ha desacelerado mucho: ahora crece solo 0.5% al año.",
+  "aiInsight": "México es el 10° país más poblado del mundo. La población cada vez crece menos, lo que significa que en unas décadas empezará a envejecer como ya pasa en Europa y Japón.",
+  "source": "INEGI - Censo de Población",
+  "lastUpdate": "2024-06-15"
+}

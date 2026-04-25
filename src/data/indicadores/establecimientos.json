@@ -1,0 +1,102 @@
+{
+  "id": "establecimientos",
+  "name": "Establecimientos Comerciales",
+  "inegi_id": "5300000043",
+  "unit": "Miles de unidades",
+  "description": "Total de tiendas y negocios registrados",
+  "lastValue": "5,520",
+  "lastDate": "2024/01",
+  "previousValue": "5,384",
+  "changePercent": 2.52,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2004/01",
+      "value": 3005
+    },
+    {
+      "date": "2005/01",
+      "value": 3241
+    },
+    {
+      "date": "2006/01",
+      "value": 3425
+    },
+    {
+      "date": "2007/01",
+      "value": 3601
+    },
+    {
+      "date": "2008/01",
+      "value": 3724
+    },
+    {
+      "date": "2009/01",
+      "value": 3856
+    },
+    {
+      "date": "2010/01",
+      "value": 4015
+    },
+    {
+      "date": "2011/01",
+      "value": 4176
+    },
+    {
+      "date": "2012/01",
+      "value": 4351
+    },
+    {
+      "date": "2013/01",
+      "value": 4534
+    },
+    {
+      "date": "2014/01",
+      "value": 4609
+    },
+    {
+      "date": "2015/01",
+      "value": 4725
+    },
+    {
+      "date": "2016/01",
+      "value": 4848
+    },
+    {
+      "date": "2017/01",
+      "value": 4965
+    },
+    {
+      "date": "2018/01",
+      "value": 5079
+    },
+    {
+      "date": "2019/01",
+      "value": 5150
+    },
+    {
+      "date": "2020/01",
+      "value": 5048
+    },
+    {
+      "date": "2021/01",
+      "value": 5120
+    },
+    {
+      "date": "2022/01",
+      "value": 5256
+    },
+    {
+      "date": "2023/01",
+      "value": 5384
+    },
+    {
+      "date": "2024/01",
+      "value": 5520
+    }
+  ],
+  "aiSummary": "México tiene 5.5 millones de establecimientos comerciales registrados: desde tu tiendita de la esquina hasta Walmart. El número ha crecido un 2.5%, señal de más emprendimiento.",
+  "aiInsight": "La mayoría son micronegocios (96%). Si has pensado en poner un negocio, no estás solo: cada año aparecen cientos de miles de nuevos establecimientos en México.",
+  "source": "INEGI - DENUE / Censos Económicos",
+  "lastUpdate": "2024-12-01"
+}

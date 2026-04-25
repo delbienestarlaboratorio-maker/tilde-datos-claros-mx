@@ -1,0 +1,78 @@
+{
+  "id": "patentes",
+  "name": "Patentes Otorgadas",
+  "inegi_id": "5300000201",
+  "unit": "Patentes anuales",
+  "description": "Inventos mexicanos protegidos legalmente",
+  "lastValue": "1,250",
+  "lastDate": "2024/01",
+  "previousValue": "1,180",
+  "changePercent": 5.93,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 950
+    },
+    {
+      "date": "2011/01",
+      "value": 980
+    },
+    {
+      "date": "2012/01",
+      "value": 1020
+    },
+    {
+      "date": "2013/01",
+      "value": 1050
+    },
+    {
+      "date": "2014/01",
+      "value": 1100
+    },
+    {
+      "date": "2015/01",
+      "value": 1200
+    },
+    {
+      "date": "2016/01",
+      "value": 1250
+    },
+    {
+      "date": "2017/01",
+      "value": 1300
+    },
+    {
+      "date": "2018/01",
+      "value": 1350
+    },
+    {
+      "date": "2019/01",
+      "value": 1400
+    },
+    {
+      "date": "2020/01",
+      "value": 1150
+    },
+    {
+      "date": "2021/01",
+      "value": 1100
+    },
+    {
+      "date": "2022/01",
+      "value": 1150
+    },
+    {
+      "date": "2023/01",
+      "value": 1180
+    },
+    {
+      "date": "2024/01",
+      "value": 1250
+    }
+  ],
+  "aiSummary": "México solo otorga unas 1,250 patentes al año a inventores mexicanos. Para dar contexto, Corea del Sur o Estados Unidos patentan más de 100,000 cosas al año.",
+  "aiInsight": "México es un país que 'ensambla' la tecnología de otros, pero casi no inventa tecnología propia aplicable a la industria. La fuga de cerebros a EUA es altísima.",
+  "source": "IMPI / INEGI",
+  "lastUpdate": "2025-02-15"
+}

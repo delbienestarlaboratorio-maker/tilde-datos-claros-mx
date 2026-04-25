@@ -1,0 +1,98 @@
+{
+  "id": "divisas-turismo",
+  "name": "Divisas por Turismo",
+  "inegi_id": "5300000072",
+  "unit": "Millones de dólares",
+  "description": "Cuánto dinero dejan los turistas en México",
+  "lastValue": "31,456",
+  "lastDate": "2024/12",
+  "previousValue": "28,847",
+  "changePercent": 9.04,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 11803
+    },
+    {
+      "date": "2006/01",
+      "value": 12177
+    },
+    {
+      "date": "2007/01",
+      "value": 12901
+    },
+    {
+      "date": "2008/01",
+      "value": 13289
+    },
+    {
+      "date": "2009/01",
+      "value": 11275
+    },
+    {
+      "date": "2010/01",
+      "value": 11992
+    },
+    {
+      "date": "2011/01",
+      "value": 11869
+    },
+    {
+      "date": "2012/01",
+      "value": 12720
+    },
+    {
+      "date": "2013/01",
+      "value": 13819
+    },
+    {
+      "date": "2014/01",
+      "value": 16208
+    },
+    {
+      "date": "2015/01",
+      "value": 17734
+    },
+    {
+      "date": "2016/01",
+      "value": 19571
+    },
+    {
+      "date": "2017/01",
+      "value": 20616
+    },
+    {
+      "date": "2018/01",
+      "value": 22510
+    },
+    {
+      "date": "2019/01",
+      "value": 24573
+    },
+    {
+      "date": "2020/01",
+      "value": 10755
+    },
+    {
+      "date": "2021/01",
+      "value": 19754
+    },
+    {
+      "date": "2022/01",
+      "value": 28009
+    },
+    {
+      "date": "2023/01",
+      "value": 28847
+    },
+    {
+      "date": "2024/01",
+      "value": 31456
+    }
+  ],
+  "aiSummary": "Los turistas dejaron 31.4 mil millones de dólares en México. Es la tercera fuente de divisas más importante del país, después de las exportaciones y las remesas.",
+  "aiInsight": "Cada turista gasta en promedio $748 dólares durante su visita. Ese dinero se queda en hoteles, restaurantes, tiendas locales y servicios de transporte.",
+  "source": "INEGI / Banxico",
+  "lastUpdate": "2025-03-15"
+}

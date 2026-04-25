@@ -1,0 +1,98 @@
+{
+  "id": "migracion-interestatal",
+  "name": "Migración Interestatal",
+  "inegi_id": "1002000021",
+  "unit": "Miles de personas",
+  "description": "Personas que se mudaron a otro estado",
+  "lastValue": "3,280",
+  "lastDate": "2024/01",
+  "previousValue": "3,150",
+  "changePercent": 4.13,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 2500
+    },
+    {
+      "date": "2006/01",
+      "value": 2580
+    },
+    {
+      "date": "2007/01",
+      "value": 2650
+    },
+    {
+      "date": "2008/01",
+      "value": 2720
+    },
+    {
+      "date": "2009/01",
+      "value": 2780
+    },
+    {
+      "date": "2010/01",
+      "value": 2850
+    },
+    {
+      "date": "2011/01",
+      "value": 2920
+    },
+    {
+      "date": "2012/01",
+      "value": 2980
+    },
+    {
+      "date": "2013/01",
+      "value": 3050
+    },
+    {
+      "date": "2014/01",
+      "value": 3100
+    },
+    {
+      "date": "2015/01",
+      "value": 2800
+    },
+    {
+      "date": "2016/01",
+      "value": 2950
+    },
+    {
+      "date": "2017/01",
+      "value": 3050
+    },
+    {
+      "date": "2018/01",
+      "value": 3100
+    },
+    {
+      "date": "2019/01",
+      "value": 3150
+    },
+    {
+      "date": "2020/01",
+      "value": 3050
+    },
+    {
+      "date": "2021/01",
+      "value": 3100
+    },
+    {
+      "date": "2022/01",
+      "value": 3150
+    },
+    {
+      "date": "2023/01",
+      "value": 3150
+    },
+    {
+      "date": "2024/01",
+      "value": 3280
+    }
+  ],
+  "aiSummary": "3.28 millones de personas se mudaron de un estado a otro en 2024. Los estados que más gente reciben son Quintana Roo, Querétaro, Baja California Sur y Aguascalientes.",
+  "aiInsight": "La gente se muda buscando empleo y seguridad. Los estados del norte y del Bajío son los que más atraen, mientras que Guerrero, Chiapas y Oaxaca pierden población.",
+  "source": "INEGI - Censo de Población",
+  "lastUpdate": "2025-01-15"
+}

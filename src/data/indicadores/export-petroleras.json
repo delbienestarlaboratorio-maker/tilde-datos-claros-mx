@@ -1,0 +1,118 @@
+{
+  "id": "export-petroleras",
+  "name": "Exportaciones Petroleras",
+  "inegi_id": "5300000053",
+  "unit": "Millones de dólares",
+  "description": "Ventas de petróleo y derivados al extranjero",
+  "lastValue": "32,540",
+  "lastDate": "2024/12",
+  "previousValue": "34,815",
+  "changePercent": -6.53,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 16383
+    },
+    {
+      "date": "2001/01",
+      "value": 12799
+    },
+    {
+      "date": "2002/01",
+      "value": 14485
+    },
+    {
+      "date": "2003/01",
+      "value": 18602
+    },
+    {
+      "date": "2004/01",
+      "value": 23667
+    },
+    {
+      "date": "2005/01",
+      "value": 31891
+    },
+    {
+      "date": "2006/01",
+      "value": 39017
+    },
+    {
+      "date": "2007/01",
+      "value": 43018
+    },
+    {
+      "date": "2008/01",
+      "value": 50636
+    },
+    {
+      "date": "2009/01",
+      "value": 30831
+    },
+    {
+      "date": "2010/01",
+      "value": 41693
+    },
+    {
+      "date": "2011/01",
+      "value": 56441
+    },
+    {
+      "date": "2012/01",
+      "value": 52917
+    },
+    {
+      "date": "2013/01",
+      "value": 49493
+    },
+    {
+      "date": "2014/01",
+      "value": 42178
+    },
+    {
+      "date": "2015/01",
+      "value": 23440
+    },
+    {
+      "date": "2016/01",
+      "value": 18825
+    },
+    {
+      "date": "2017/01",
+      "value": 23702
+    },
+    {
+      "date": "2018/01",
+      "value": 30388
+    },
+    {
+      "date": "2019/01",
+      "value": 26552
+    },
+    {
+      "date": "2020/01",
+      "value": 17534
+    },
+    {
+      "date": "2021/01",
+      "value": 28736
+    },
+    {
+      "date": "2022/01",
+      "value": 38712
+    },
+    {
+      "date": "2023/01",
+      "value": 34815
+    },
+    {
+      "date": "2024/01",
+      "value": 32540
+    }
+  ],
+  "aiSummary": "Las exportaciones de petróleo bajaron 6.5% a 32.5 mil millones de dólares. El petróleo ya solo representa el 5.5% de lo que México exporta, cuando en el año 2000 era el 10%.",
+  "aiInsight": "México ya no depende tanto del petróleo como antes. Ahora exportamos más autos, cerveza, aguacate y productos electrónicos. Esto es bueno porque diversifica la economía.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

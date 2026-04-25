@@ -1,0 +1,118 @@
+{
+  "id": "turistas-internacionales",
+  "name": "Turistas Internacionales",
+  "inegi_id": "5300000070",
+  "unit": "Millones de personas",
+  "description": "Extranjeros que visitan México",
+  "lastValue": "42.1",
+  "lastDate": "2024/12",
+  "previousValue": "38.3",
+  "changePercent": 9.92,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 20.6
+    },
+    {
+      "date": "2001/01",
+      "value": 19.8
+    },
+    {
+      "date": "2002/01",
+      "value": 19.7
+    },
+    {
+      "date": "2003/01",
+      "value": 18.7
+    },
+    {
+      "date": "2004/01",
+      "value": 20.6
+    },
+    {
+      "date": "2005/01",
+      "value": 21.9
+    },
+    {
+      "date": "2006/01",
+      "value": 21.4
+    },
+    {
+      "date": "2007/01",
+      "value": 21.4
+    },
+    {
+      "date": "2008/01",
+      "value": 22.6
+    },
+    {
+      "date": "2009/01",
+      "value": 22.3
+    },
+    {
+      "date": "2010/01",
+      "value": 23.3
+    },
+    {
+      "date": "2011/01",
+      "value": 23.4
+    },
+    {
+      "date": "2012/01",
+      "value": 23.4
+    },
+    {
+      "date": "2013/01",
+      "value": 24.2
+    },
+    {
+      "date": "2014/01",
+      "value": 29.3
+    },
+    {
+      "date": "2015/01",
+      "value": 32.1
+    },
+    {
+      "date": "2016/01",
+      "value": 35.1
+    },
+    {
+      "date": "2017/01",
+      "value": 39.3
+    },
+    {
+      "date": "2018/01",
+      "value": 41.3
+    },
+    {
+      "date": "2019/01",
+      "value": 45
+    },
+    {
+      "date": "2020/01",
+      "value": 24.3
+    },
+    {
+      "date": "2021/01",
+      "value": 31.8
+    },
+    {
+      "date": "2022/01",
+      "value": 38.3
+    },
+    {
+      "date": "2023/01",
+      "value": 38.3
+    },
+    {
+      "date": "2024/01",
+      "value": 42.1
+    }
+  ],
+  "aiSummary": "42.1 millones de turistas visitaron México en 2024, un récord. Somos el 6° país más visitado del mundo. Cancún, CDMX y Los Cabos son los destinos favoritos.",
+  "aiInsight": "El turismo genera 4.5 millones de empleos directos en México. Si trabajas en un hotel, restaurante o agencia de viajes, este número importa directamente.",
+  "source": "INEGI / SECTUR",
+  "lastUpdate": "2025-03-15"
+}

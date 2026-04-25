@@ -1,0 +1,58 @@
+{
+  "id": "precios-productor",
+  "name": "Precios al Productor (INPP)",
+  "inegi_id": "5300000194",
+  "unit": "Porcentaje (variación anual)",
+  "description": "Aumento de costos para las fábricas y empresas",
+  "lastValue": "3.8",
+  "lastDate": "2024/01",
+  "previousValue": "4.5",
+  "changePercent": -15.56,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 3.2
+    },
+    {
+      "date": "2016/01",
+      "value": 4.5
+    },
+    {
+      "date": "2017/01",
+      "value": 5.2
+    },
+    {
+      "date": "2018/01",
+      "value": 4.8
+    },
+    {
+      "date": "2019/01",
+      "value": 3.5
+    },
+    {
+      "date": "2020/01",
+      "value": 3.8
+    },
+    {
+      "date": "2021/01",
+      "value": 6.5
+    },
+    {
+      "date": "2022/01",
+      "value": 10.2
+    },
+    {
+      "date": "2023/01",
+      "value": 4.5
+    },
+    {
+      "date": "2024/01",
+      "value": 3.8
+    }
+  ],
+  "aiSummary": "Los costos para producir bienes en México aumentaron 3.8% este año. El INPP mide lo que pagan las empresas por acero, plástico, electricidad y transporte.",
+  "aiInsight": "El INPP es una 'bola de cristal'. Si a las fábricas les cuesta más producir hoy, mañana le subirán el precio de venta a los consumidores en el supermercado.",
+  "source": "INEGI - INPP",
+  "lastUpdate": "2025-02-15"
+}

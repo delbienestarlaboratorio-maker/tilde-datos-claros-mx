@@ -1,0 +1,78 @@
+{
+  "id": "aguas-residuales",
+  "name": "Aguas Residuales Tratadas",
+  "inegi_id": "5300000170",
+  "unit": "Porcentaje",
+  "description": "Cuánta del agua del drenaje se limpia antes de desecharse a ríos o mares",
+  "lastValue": "68.5",
+  "lastDate": "2024/01",
+  "previousValue": "67.2",
+  "changePercent": 1.93,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 42.1
+    },
+    {
+      "date": "2011/01",
+      "value": 45.2
+    },
+    {
+      "date": "2012/01",
+      "value": 48.5
+    },
+    {
+      "date": "2013/01",
+      "value": 50.8
+    },
+    {
+      "date": "2014/01",
+      "value": 53.2
+    },
+    {
+      "date": "2015/01",
+      "value": 56.5
+    },
+    {
+      "date": "2016/01",
+      "value": 58.2
+    },
+    {
+      "date": "2017/01",
+      "value": 60.5
+    },
+    {
+      "date": "2018/01",
+      "value": 63.1
+    },
+    {
+      "date": "2019/01",
+      "value": 64.8
+    },
+    {
+      "date": "2020/01",
+      "value": 65.2
+    },
+    {
+      "date": "2021/01",
+      "value": 66
+    },
+    {
+      "date": "2022/01",
+      "value": 66.8
+    },
+    {
+      "date": "2023/01",
+      "value": 67.2
+    },
+    {
+      "date": "2024/01",
+      "value": 68.5
+    }
+  ],
+  "aiSummary": "En México se limpia el 68.5% de todas las aguas negras recolectadas en drenajes. El otro 31.5% cae directamente a ríos, lagos y océanos, contaminando brutalmente.",
+  "aiInsight": "Hace 15 años ni la mitad se limpiaba. Nuevo León, Aguascalientes y Baja California tratan hasta el 95% de su agua; Campeche, Tabasco y Yucatán tratan menos del 15%.",
+  "source": "INEGI / CONAGUA",
+  "lastUpdate": "2025-01-15"
+}

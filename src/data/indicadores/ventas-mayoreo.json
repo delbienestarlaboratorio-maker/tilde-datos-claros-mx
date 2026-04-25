@@ -1,0 +1,82 @@
+{
+  "id": "ventas-mayoreo",
+  "name": "Ventas al Por Mayor",
+  "inegi_id": "5300000041",
+  "unit": "Índice base 2018=100",
+  "description": "Ventas entre empresas y distribuidores",
+  "lastValue": "108.5",
+  "lastDate": "2025/02",
+  "previousValue": "106.2",
+  "changePercent": 2.17,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 72.5
+    },
+    {
+      "date": "2011/01",
+      "value": 76.8
+    },
+    {
+      "date": "2012/01",
+      "value": 80.2
+    },
+    {
+      "date": "2013/01",
+      "value": 84.5
+    },
+    {
+      "date": "2014/01",
+      "value": 88.2
+    },
+    {
+      "date": "2015/01",
+      "value": 91.5
+    },
+    {
+      "date": "2016/01",
+      "value": 94.2
+    },
+    {
+      "date": "2017/01",
+      "value": 97.5
+    },
+    {
+      "date": "2018/01",
+      "value": 100
+    },
+    {
+      "date": "2019/01",
+      "value": 98.5
+    },
+    {
+      "date": "2020/01",
+      "value": 85.2
+    },
+    {
+      "date": "2021/01",
+      "value": 95.5
+    },
+    {
+      "date": "2022/01",
+      "value": 100.2
+    },
+    {
+      "date": "2023/01",
+      "value": 103.8
+    },
+    {
+      "date": "2024/01",
+      "value": 106.2
+    },
+    {
+      "date": "2025/01",
+      "value": 108.5
+    }
+  ],
+  "aiSummary": "El comercio al por mayor creció 2.17%. Es el comercio entre empresas: cuando un distribuidor le vende a una tienda. Es un buen indicador de la salud de la cadena de suministro.",
+  "aiInsight": "Cuando el mayoreo crece, significa que las tiendas están comprando más inventario porque esperan vender. Es una señal de optimismo en el comercio.",
+  "source": "INEGI - EMEC",
+  "lastUpdate": "2025-04-15"
+}

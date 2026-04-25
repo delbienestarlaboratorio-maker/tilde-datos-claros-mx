@@ -1,0 +1,78 @@
+{
+  "id": "denue-total",
+  "name": "Total DENUE",
+  "inegi_id": "5300000100",
+  "unit": "Millones de negocios",
+  "description": "Todos los negocios registrados en México",
+  "lastValue": "5.5",
+  "lastDate": "2024/01",
+  "previousValue": "5.3",
+  "changePercent": 3.77,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 4.3
+    },
+    {
+      "date": "2011/01",
+      "value": 4.4
+    },
+    {
+      "date": "2012/01",
+      "value": 4.5
+    },
+    {
+      "date": "2013/01",
+      "value": 4.6
+    },
+    {
+      "date": "2014/01",
+      "value": 4.7
+    },
+    {
+      "date": "2015/01",
+      "value": 4.8
+    },
+    {
+      "date": "2016/01",
+      "value": 4.9
+    },
+    {
+      "date": "2017/01",
+      "value": 5
+    },
+    {
+      "date": "2018/01",
+      "value": 5.1
+    },
+    {
+      "date": "2019/01",
+      "value": 5.2
+    },
+    {
+      "date": "2020/01",
+      "value": 4.8
+    },
+    {
+      "date": "2021/01",
+      "value": 5
+    },
+    {
+      "date": "2022/01",
+      "value": 5.2
+    },
+    {
+      "date": "2023/01",
+      "value": 5.3
+    },
+    {
+      "date": "2024/01",
+      "value": 5.5
+    }
+  ],
+  "aiSummary": "Hay 5.5 millones de unidades económicas en México. El 99.8% son PyMEs (Pequeñas y Medianas Empresas), las cuales generan el 72% del empleo en el país.",
+  "aiInsight": "Casi toda la economía mexicana depende de los micronegocios: la tiendita, la papelería, la fonda. Si estos negocios cierran, el empleo se desploma.",
+  "source": "INEGI - DENUE",
+  "lastUpdate": "2025-01-15"
+}

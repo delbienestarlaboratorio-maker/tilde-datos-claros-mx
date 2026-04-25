@@ -1,0 +1,8 @@
+{
+  "ecosystem": "Tilde",
+  "project": "Tilde INEGI",
+  "port": 9100,
+  "core_controller": "Tilde Núcleo",
+  "core_url": "http://localhost:7777",
+  "documentation": "This subsystem belongs to the Tilde micro-frontend ecosystem. It consumes INEGI public APIs and translates data into accessible content using Ollama/Qwen AI. Launched via traffic_cop.bat."
+}

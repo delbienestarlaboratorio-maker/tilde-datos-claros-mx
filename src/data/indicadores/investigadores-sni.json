@@ -1,0 +1,78 @@
+{
+  "id": "investigadores-sni",
+  "name": "Investigadores en el SNI",
+  "inegi_id": "5300000200",
+  "unit": "Miles de investigadores",
+  "description": "Científicos top becados por el gobierno",
+  "lastValue": "41.2",
+  "lastDate": "2024/01",
+  "previousValue": "38.5",
+  "changePercent": 7.01,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 16.5
+    },
+    {
+      "date": "2011/01",
+      "value": 17.6
+    },
+    {
+      "date": "2012/01",
+      "value": 18.5
+    },
+    {
+      "date": "2013/01",
+      "value": 19.2
+    },
+    {
+      "date": "2014/01",
+      "value": 21.3
+    },
+    {
+      "date": "2015/01",
+      "value": 23.5
+    },
+    {
+      "date": "2016/01",
+      "value": 25
+    },
+    {
+      "date": "2017/01",
+      "value": 27.1
+    },
+    {
+      "date": "2018/01",
+      "value": 28.6
+    },
+    {
+      "date": "2019/01",
+      "value": 30.5
+    },
+    {
+      "date": "2020/01",
+      "value": 33.1
+    },
+    {
+      "date": "2021/01",
+      "value": 35.2
+    },
+    {
+      "date": "2022/01",
+      "value": 36.5
+    },
+    {
+      "date": "2023/01",
+      "value": 38.5
+    },
+    {
+      "date": "2024/01",
+      "value": 41.2
+    }
+  ],
+  "aiSummary": "Hay 41,200 científicos en el Sistema Nacional de Investigadores (SNI). Ellos reciben un sueldo extra del gobierno para que se dediquen de lleno a investigar.",
+  "aiInsight": "Aunque el número sube, es bajísimo comparado con el tamaño del país. Además, hay muy pocos enfocados en tecnología de punta (IA, semiconductores) y demasiados en ciencias sociales.",
+  "source": "CONAHCYT / INEGI",
+  "lastUpdate": "2025-02-15"
+}

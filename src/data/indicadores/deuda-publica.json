@@ -1,0 +1,118 @@
+{
+  "id": "deuda-publica",
+  "name": "Deuda Pública",
+  "inegi_id": "5300000065",
+  "unit": "Porcentaje del PIB",
+  "description": "Cuánto debe el gobierno respecto a lo que produce el país",
+  "lastValue": "46.8",
+  "lastDate": "2024/12",
+  "previousValue": "46.5",
+  "changePercent": 0.65,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 20.5
+    },
+    {
+      "date": "2001/01",
+      "value": 20.8
+    },
+    {
+      "date": "2002/01",
+      "value": 22.1
+    },
+    {
+      "date": "2003/01",
+      "value": 22.5
+    },
+    {
+      "date": "2004/01",
+      "value": 21.8
+    },
+    {
+      "date": "2005/01",
+      "value": 21.2
+    },
+    {
+      "date": "2006/01",
+      "value": 20.5
+    },
+    {
+      "date": "2007/01",
+      "value": 21.2
+    },
+    {
+      "date": "2008/01",
+      "value": 24.5
+    },
+    {
+      "date": "2009/01",
+      "value": 27.2
+    },
+    {
+      "date": "2010/01",
+      "value": 27.5
+    },
+    {
+      "date": "2011/01",
+      "value": 28.2
+    },
+    {
+      "date": "2012/01",
+      "value": 28.8
+    },
+    {
+      "date": "2013/01",
+      "value": 30.5
+    },
+    {
+      "date": "2014/01",
+      "value": 32.2
+    },
+    {
+      "date": "2015/01",
+      "value": 34.8
+    },
+    {
+      "date": "2016/01",
+      "value": 37.2
+    },
+    {
+      "date": "2017/01",
+      "value": 35.8
+    },
+    {
+      "date": "2018/01",
+      "value": 36.5
+    },
+    {
+      "date": "2019/01",
+      "value": 35.2
+    },
+    {
+      "date": "2020/01",
+      "value": 42.5
+    },
+    {
+      "date": "2021/01",
+      "value": 43.2
+    },
+    {
+      "date": "2022/01",
+      "value": 44.5
+    },
+    {
+      "date": "2023/01",
+      "value": 46.5
+    },
+    {
+      "date": "2024/01",
+      "value": 46.8
+    }
+  ],
+  "aiSummary": "La deuda pública de México es el 46.8% del PIB. Aunque ha subido (en 2000 era 20.5%), sigue siendo moderada comparada con otros países: EUA debe el 120% y Japón el 260%.",
+  "aiInsight": "Que el gobierno se endeude no siempre es malo si el dinero se invierte bien. El problema es cuando se endeuda para gastar sin generar crecimiento.",
+  "source": "INEGI / SHCP",
+  "lastUpdate": "2025-03-01"
+}

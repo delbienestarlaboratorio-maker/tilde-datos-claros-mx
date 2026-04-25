@@ -1,0 +1,78 @@
+{
+  "id": "municipios",
+  "name": "Total de Municipios",
+  "inegi_id": "5300000180",
+  "unit": "Unidades",
+  "description": "La división política y administrativa del país",
+  "lastValue": "2,469",
+  "lastDate": "2024/01",
+  "previousValue": "2,469",
+  "changePercent": 0,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 2440
+    },
+    {
+      "date": "2011/01",
+      "value": 2442
+    },
+    {
+      "date": "2012/01",
+      "value": 2445
+    },
+    {
+      "date": "2013/01",
+      "value": 2448
+    },
+    {
+      "date": "2014/01",
+      "value": 2450
+    },
+    {
+      "date": "2015/01",
+      "value": 2454
+    },
+    {
+      "date": "2016/01",
+      "value": 2457
+    },
+    {
+      "date": "2017/01",
+      "value": 2458
+    },
+    {
+      "date": "2018/01",
+      "value": 2463
+    },
+    {
+      "date": "2019/01",
+      "value": 2465
+    },
+    {
+      "date": "2020/01",
+      "value": 2469
+    },
+    {
+      "date": "2021/01",
+      "value": 2469
+    },
+    {
+      "date": "2022/01",
+      "value": 2469
+    },
+    {
+      "date": "2023/01",
+      "value": 2469
+    },
+    {
+      "date": "2024/01",
+      "value": 2469
+    }
+  ],
+  "aiSummary": "Hay exactamente 2,469 municipios en México (incluyendo las 16 alcaldías de CDMX). Los estados con más municipios son Oaxaca (570), Puebla, y Veracruz.",
+  "aiInsight": "El municipio más poblado es Tijuana y el menos poblado está en Oaxaca (solo cien habitantes). En México es muy común que localidades rurales intenten separarse para volverse municipios autónomos y recibir presupuesto.",
+  "source": "INEGI - Marco Geoestadístico",
+  "lastUpdate": "2025-01-15"
+}

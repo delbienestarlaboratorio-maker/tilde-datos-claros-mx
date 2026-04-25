@@ -1,0 +1,102 @@
+{
+  "id": "reservas-internacionales",
+  "name": "Reservas Internacionales",
+  "inegi_id": "5300000064",
+  "unit": "Millones de dólares",
+  "description": "Ahorros del país para emergencias económicas",
+  "lastValue": "228,852",
+  "lastDate": "2025/03",
+  "previousValue": "220,200",
+  "changePercent": 3.93,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 68669
+    },
+    {
+      "date": "2006/01",
+      "value": 76330
+    },
+    {
+      "date": "2007/01",
+      "value": 87211
+    },
+    {
+      "date": "2008/01",
+      "value": 95302
+    },
+    {
+      "date": "2009/01",
+      "value": 90838
+    },
+    {
+      "date": "2010/01",
+      "value": 113597
+    },
+    {
+      "date": "2011/01",
+      "value": 142475
+    },
+    {
+      "date": "2012/01",
+      "value": 163515
+    },
+    {
+      "date": "2013/01",
+      "value": 176578
+    },
+    {
+      "date": "2014/01",
+      "value": 193239
+    },
+    {
+      "date": "2015/01",
+      "value": 176735
+    },
+    {
+      "date": "2016/01",
+      "value": 178025
+    },
+    {
+      "date": "2017/01",
+      "value": 175450
+    },
+    {
+      "date": "2018/01",
+      "value": 174524
+    },
+    {
+      "date": "2019/01",
+      "value": 183079
+    },
+    {
+      "date": "2020/01",
+      "value": 195682
+    },
+    {
+      "date": "2021/01",
+      "value": 202426
+    },
+    {
+      "date": "2022/01",
+      "value": 199145
+    },
+    {
+      "date": "2023/01",
+      "value": 210233
+    },
+    {
+      "date": "2024/01",
+      "value": 220200
+    },
+    {
+      "date": "2025/01",
+      "value": 228852
+    }
+  ],
+  "aiSummary": "México tiene casi 229 mil millones de dólares en reservas internacionales, un récord. Es como la cuenta de ahorros del país para enfrentar crisis económicas o devaluaciones.",
+  "aiInsight": "Las reservas dan estabilidad al peso. Si hubiera una crisis, Banxico puede usar este dinero para defender la moneda. Es como tu fondo de emergencia, pero a nivel país.",
+  "source": "INEGI / Banxico",
+  "lastUpdate": "2025-04-15"
+}

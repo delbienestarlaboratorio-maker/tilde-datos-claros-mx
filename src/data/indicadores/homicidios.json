@@ -1,0 +1,118 @@
+{
+  "id": "homicidios",
+  "name": "Tasa de Homicidios",
+  "inegi_id": "1002000059",
+  "unit": "Por cada 100,000 hab",
+  "description": "Muertes violentas intencionales",
+  "lastValue": "23.3",
+  "lastDate": "2024/01",
+  "previousValue": "24.8",
+  "changePercent": -6.05,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 10.3
+    },
+    {
+      "date": "2001/01",
+      "value": 10
+    },
+    {
+      "date": "2002/01",
+      "value": 9.5
+    },
+    {
+      "date": "2003/01",
+      "value": 9.3
+    },
+    {
+      "date": "2004/01",
+      "value": 8.8
+    },
+    {
+      "date": "2005/01",
+      "value": 9.5
+    },
+    {
+      "date": "2006/01",
+      "value": 10
+    },
+    {
+      "date": "2007/01",
+      "value": 8.3
+    },
+    {
+      "date": "2008/01",
+      "value": 12.5
+    },
+    {
+      "date": "2009/01",
+      "value": 17
+    },
+    {
+      "date": "2010/01",
+      "value": 23.8
+    },
+    {
+      "date": "2011/01",
+      "value": 23.6
+    },
+    {
+      "date": "2012/01",
+      "value": 22
+    },
+    {
+      "date": "2013/01",
+      "value": 18.7
+    },
+    {
+      "date": "2014/01",
+      "value": 16.9
+    },
+    {
+      "date": "2015/01",
+      "value": 17
+    },
+    {
+      "date": "2016/01",
+      "value": 20.5
+    },
+    {
+      "date": "2017/01",
+      "value": 25.7
+    },
+    {
+      "date": "2018/01",
+      "value": 29.1
+    },
+    {
+      "date": "2019/01",
+      "value": 28.3
+    },
+    {
+      "date": "2020/01",
+      "value": 27.6
+    },
+    {
+      "date": "2021/01",
+      "value": 28.1
+    },
+    {
+      "date": "2022/01",
+      "value": 26.2
+    },
+    {
+      "date": "2023/01",
+      "value": 24.8
+    },
+    {
+      "date": "2024/01",
+      "value": 23.3
+    }
+  ],
+  "aiSummary": "La tasa de homicidios es de 23.3 por cada 100,000 habitantes, bajando de su pico de 29.1 en 2018. Aún es 2.5 veces mayor que en el año 2007 (antes de la 'guerra contra el narco').",
+  "aiInsight": "Los estados más violentos son Colima, Baja California, Chihuahua y Zacatecas. Los más seguros son Yucatán, Tlaxcala y Aguascalientes.",
+  "source": "INEGI - Mortalidad / SESNSP",
+  "lastUpdate": "2025-03-15"
+}

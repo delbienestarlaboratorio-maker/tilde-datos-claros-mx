@@ -1,0 +1,118 @@
+{
+  "id": "defunciones",
+  "name": "Defunciones Registradas",
+  "inegi_id": "1002000011",
+  "unit": "Miles de personas",
+  "description": "Total de personas que fallecieron en el año",
+  "lastValue": "848",
+  "lastDate": "2024/01",
+  "previousValue": "847",
+  "changePercent": 0.12,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 437
+    },
+    {
+      "date": "2001/01",
+      "value": 443
+    },
+    {
+      "date": "2002/01",
+      "value": 459
+    },
+    {
+      "date": "2003/01",
+      "value": 472
+    },
+    {
+      "date": "2004/01",
+      "value": 473
+    },
+    {
+      "date": "2005/01",
+      "value": 495
+    },
+    {
+      "date": "2006/01",
+      "value": 494
+    },
+    {
+      "date": "2007/01",
+      "value": 514
+    },
+    {
+      "date": "2008/01",
+      "value": 540
+    },
+    {
+      "date": "2009/01",
+      "value": 564
+    },
+    {
+      "date": "2010/01",
+      "value": 592
+    },
+    {
+      "date": "2011/01",
+      "value": 591
+    },
+    {
+      "date": "2012/01",
+      "value": 602
+    },
+    {
+      "date": "2013/01",
+      "value": 623
+    },
+    {
+      "date": "2014/01",
+      "value": 633
+    },
+    {
+      "date": "2015/01",
+      "value": 655
+    },
+    {
+      "date": "2016/01",
+      "value": 686
+    },
+    {
+      "date": "2017/01",
+      "value": 703
+    },
+    {
+      "date": "2018/01",
+      "value": 722
+    },
+    {
+      "date": "2019/01",
+      "value": 747
+    },
+    {
+      "date": "2020/01",
+      "value": 1086
+    },
+    {
+      "date": "2021/01",
+      "value": 1117
+    },
+    {
+      "date": "2022/01",
+      "value": 848
+    },
+    {
+      "date": "2023/01",
+      "value": 847
+    },
+    {
+      "date": "2024/01",
+      "value": 848
+    }
+  ],
+  "aiSummary": "En 2024 se registraron 848 mil defunciones. El pico de 2020-2021 (más de 1 millón) fue causado por COVID-19. Las cifras ya regresaron a niveles pre-pandemia.",
+  "aiInsight": "Las tres principales causas de muerte en México son: enfermedades del corazón, diabetes y tumores malignos. Juntas representan más del 40% de las muertes.",
+  "source": "INEGI - Estadísticas Vitales",
+  "lastUpdate": "2025-02-15"
+}

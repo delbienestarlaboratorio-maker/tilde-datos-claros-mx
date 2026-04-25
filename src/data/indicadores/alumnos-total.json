@@ -1,0 +1,98 @@
+{
+  "id": "alumnos-total",
+  "name": "Alumnos Inscritos",
+  "inegi_id": "1002000027",
+  "unit": "Personas",
+  "description": "Total de estudiantes en el país",
+  "lastValue": "36,218,000",
+  "lastDate": "2024/09",
+  "previousValue": "36,005,000",
+  "changePercent": 0.59,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 32567000
+    },
+    {
+      "date": "2006/01",
+      "value": 32892000
+    },
+    {
+      "date": "2007/01",
+      "value": 33215000
+    },
+    {
+      "date": "2008/01",
+      "value": 33456000
+    },
+    {
+      "date": "2009/01",
+      "value": 33678000
+    },
+    {
+      "date": "2010/01",
+      "value": 33912000
+    },
+    {
+      "date": "2011/01",
+      "value": 34125000
+    },
+    {
+      "date": "2012/01",
+      "value": 34356000
+    },
+    {
+      "date": "2013/01",
+      "value": 34589000
+    },
+    {
+      "date": "2014/01",
+      "value": 34812000
+    },
+    {
+      "date": "2015/01",
+      "value": 35024000
+    },
+    {
+      "date": "2016/01",
+      "value": 35156000
+    },
+    {
+      "date": "2017/01",
+      "value": 35289000
+    },
+    {
+      "date": "2018/01",
+      "value": 35425000
+    },
+    {
+      "date": "2019/01",
+      "value": 35598000
+    },
+    {
+      "date": "2020/01",
+      "value": 35012000
+    },
+    {
+      "date": "2021/01",
+      "value": 35234000
+    },
+    {
+      "date": "2022/01",
+      "value": 35689000
+    },
+    {
+      "date": "2023/01",
+      "value": 36005000
+    },
+    {
+      "date": "2024/01",
+      "value": 36218000
+    }
+  ],
+  "aiSummary": "Más de 36 millones de personas estudian en México, desde preescolar hasta universidad. Es casi la misma cantidad que la población total de Canadá.",
+  "aiInsight": "La matrícula subió 0.6%, lo cual indica que más jóvenes están en la escuela. Sin embargo, durante la pandemia hubo una caída importante y aún estamos en la recuperación.",
+  "source": "INEGI - Estadísticas de Educación",
+  "lastUpdate": "2024-12-15"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "pobreza-extrema",
+  "name": "Pobreza Extrema",
+  "inegi_id": "5300000151",
+  "unit": "Porcentaje de la población",
+  "description": "Personas sin ingresos suficientes para la canasta básica alimentaria",
+  "lastValue": "7.1",
+  "lastDate": "2024/01",
+  "previousValue": "8.5",
+  "changePercent": -16.47,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2008/01",
+      "value": 11
+    },
+    {
+      "date": "2009/01",
+      "value": 11.3
+    },
+    {
+      "date": "2010/01",
+      "value": 10.5
+    },
+    {
+      "date": "2011/01",
+      "value": 10.8
+    },
+    {
+      "date": "2012/01",
+      "value": 9.8
+    },
+    {
+      "date": "2013/01",
+      "value": 9.5
+    },
+    {
+      "date": "2014/01",
+      "value": 9
+    },
+    {
+      "date": "2015/01",
+      "value": 8.5
+    },
+    {
+      "date": "2016/01",
+      "value": 7.6
+    },
+    {
+      "date": "2017/01",
+      "value": 7.4
+    },
+    {
+      "date": "2018/01",
+      "value": 7
+    },
+    {
+      "date": "2019/01",
+      "value": 8.5
+    },
+    {
+      "date": "2020/01",
+      "value": 8
+    },
+    {
+      "date": "2021/01",
+      "value": 7.1
+    },
+    {
+      "date": "2022/01",
+      "value": 7.1
+    },
+    {
+      "date": "2023/01",
+      "value": 7.1
+    },
+    {
+      "date": "2024/01",
+      "value": 7.1
+    }
+  ],
+  "aiSummary": "El 7.1% (9.1 millones) vive en pobreza extrema. Estas son personas que aun si gastaran todo su dinero, no les alcanzaría para comprar una canasta básica de alimentos.",
+  "aiInsight": "Aunque la pobreza general bajó mucho, 9 millones de personas que no pueden comer lo indispensable todos los días en la 12ª economía más grande del mundo revela mucha desigualdad.",
+  "source": "CONEVAL con datos INEGI",
+  "lastUpdate": "2025-01-15"
+}

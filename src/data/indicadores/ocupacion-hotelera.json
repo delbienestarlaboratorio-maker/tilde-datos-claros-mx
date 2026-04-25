@@ -1,0 +1,78 @@
+{
+  "id": "ocupacion-hotelera",
+  "name": "Ocupación Hotelera",
+  "inegi_id": "5300000071",
+  "unit": "Porcentaje",
+  "description": "De cada 100 cuartos de hotel, cuántos están ocupados",
+  "lastValue": "62.5",
+  "lastDate": "2024/12",
+  "previousValue": "59.8",
+  "changePercent": 4.52,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 50.2
+    },
+    {
+      "date": "2011/01",
+      "value": 52.5
+    },
+    {
+      "date": "2012/01",
+      "value": 54.8
+    },
+    {
+      "date": "2013/01",
+      "value": 55.2
+    },
+    {
+      "date": "2014/01",
+      "value": 57.5
+    },
+    {
+      "date": "2015/01",
+      "value": 59.2
+    },
+    {
+      "date": "2016/01",
+      "value": 57.8
+    },
+    {
+      "date": "2017/01",
+      "value": 58.5
+    },
+    {
+      "date": "2018/01",
+      "value": 59.8
+    },
+    {
+      "date": "2019/01",
+      "value": 60.5
+    },
+    {
+      "date": "2020/01",
+      "value": 28.2
+    },
+    {
+      "date": "2021/01",
+      "value": 42.5
+    },
+    {
+      "date": "2022/01",
+      "value": 55.2
+    },
+    {
+      "date": "2023/01",
+      "value": 59.8
+    },
+    {
+      "date": "2024/01",
+      "value": 62.5
+    }
+  ],
+  "aiSummary": "El 62.5% de los cuartos de hotel están ocupados, el nivel más alto en años. La caída brutal de 2020 (28%) por la pandemia quedó completamente superada.",
+  "aiInsight": "Cuando la ocupación hotelera sube, los precios de hospedaje también suben. Si planeas vacaciones, reserva con anticipación en temporada alta.",
+  "source": "INEGI / SECTUR",
+  "lastUpdate": "2025-03-15"
+}

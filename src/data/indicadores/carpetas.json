@@ -1,0 +1,78 @@
+{
+  "id": "carpetas",
+  "name": "Carpetas de Investigación",
+  "inegi_id": "1002000058",
+  "unit": "Carpetas",
+  "description": "Denuncias formales ante el ministerio público",
+  "lastValue": "2,145,000",
+  "lastDate": "2024/12",
+  "previousValue": "2,236,000",
+  "changePercent": -4.07,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 1628000
+    },
+    {
+      "date": "2011/01",
+      "value": 1675000
+    },
+    {
+      "date": "2012/01",
+      "value": 1711000
+    },
+    {
+      "date": "2013/01",
+      "value": 1842000
+    },
+    {
+      "date": "2014/01",
+      "value": 1885000
+    },
+    {
+      "date": "2015/01",
+      "value": 1935000
+    },
+    {
+      "date": "2016/01",
+      "value": 1978000
+    },
+    {
+      "date": "2017/01",
+      "value": 2012000
+    },
+    {
+      "date": "2018/01",
+      "value": 2089000
+    },
+    {
+      "date": "2019/01",
+      "value": 2156000
+    },
+    {
+      "date": "2020/01",
+      "value": 2198000
+    },
+    {
+      "date": "2021/01",
+      "value": 2215000
+    },
+    {
+      "date": "2022/01",
+      "value": 2240000
+    },
+    {
+      "date": "2023/01",
+      "value": 2236000
+    },
+    {
+      "date": "2024/01",
+      "value": 2145000
+    }
+  ],
+  "aiSummary": "Se abrieron 2.14 millones de carpetas de investigación en 2024, 4% menos que el año anterior. Es la primera baja sostenida en años, aunque los expertos señalan que la mayoría de delitos nunca se denuncia.",
+  "aiInsight": "La cifra negra (delitos que no se denuncian) en México supera el 90%. Que bajen las carpetas puede significar menos delitos, pero también que la gente confía menos en denunciar.",
+  "source": "INEGI - ENVIPE / CNPJ",
+  "lastUpdate": "2025-03-15"
+}

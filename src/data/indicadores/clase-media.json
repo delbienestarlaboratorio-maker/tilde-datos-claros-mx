@@ -1,0 +1,78 @@
+{
+  "id": "clase-media",
+  "name": "Clase Media",
+  "inegi_id": "5300000153",
+  "unit": "Porcentaje de hogares",
+  "description": "Población considerada de clase media según INEGI",
+  "lastValue": "42.2",
+  "lastDate": "2024/01",
+  "previousValue": "42.2",
+  "changePercent": 0,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 42.4
+    },
+    {
+      "date": "2011/01",
+      "value": 42.4
+    },
+    {
+      "date": "2012/01",
+      "value": 42.4
+    },
+    {
+      "date": "2013/01",
+      "value": 42.4
+    },
+    {
+      "date": "2014/01",
+      "value": 42.4
+    },
+    {
+      "date": "2015/01",
+      "value": 42.4
+    },
+    {
+      "date": "2016/01",
+      "value": 42.4
+    },
+    {
+      "date": "2017/01",
+      "value": 42.4
+    },
+    {
+      "date": "2018/01",
+      "value": 42.4
+    },
+    {
+      "date": "2019/01",
+      "value": 42.4
+    },
+    {
+      "date": "2020/01",
+      "value": 42.2
+    },
+    {
+      "date": "2021/01",
+      "value": 42.2
+    },
+    {
+      "date": "2022/01",
+      "value": 42.2
+    },
+    {
+      "date": "2023/01",
+      "value": 42.2
+    },
+    {
+      "date": "2024/01",
+      "value": 42.2
+    }
+  ],
+  "aiSummary": "Solo el 42.2% de los hogares mexicanos son técnica y estadísticamente de clase media. Menos del 2% se considera clase alta; la mayoría es clase baja (56%).",
+  "aiInsight": "Hay mucha 'falsa percepción' en México: muchísima gente que estadísticamente es clase alta o clase baja se percibe a sí misma como 'clase media'.",
+  "source": "INEGI",
+  "lastUpdate": "2025-01-15"
+}

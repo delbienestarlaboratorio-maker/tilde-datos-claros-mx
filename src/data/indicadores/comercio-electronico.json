@@ -1,0 +1,58 @@
+{
+  "id": "comercio-electronico",
+  "name": "Comercio Electrónico",
+  "inegi_id": "5300000042",
+  "unit": "Porcentaje del comercio total",
+  "description": "Cuánto del total de ventas es por internet",
+  "lastValue": "13.8",
+  "lastDate": "2024/12",
+  "previousValue": "12.1",
+  "changePercent": 14.05,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 3.2
+    },
+    {
+      "date": "2016/01",
+      "value": 4.1
+    },
+    {
+      "date": "2017/01",
+      "value": 5.2
+    },
+    {
+      "date": "2018/01",
+      "value": 6.5
+    },
+    {
+      "date": "2019/01",
+      "value": 7.8
+    },
+    {
+      "date": "2020/01",
+      "value": 10.5
+    },
+    {
+      "date": "2021/01",
+      "value": 11.2
+    },
+    {
+      "date": "2022/01",
+      "value": 11.8
+    },
+    {
+      "date": "2023/01",
+      "value": 12.1
+    },
+    {
+      "date": "2024/01",
+      "value": 13.8
+    }
+  ],
+  "aiSummary": "El 13.8% de todo el comercio en México ya se hace por internet, más del doble que en 2018 (6.5%). La pandemia aceleró enormemente las compras en línea.",
+  "aiInsight": "Si tú compras en Amazon, Mercado Libre o Liverpool online, eres parte de este 13.8%. Cada año más mexicanos prefieren comprar desde su celular o computadora.",
+  "source": "INEGI - ENDUTIH / AMVO",
+  "lastUpdate": "2025-03-01"
+}

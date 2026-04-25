@@ -1,0 +1,78 @@
+{
+  "id": "pesca",
+  "name": "Captura Pesquera",
+  "inegi_id": "5300000133",
+  "unit": "Miles de toneladas",
+  "description": "Total de pescados y mariscos capturados",
+  "lastValue": "1,980",
+  "lastDate": "2024/01",
+  "previousValue": "1,950",
+  "changePercent": 1.54,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 1600
+    },
+    {
+      "date": "2011/01",
+      "value": 1650
+    },
+    {
+      "date": "2012/01",
+      "value": 1700
+    },
+    {
+      "date": "2013/01",
+      "value": 1750
+    },
+    {
+      "date": "2014/01",
+      "value": 1720
+    },
+    {
+      "date": "2015/01",
+      "value": 1710
+    },
+    {
+      "date": "2016/01",
+      "value": 1750
+    },
+    {
+      "date": "2017/01",
+      "value": 1780
+    },
+    {
+      "date": "2018/01",
+      "value": 1800
+    },
+    {
+      "date": "2019/01",
+      "value": 1850
+    },
+    {
+      "date": "2020/01",
+      "value": 1820
+    },
+    {
+      "date": "2021/01",
+      "value": 1880
+    },
+    {
+      "date": "2022/01",
+      "value": 1920
+    },
+    {
+      "date": "2023/01",
+      "value": 1950
+    },
+    {
+      "date": "2024/01",
+      "value": 1980
+    }
+  ],
+  "aiSummary": "Se pescaron cerca de 2 millones de toneladas. La sardina, atún, camarón y mojarra son las principales especies.",
+  "aiInsight": "México tiene litorales inmensos, pero comemos muy poco pescado comparado con países ribereños (13 kg por persona al año). Y mucho del atún que comemos es importado.",
+  "source": "INEGI / CONAPESCA",
+  "lastUpdate": "2025-02-15"
+}

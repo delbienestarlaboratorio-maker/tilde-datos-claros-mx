@@ -1,0 +1,78 @@
+{
+  "id": "ingresos-municipales",
+  "name": "Ingresos Propios Municipales",
+  "inegi_id": "5300000161",
+  "unit": "Porcentaje de sus ingresos totales",
+  "description": "Qué tanto dinero recaudan los municipios por sí mismos via predial y pagos",
+  "lastValue": "22.5",
+  "lastDate": "2024/01",
+  "previousValue": "22.1",
+  "changePercent": 1.81,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 18.2
+    },
+    {
+      "date": "2011/01",
+      "value": 18.5
+    },
+    {
+      "date": "2012/01",
+      "value": 18.8
+    },
+    {
+      "date": "2013/01",
+      "value": 19.2
+    },
+    {
+      "date": "2014/01",
+      "value": 19.5
+    },
+    {
+      "date": "2015/01",
+      "value": 19.8
+    },
+    {
+      "date": "2016/01",
+      "value": 20.2
+    },
+    {
+      "date": "2017/01",
+      "value": 20.5
+    },
+    {
+      "date": "2018/01",
+      "value": 21
+    },
+    {
+      "date": "2019/01",
+      "value": 21.5
+    },
+    {
+      "date": "2020/01",
+      "value": 21.2
+    },
+    {
+      "date": "2021/01",
+      "value": 21.8
+    },
+    {
+      "date": "2022/01",
+      "value": 22.1
+    },
+    {
+      "date": "2023/01",
+      "value": 22.3
+    },
+    {
+      "date": "2024/01",
+      "value": 22.5
+    }
+  ],
+  "aiSummary": "En promedio, los alcaldes y municipios solo recaudan el 22.5% del dinero que gastan. El resto dependen de que la Federación (el presidente) les mande su presupuesto.",
+  "aiInsight": "Esta alta dependencia genera 'sumisión' política a nivel local. Como los municipios recaudan muy poco predial, no tienen dinero propio para pavimentar o poner policías.",
+  "source": "INEGI - Finanzas Públicas",
+  "lastUpdate": "2025-01-15"
+}

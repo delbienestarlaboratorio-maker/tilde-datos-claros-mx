@@ -1,0 +1,58 @@
+{
+  "id": "canasta-basica",
+  "name": "Costo Canasta Básica",
+  "inegi_id": "5300000193",
+  "unit": "Pesos mensuales por persona",
+  "description": "Cuánto cuesta lo mínimo para comer (Línea de pobreza extrema por ingresos)",
+  "lastValue": "2,285",
+  "lastDate": "2024/01",
+  "previousValue": "2,150",
+  "changePercent": 6.28,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 1350
+    },
+    {
+      "date": "2016/01",
+      "value": 1420
+    },
+    {
+      "date": "2017/01",
+      "value": 1550
+    },
+    {
+      "date": "2018/01",
+      "value": 1650
+    },
+    {
+      "date": "2019/01",
+      "value": 1720
+    },
+    {
+      "date": "2020/01",
+      "value": 1800
+    },
+    {
+      "date": "2021/01",
+      "value": 1950
+    },
+    {
+      "date": "2022/01",
+      "value": 2100
+    },
+    {
+      "date": "2023/01",
+      "value": 2150
+    },
+    {
+      "date": "2024/01",
+      "value": 2285
+    }
+  ],
+  "aiSummary": "Cuesta 2,285 pesos al mes alimentar a una persona en zonas urbanas solo con lo más indispensable (frijol, tortilla, huevo). Una familia de 4 necesita casi 9,140 pesos solo para comer.",
+  "aiInsight": "La comida en México ha subido de precio mucho más rápido que otros servicios. Por eso, aunque el salario ha subido, ir al supermercado se siente cada vez más caro.",
+  "source": "CONEVAL con datos INEGI",
+  "lastUpdate": "2025-02-15"
+}

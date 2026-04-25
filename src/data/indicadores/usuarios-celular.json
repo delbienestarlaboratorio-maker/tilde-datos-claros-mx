@@ -1,0 +1,78 @@
+{
+  "id": "usuarios-celular",
+  "name": "Usuarios de Celular",
+  "inegi_id": "5300000111",
+  "unit": "Millones de personas",
+  "description": "Mexicanos con teléfono celular",
+  "lastValue": "97.2",
+  "lastDate": "2024/01",
+  "previousValue": "93.8",
+  "changePercent": 3.62,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 50.6
+    },
+    {
+      "date": "2011/01",
+      "value": 56.8
+    },
+    {
+      "date": "2012/01",
+      "value": 60.6
+    },
+    {
+      "date": "2013/01",
+      "value": 65.1
+    },
+    {
+      "date": "2014/01",
+      "value": 68
+    },
+    {
+      "date": "2015/01",
+      "value": 77.7
+    },
+    {
+      "date": "2016/01",
+      "value": 81
+    },
+    {
+      "date": "2017/01",
+      "value": 80.9
+    },
+    {
+      "date": "2018/01",
+      "value": 83.1
+    },
+    {
+      "date": "2019/01",
+      "value": 86.5
+    },
+    {
+      "date": "2020/01",
+      "value": 88.2
+    },
+    {
+      "date": "2021/01",
+      "value": 91.7
+    },
+    {
+      "date": "2022/01",
+      "value": 93.8
+    },
+    {
+      "date": "2023/01",
+      "value": 95.5
+    },
+    {
+      "date": "2024/01",
+      "value": 97.2
+    }
+  ],
+  "aiSummary": "Hay más de 97 millones de usuarios de teléfono celular en México. El 95% de estos usan un smartphone (teléfono inteligente).",
+  "aiInsight": "El celular reemplazó a la computadora para la gran mayoría de la población. Hoy en México se usa el celular para trabajo, compras, salud, bancos y educación.",
+  "source": "INEGI - ENDUTIH",
+  "lastUpdate": "2025-01-15"
+}

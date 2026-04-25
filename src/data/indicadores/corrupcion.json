@@ -1,0 +1,74 @@
+{
+  "id": "corrupcion",
+  "name": "Percepción de Corrupción",
+  "inegi_id": "1002000064",
+  "unit": "Porcentaje",
+  "description": "Personas que creen que el gobierno es corrupto",
+  "lastValue": "82.5",
+  "lastDate": "2024/01",
+  "previousValue": "84.2",
+  "changePercent": -2.02,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2011/01",
+      "value": 82
+    },
+    {
+      "date": "2012/01",
+      "value": 83.5
+    },
+    {
+      "date": "2013/01",
+      "value": 85
+    },
+    {
+      "date": "2014/01",
+      "value": 86.5
+    },
+    {
+      "date": "2015/01",
+      "value": 88
+    },
+    {
+      "date": "2016/01",
+      "value": 87.5
+    },
+    {
+      "date": "2017/01",
+      "value": 87
+    },
+    {
+      "date": "2018/01",
+      "value": 86.5
+    },
+    {
+      "date": "2019/01",
+      "value": 86
+    },
+    {
+      "date": "2020/01",
+      "value": 85.5
+    },
+    {
+      "date": "2021/01",
+      "value": 85
+    },
+    {
+      "date": "2022/01",
+      "value": 84.5
+    },
+    {
+      "date": "2023/01",
+      "value": 84.2
+    },
+    {
+      "date": "2024/01",
+      "value": 82.5
+    }
+  ],
+  "aiSummary": "El 82.5% de la población cree que las prácticas de corrupción son frecuentes en su gobierno. Ha bajado ligeramente del 88% en 2015, pero sigue siendo altísimo.",
+  "aiInsight": "El 14% de las personas que hicieron un trámite gubernamental reportó haber pagado un 'soborno'. El costo de la corrupción se estima en el 5% del PIB.",
+  "source": "INEGI - ENCIG",
+  "lastUpdate": "2025-01-15"
+}

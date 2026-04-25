@@ -1,0 +1,78 @@
+{
+  "id": "pib-per-capita",
+  "name": "PIB Per Cápita",
+  "inegi_id": "5300000191",
+  "unit": "Miles de pesos",
+  "description": "La riqueza del país dividida entre todos los habitantes",
+  "lastValue": "235",
+  "lastDate": "2024/01",
+  "previousValue": "228",
+  "changePercent": 3.07,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 155
+    },
+    {
+      "date": "2011/01",
+      "value": 162
+    },
+    {
+      "date": "2012/01",
+      "value": 170
+    },
+    {
+      "date": "2013/01",
+      "value": 175
+    },
+    {
+      "date": "2014/01",
+      "value": 182
+    },
+    {
+      "date": "2015/01",
+      "value": 188
+    },
+    {
+      "date": "2016/01",
+      "value": 195
+    },
+    {
+      "date": "2017/01",
+      "value": 202
+    },
+    {
+      "date": "2018/01",
+      "value": 208
+    },
+    {
+      "date": "2019/01",
+      "value": 210
+    },
+    {
+      "date": "2020/01",
+      "value": 185
+    },
+    {
+      "date": "2021/01",
+      "value": 205
+    },
+    {
+      "date": "2022/01",
+      "value": 218
+    },
+    {
+      "date": "2023/01",
+      "value": 228
+    },
+    {
+      "date": "2024/01",
+      "value": 235
+    }
+  ],
+  "aiSummary": "Si dividiéramos todo lo que produce México (el PIB) entre sus 130 millones de habitantes, a cada persona le tocarían 235 mil pesos al año.",
+  "aiInsight": "Obviamente la riqueza no se reparte igual. Sin embargo, el PIB per cápita sirve para compararnos con otros países: estamos muy por encima de Centroamérica, pero muy por debajo de Europa o EUA.",
+  "source": "INEGI - SCNM",
+  "lastUpdate": "2025-02-15"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "export-no-petroleras",
+  "name": "Exportaciones No Petroleras",
+  "inegi_id": "5300000054",
+  "unit": "Millones de dólares",
+  "description": "Todo lo que vendemos que no es petróleo",
+  "lastValue": "560,472",
+  "lastDate": "2024/12",
+  "previousValue": "528,292",
+  "changePercent": 6.09,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 256612
+    },
+    {
+      "date": "2011/01",
+      "value": 292992
+    },
+    {
+      "date": "2012/01",
+      "value": 317789
+    },
+    {
+      "date": "2013/01",
+      "value": 330696
+    },
+    {
+      "date": "2014/01",
+      "value": 354734
+    },
+    {
+      "date": "2015/01",
+      "value": 357332
+    },
+    {
+      "date": "2016/01",
+      "value": 355105
+    },
+    {
+      "date": "2017/01",
+      "value": 385792
+    },
+    {
+      "date": "2018/01",
+      "value": 420325
+    },
+    {
+      "date": "2019/01",
+      "value": 434564
+    },
+    {
+      "date": "2020/01",
+      "value": 399465
+    },
+    {
+      "date": "2021/01",
+      "value": 465489
+    },
+    {
+      "date": "2022/01",
+      "value": 539477
+    },
+    {
+      "date": "2023/01",
+      "value": 528292
+    },
+    {
+      "date": "2024/01",
+      "value": 560472
+    }
+  ],
+  "aiSummary": "Las exportaciones no petroleras alcanzaron un récord de 560 mil millones de dólares, creciendo 6%. Manufactura, agroalimentarios y minería lideran las ventas al extranjero.",
+  "aiInsight": "El nearshoring (empresas que mudan sus fábricas a México) está impulsando estas exportaciones. México se beneficia de su cercanía con EUA y del T-MEC.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

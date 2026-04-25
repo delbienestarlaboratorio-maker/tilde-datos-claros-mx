@@ -1,0 +1,270 @@
+{
+  "id": "produccion-industrial",
+  "name": "Producción Industrial",
+  "inegi_id": "383152",
+  "unit": "Índice base 2018=100",
+  "description": "Cuánto produce la industria mexicana",
+  "lastValue": "104.8",
+  "lastDate": "2025/02",
+  "previousValue": "103.9",
+  "changePercent": 0.87,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2020/01",
+      "value": 100.4
+    },
+    {
+      "date": "2020/02",
+      "value": 100.8
+    },
+    {
+      "date": "2020/03",
+      "value": 82.5
+    },
+    {
+      "date": "2020/04",
+      "value": 64.2
+    },
+    {
+      "date": "2020/05",
+      "value": 72.8
+    },
+    {
+      "date": "2020/06",
+      "value": 84.5
+    },
+    {
+      "date": "2020/07",
+      "value": 90.2
+    },
+    {
+      "date": "2020/08",
+      "value": 93.1
+    },
+    {
+      "date": "2020/09",
+      "value": 95.4
+    },
+    {
+      "date": "2020/10",
+      "value": 96.8
+    },
+    {
+      "date": "2020/11",
+      "value": 97.2
+    },
+    {
+      "date": "2020/12",
+      "value": 98.5
+    },
+    {
+      "date": "2021/01",
+      "value": 98.8
+    },
+    {
+      "date": "2021/02",
+      "value": 99.2
+    },
+    {
+      "date": "2021/03",
+      "value": 100.1
+    },
+    {
+      "date": "2021/04",
+      "value": 100.5
+    },
+    {
+      "date": "2021/05",
+      "value": 100.8
+    },
+    {
+      "date": "2021/06",
+      "value": 101.2
+    },
+    {
+      "date": "2021/07",
+      "value": 101.5
+    },
+    {
+      "date": "2021/08",
+      "value": 101.8
+    },
+    {
+      "date": "2021/09",
+      "value": 102.1
+    },
+    {
+      "date": "2021/10",
+      "value": 102.4
+    },
+    {
+      "date": "2021/11",
+      "value": 102.8
+    },
+    {
+      "date": "2021/12",
+      "value": 103.1
+    },
+    {
+      "date": "2022/01",
+      "value": 103.4
+    },
+    {
+      "date": "2022/02",
+      "value": 103.6
+    },
+    {
+      "date": "2022/03",
+      "value": 103.9
+    },
+    {
+      "date": "2022/04",
+      "value": 104.1
+    },
+    {
+      "date": "2022/05",
+      "value": 104.3
+    },
+    {
+      "date": "2022/06",
+      "value": 104.5
+    },
+    {
+      "date": "2022/07",
+      "value": 104.2
+    },
+    {
+      "date": "2022/08",
+      "value": 104.5
+    },
+    {
+      "date": "2022/09",
+      "value": 104.8
+    },
+    {
+      "date": "2022/10",
+      "value": 105.1
+    },
+    {
+      "date": "2022/11",
+      "value": 102.8
+    },
+    {
+      "date": "2022/12",
+      "value": 103.2
+    },
+    {
+      "date": "2023/01",
+      "value": 103.5
+    },
+    {
+      "date": "2023/02",
+      "value": 103.8
+    },
+    {
+      "date": "2023/03",
+      "value": 104.1
+    },
+    {
+      "date": "2023/04",
+      "value": 104.4
+    },
+    {
+      "date": "2023/05",
+      "value": 104.6
+    },
+    {
+      "date": "2023/06",
+      "value": 104.2
+    },
+    {
+      "date": "2023/07",
+      "value": 103.5
+    },
+    {
+      "date": "2023/08",
+      "value": 103.8
+    },
+    {
+      "date": "2023/09",
+      "value": 104.1
+    },
+    {
+      "date": "2023/10",
+      "value": 103.6
+    },
+    {
+      "date": "2023/11",
+      "value": 103.2
+    },
+    {
+      "date": "2023/12",
+      "value": 103.5
+    },
+    {
+      "date": "2024/01",
+      "value": 103.8
+    },
+    {
+      "date": "2024/02",
+      "value": 104.1
+    },
+    {
+      "date": "2024/03",
+      "value": 104.3
+    },
+    {
+      "date": "2024/04",
+      "value": 104.5
+    },
+    {
+      "date": "2024/05",
+      "value": 104.2
+    },
+    {
+      "date": "2024/06",
+      "value": 104.5
+    },
+    {
+      "date": "2024/07",
+      "value": 104.8
+    },
+    {
+      "date": "2024/08",
+      "value": 105.1
+    },
+    {
+      "date": "2024/09",
+      "value": 104.8
+    },
+    {
+      "date": "2024/10",
+      "value": 104.5
+    },
+    {
+      "date": "2024/11",
+      "value": 104.8
+    },
+    {
+      "date": "2024/12",
+      "value": 104.6
+    },
+    {
+      "date": "2025/01",
+      "value": 104.3
+    },
+    {
+      "date": "2025/02",
+      "value": 104.5
+    },
+    {
+      "date": "2025/03",
+      "value": 104.8
+    }
+  ],
+  "aiSummary": "La producción industrial de México está en 104.8 puntos, un 4.8% mayor que en 2018. Se recuperó completamente de la caída de la pandemia donde llegó a caer a 64 puntos.",
+  "aiInsight": "Las fábricas mexicanas producen más que antes de la pandemia. El nearshoring (empresas que mudan sus fábricas de China a México) está impulsando este crecimiento.",
+  "source": "INEGI - Indicador Mensual de Actividad Industrial",
+  "lastUpdate": "2025-04-15"
+}

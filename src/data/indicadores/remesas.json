@@ -1,0 +1,118 @@
+{
+  "id": "remesas",
+  "name": "Remesas Familiares",
+  "inegi_id": "5300000062",
+  "unit": "Millones de dólares",
+  "description": "Dinero que envían los mexicanos desde el extranjero",
+  "lastValue": "63,313",
+  "lastDate": "2024/12",
+  "previousValue": "63,316",
+  "changePercent": -0.005,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 6573
+    },
+    {
+      "date": "2001/01",
+      "value": 8895
+    },
+    {
+      "date": "2002/01",
+      "value": 9814
+    },
+    {
+      "date": "2003/01",
+      "value": 13396
+    },
+    {
+      "date": "2004/01",
+      "value": 16613
+    },
+    {
+      "date": "2005/01",
+      "value": 20035
+    },
+    {
+      "date": "2006/01",
+      "value": 23742
+    },
+    {
+      "date": "2007/01",
+      "value": 23979
+    },
+    {
+      "date": "2008/01",
+      "value": 25145
+    },
+    {
+      "date": "2009/01",
+      "value": 21306
+    },
+    {
+      "date": "2010/01",
+      "value": 21304
+    },
+    {
+      "date": "2011/01",
+      "value": 22803
+    },
+    {
+      "date": "2012/01",
+      "value": 22438
+    },
+    {
+      "date": "2013/01",
+      "value": 22303
+    },
+    {
+      "date": "2014/01",
+      "value": 23647
+    },
+    {
+      "date": "2015/01",
+      "value": 24785
+    },
+    {
+      "date": "2016/01",
+      "value": 26970
+    },
+    {
+      "date": "2017/01",
+      "value": 30291
+    },
+    {
+      "date": "2018/01",
+      "value": 33677
+    },
+    {
+      "date": "2019/01",
+      "value": 36048
+    },
+    {
+      "date": "2020/01",
+      "value": 40604
+    },
+    {
+      "date": "2021/01",
+      "value": 51594
+    },
+    {
+      "date": "2022/01",
+      "value": 58497
+    },
+    {
+      "date": "2023/01",
+      "value": 63316
+    },
+    {
+      "date": "2024/01",
+      "value": 63313
+    }
+  ],
+  "aiSummary": "Los mexicanos en el extranjero enviaron más de 63 mil millones de dólares a sus familias, casi 10 veces más que en el año 2000. Las remesas son la segunda mayor fuente de dólares del país.",
+  "aiInsight": "63 mil millones de dólares es más que todo el turismo y casi lo mismo que el petróleo. Para millones de familias mexicanas, las remesas son su principal fuente de ingreso.",
+  "source": "INEGI / Banxico",
+  "lastUpdate": "2025-03-01"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "exportaciones",
+  "name": "Exportaciones Totales",
+  "inegi_id": "5300000050",
+  "unit": "Millones de dólares",
+  "description": "Todo lo que México le vende al extranjero",
+  "lastValue": "593,012",
+  "lastDate": "2024/12",
+  "previousValue": "563,107",
+  "changePercent": 5.31,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 166455
+    },
+    {
+      "date": "2001/01",
+      "value": 158443
+    },
+    {
+      "date": "2002/01",
+      "value": 161046
+    },
+    {
+      "date": "2003/01",
+      "value": 164766
+    },
+    {
+      "date": "2004/01",
+      "value": 187999
+    },
+    {
+      "date": "2005/01",
+      "value": 214233
+    },
+    {
+      "date": "2006/01",
+      "value": 249925
+    },
+    {
+      "date": "2007/01",
+      "value": 271875
+    },
+    {
+      "date": "2008/01",
+      "value": 291343
+    },
+    {
+      "date": "2009/01",
+      "value": 229637
+    },
+    {
+      "date": "2010/01",
+      "value": 298305
+    },
+    {
+      "date": "2011/01",
+      "value": 349433
+    },
+    {
+      "date": "2012/01",
+      "value": 370706
+    },
+    {
+      "date": "2013/01",
+      "value": 380189
+    },
+    {
+      "date": "2014/01",
+      "value": 396912
+    },
+    {
+      "date": "2015/01",
+      "value": 380772
+    },
+    {
+      "date": "2016/01",
+      "value": 373930
+    },
+    {
+      "date": "2017/01",
+      "value": 409494
+    },
+    {
+      "date": "2018/01",
+      "value": 450713
+    },
+    {
+      "date": "2019/01",
+      "value": 461116
+    },
+    {
+      "date": "2020/01",
+      "value": 416999
+    },
+    {
+      "date": "2021/01",
+      "value": 494225
+    },
+    {
+      "date": "2022/01",
+      "value": 578189
+    },
+    {
+      "date": "2023/01",
+      "value": 563107
+    },
+    {
+      "date": "2024/01",
+      "value": 593012
+    }
+  ],
+  "aiSummary": "México exportó 593 mil millones de dólares en 2024, un récord histórico. Somos el 12° mayor exportador del mundo y el mayor socio comercial de Estados Unidos.",
+  "aiInsight": "Las exportaciones generan millones de empleos en México. Cada vez que se fabrica un auto, una cerveza o un aguacate para vender en EUA, se genera trabajo aquí.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

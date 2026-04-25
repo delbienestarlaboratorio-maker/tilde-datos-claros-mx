@@ -1,0 +1,78 @@
+{
+  "id": "vuelos-pasajeros",
+  "name": "Pasajeros en Vuelos",
+  "inegi_id": "5300000123",
+  "unit": "Millones de pasajeros",
+  "description": "Personas que viajaron en avión en México",
+  "lastValue": "118.5",
+  "lastDate": "2024/01",
+  "previousValue": "107.4",
+  "changePercent": 10.34,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 52
+    },
+    {
+      "date": "2011/01",
+      "value": 55
+    },
+    {
+      "date": "2012/01",
+      "value": 60
+    },
+    {
+      "date": "2013/01",
+      "value": 65
+    },
+    {
+      "date": "2014/01",
+      "value": 70
+    },
+    {
+      "date": "2015/01",
+      "value": 78
+    },
+    {
+      "date": "2016/01",
+      "value": 85
+    },
+    {
+      "date": "2017/01",
+      "value": 90
+    },
+    {
+      "date": "2018/01",
+      "value": 95
+    },
+    {
+      "date": "2019/01",
+      "value": 102
+    },
+    {
+      "date": "2020/01",
+      "value": 48
+    },
+    {
+      "date": "2021/01",
+      "value": 80
+    },
+    {
+      "date": "2022/01",
+      "value": 107
+    },
+    {
+      "date": "2023/01",
+      "value": 112
+    },
+    {
+      "date": "2024/01",
+      "value": 118.5
+    }
+  ],
+  "aiSummary": "Un récord de 118.5 millones de pasajeros usaron el avión en 2024. El aeropuerto de la CDMX, Cancún y Guadalajara concentran la mayor parte de este tráfico.",
+  "aiInsight": "Las aerolíneas de bajo costo cambiaron México: hoy la gente usa el avión para viajes que antes hacía en autobús, porque muchas veces el avión es más barato.",
+  "source": "INEGI / AFAC",
+  "lastUpdate": "2025-01-15"
+}

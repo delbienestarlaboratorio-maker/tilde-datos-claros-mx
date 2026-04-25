@@ -1,0 +1,118 @@
+{
+  "id": "pib-total",
+  "name": "PIB Total",
+  "inegi_id": "6207067153",
+  "unit": "Millones de pesos",
+  "description": "Valor total de todos los bienes y servicios producidos en México",
+  "lastValue": "20,274,879",
+  "lastDate": "2024/04",
+  "previousValue": "19,824,516",
+  "changePercent": 2.27,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 10357924
+    },
+    {
+      "date": "2001/01",
+      "value": 10218066
+    },
+    {
+      "date": "2002/01",
+      "value": 10256886
+    },
+    {
+      "date": "2003/01",
+      "value": 10461645
+    },
+    {
+      "date": "2004/01",
+      "value": 10890297
+    },
+    {
+      "date": "2005/01",
+      "value": 11220080
+    },
+    {
+      "date": "2006/01",
+      "value": 11781603
+    },
+    {
+      "date": "2007/01",
+      "value": 12165279
+    },
+    {
+      "date": "2008/01",
+      "value": 12374704
+    },
+    {
+      "date": "2009/01",
+      "value": 11651654
+    },
+    {
+      "date": "2010/01",
+      "value": 12277659
+    },
+    {
+      "date": "2011/01",
+      "value": 12774179
+    },
+    {
+      "date": "2012/01",
+      "value": 13287290
+    },
+    {
+      "date": "2013/01",
+      "value": 13442954
+    },
+    {
+      "date": "2014/01",
+      "value": 13811326
+    },
+    {
+      "date": "2015/01",
+      "value": 14244068
+    },
+    {
+      "date": "2016/01",
+      "value": 14611824
+    },
+    {
+      "date": "2017/01",
+      "value": 14948325
+    },
+    {
+      "date": "2018/01",
+      "value": 15232822
+    },
+    {
+      "date": "2019/01",
+      "value": 15154851
+    },
+    {
+      "date": "2020/01",
+      "value": 13942711
+    },
+    {
+      "date": "2021/01",
+      "value": 14723472
+    },
+    {
+      "date": "2022/01",
+      "value": 15383060
+    },
+    {
+      "date": "2023/01",
+      "value": 16121438
+    },
+    {
+      "date": "2024/01",
+      "value": 16862340
+    }
+  ],
+  "aiSummary": "El PIB de México alcanza más de 20 billones de pesos, mostrando un crecimiento sostenido del 2.27% respecto al periodo anterior. La economía mexicana se ha recuperado completamente de la caída por la pandemia de 2020.",
+  "aiInsight": "Si el PIB sigue creciendo, hay más empleo y más dinero circulando. Eso puede significar mejores oportunidades de trabajo y mayores ingresos para las familias.",
+  "source": "INEGI - PIB Trimestral",
+  "lastUpdate": "2025-03-15"
+}

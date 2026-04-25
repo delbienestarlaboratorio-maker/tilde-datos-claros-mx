@@ -1,0 +1,78 @@
+{
+  "id": "construccion-valor",
+  "name": "Valor de la Construcción",
+  "inegi_id": "383161",
+  "unit": "Millones de pesos",
+  "description": "Cuánto dinero se invierte en construir",
+  "lastValue": "398,500",
+  "lastDate": "2024/12",
+  "previousValue": "375,200",
+  "changePercent": 6.21,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 245600
+    },
+    {
+      "date": "2011/01",
+      "value": 262400
+    },
+    {
+      "date": "2012/01",
+      "value": 278900
+    },
+    {
+      "date": "2013/01",
+      "value": 295200
+    },
+    {
+      "date": "2014/01",
+      "value": 298500
+    },
+    {
+      "date": "2015/01",
+      "value": 305200
+    },
+    {
+      "date": "2016/01",
+      "value": 298700
+    },
+    {
+      "date": "2017/01",
+      "value": 312500
+    },
+    {
+      "date": "2018/01",
+      "value": 325800
+    },
+    {
+      "date": "2019/01",
+      "value": 318200
+    },
+    {
+      "date": "2020/01",
+      "value": 289500
+    },
+    {
+      "date": "2021/01",
+      "value": 312400
+    },
+    {
+      "date": "2022/01",
+      "value": 338900
+    },
+    {
+      "date": "2023/01",
+      "value": 362500
+    },
+    {
+      "date": "2024/01",
+      "value": 398500
+    }
+  ],
+  "aiSummary": "Se invirtieron casi 400 mil millones de pesos en construcción en 2024, un 6.2% más que el año anterior. Esto incluye casas, carreteras, hospitales y obras de gobierno.",
+  "aiInsight": "Más inversión en construcción = más casas disponibles, mejores carreteras y más plazas comerciales. También es uno de los sectores que más empleo genera en México.",
+  "source": "INEGI - Encuesta Nacional de Empresas Constructoras",
+  "lastUpdate": "2025-03-01"
+}

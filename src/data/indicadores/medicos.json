@@ -1,0 +1,118 @@
+{
+  "id": "medicos",
+  "name": "Médicos por Habitante",
+  "inegi_id": "1002000025",
+  "unit": "Por cada 1,000 hab",
+  "description": "Cuántos doctores hay para atendernos",
+  "lastValue": "2.4",
+  "lastDate": "2024/01",
+  "previousValue": "2.3",
+  "changePercent": 4.35,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 1.6
+    },
+    {
+      "date": "2001/01",
+      "value": 1.6
+    },
+    {
+      "date": "2002/01",
+      "value": 1.7
+    },
+    {
+      "date": "2003/01",
+      "value": 1.7
+    },
+    {
+      "date": "2004/01",
+      "value": 1.7
+    },
+    {
+      "date": "2005/01",
+      "value": 1.8
+    },
+    {
+      "date": "2006/01",
+      "value": 1.8
+    },
+    {
+      "date": "2007/01",
+      "value": 1.8
+    },
+    {
+      "date": "2008/01",
+      "value": 1.9
+    },
+    {
+      "date": "2009/01",
+      "value": 1.9
+    },
+    {
+      "date": "2010/01",
+      "value": 2
+    },
+    {
+      "date": "2011/01",
+      "value": 2
+    },
+    {
+      "date": "2012/01",
+      "value": 2
+    },
+    {
+      "date": "2013/01",
+      "value": 2.1
+    },
+    {
+      "date": "2014/01",
+      "value": 2.1
+    },
+    {
+      "date": "2015/01",
+      "value": 2.1
+    },
+    {
+      "date": "2016/01",
+      "value": 2.2
+    },
+    {
+      "date": "2017/01",
+      "value": 2.2
+    },
+    {
+      "date": "2018/01",
+      "value": 2.2
+    },
+    {
+      "date": "2019/01",
+      "value": 2.3
+    },
+    {
+      "date": "2020/01",
+      "value": 2.3
+    },
+    {
+      "date": "2021/01",
+      "value": 2.3
+    },
+    {
+      "date": "2022/01",
+      "value": 2.3
+    },
+    {
+      "date": "2023/01",
+      "value": 2.3
+    },
+    {
+      "date": "2024/01",
+      "value": 2.4
+    }
+  ],
+  "aiSummary": "Hay 2.4 médicos por cada 1,000 mexicanos, debajo del promedio de la OCDE (3.5). Además, la mayoría están concentrados en las grandes ciudades.",
+  "aiInsight": "Si vives en una zona rural, probablemente hay menos de 1 médico por cada 1,000 personas. Las comunidades más alejadas tienen la peor cobertura.",
+  "source": "INEGI - Salud",
+  "lastUpdate": "2025-01-15"
+}

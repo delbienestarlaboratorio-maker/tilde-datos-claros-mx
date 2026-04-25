@@ -1,0 +1,78 @@
+{
+  "id": "energias-limpias",
+  "name": "Energías Limpias",
+  "inegi_id": "5300000231",
+  "unit": "Porcentaje",
+  "description": "Luz proveniente de fuentes renovables y limpias",
+  "lastValue": "24.5",
+  "lastDate": "2024/01",
+  "previousValue": "25.2",
+  "changePercent": -2.78,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 15.2
+    },
+    {
+      "date": "2011/01",
+      "value": 15.5
+    },
+    {
+      "date": "2012/01",
+      "value": 16
+    },
+    {
+      "date": "2013/01",
+      "value": 17.2
+    },
+    {
+      "date": "2014/01",
+      "value": 18.5
+    },
+    {
+      "date": "2015/01",
+      "value": 20.1
+    },
+    {
+      "date": "2016/01",
+      "value": 21.5
+    },
+    {
+      "date": "2017/01",
+      "value": 22.8
+    },
+    {
+      "date": "2018/01",
+      "value": 24.5
+    },
+    {
+      "date": "2019/01",
+      "value": 26.2
+    },
+    {
+      "date": "2020/01",
+      "value": 27.5
+    },
+    {
+      "date": "2021/01",
+      "value": 27
+    },
+    {
+      "date": "2022/01",
+      "value": 26.5
+    },
+    {
+      "date": "2023/01",
+      "value": 25.2
+    },
+    {
+      "date": "2024/01",
+      "value": 24.5
+    }
+  ],
+  "aiSummary": "Solo el 24.5% de la electricidad de México fue 'limpia' (eólica, solar o hidroeléctrica). El resto (más del 75%) requiere quemar gas natural o carbón, contaminando el aire.",
+  "aiInsight": "México tiene la meta internacional de generar el 35% como limpia para 2024 y falló estrepitosamente. La inversión en paneles solares y molinos de viento se frenó severamente.",
+  "source": "SENER / CENACE",
+  "lastUpdate": "2025-02-15"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "inversion-ciencia",
+  "name": "Inversión en Ciencia y Tecnología",
+  "inegi_id": "5300000202",
+  "unit": "Porcentaje del PIB",
+  "description": "Cuánto dinero se gasta en investigar",
+  "lastValue": "0.28",
+  "lastDate": "2024/01",
+  "previousValue": "0.30",
+  "changePercent": -6.67,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 0.45
+    },
+    {
+      "date": "2011/01",
+      "value": 0.48
+    },
+    {
+      "date": "2012/01",
+      "value": 0.51
+    },
+    {
+      "date": "2013/01",
+      "value": 0.53
+    },
+    {
+      "date": "2014/01",
+      "value": 0.55
+    },
+    {
+      "date": "2015/01",
+      "value": 0.56
+    },
+    {
+      "date": "2016/01",
+      "value": 0.52
+    },
+    {
+      "date": "2017/01",
+      "value": 0.48
+    },
+    {
+      "date": "2018/01",
+      "value": 0.45
+    },
+    {
+      "date": "2019/01",
+      "value": 0.42
+    },
+    {
+      "date": "2020/01",
+      "value": 0.4
+    },
+    {
+      "date": "2021/01",
+      "value": 0.35
+    },
+    {
+      "date": "2022/01",
+      "value": 0.32
+    },
+    {
+      "date": "2023/01",
+      "value": 0.3
+    },
+    {
+      "date": "2024/01",
+      "value": 0.28
+    }
+  ],
+  "aiSummary": "México gasta solo el 0.28% de todo lo que produce en Ciencia y Tecnología, la cifra más baja de toda la OCDE. La ley dice que debería ser el 1%.",
+  "aiInsight": "Sin inversión en ciencia, no hay tecnología nueva; sin tecnología, las fábricas pagan sueldos bajos por armar piezas en lugar de pagarlos muy altos por diseñarlas.",
+  "source": "CONAHCYT / OCDE",
+  "lastUpdate": "2025-02-15"
+}

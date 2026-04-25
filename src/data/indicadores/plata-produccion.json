@@ -1,0 +1,98 @@
+{
+  "id": "plata-produccion",
+  "name": "Producción de Plata",
+  "inegi_id": "5300000081",
+  "unit": "Toneladas",
+  "description": "México es el 1er productor de plata del mundo",
+  "lastValue": "5,680",
+  "lastDate": "2024/12",
+  "previousValue": "5,820",
+  "changePercent": -2.41,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 2894
+    },
+    {
+      "date": "2006/01",
+      "value": 2970
+    },
+    {
+      "date": "2007/01",
+      "value": 3141
+    },
+    {
+      "date": "2008/01",
+      "value": 3236
+    },
+    {
+      "date": "2009/01",
+      "value": 3554
+    },
+    {
+      "date": "2010/01",
+      "value": 4411
+    },
+    {
+      "date": "2011/01",
+      "value": 4714
+    },
+    {
+      "date": "2012/01",
+      "value": 5360
+    },
+    {
+      "date": "2013/01",
+      "value": 5577
+    },
+    {
+      "date": "2014/01",
+      "value": 5501
+    },
+    {
+      "date": "2015/01",
+      "value": 6025
+    },
+    {
+      "date": "2016/01",
+      "value": 5790
+    },
+    {
+      "date": "2017/01",
+      "value": 6120
+    },
+    {
+      "date": "2018/01",
+      "value": 6345
+    },
+    {
+      "date": "2019/01",
+      "value": 6121
+    },
+    {
+      "date": "2020/01",
+      "value": 5478
+    },
+    {
+      "date": "2021/01",
+      "value": 5652
+    },
+    {
+      "date": "2022/01",
+      "value": 5840
+    },
+    {
+      "date": "2023/01",
+      "value": 5820
+    },
+    {
+      "date": "2024/01",
+      "value": 5680
+    }
+  ],
+  "aiSummary": "México produjo 5,680 toneladas de plata, manteniendo su puesto como el mayor productor mundial. Zacatecas, Chihuahua y Durango son los estados líderes.",
+  "aiInsight": "La plata mexicana se usa en electrónica, energía solar y joyería mundial. Cada panel solar y celular del mundo tiene un poco de plata mexicana.",
+  "source": "INEGI - Industria Minerometalúrgica",
+  "lastUpdate": "2025-03-15"
+}

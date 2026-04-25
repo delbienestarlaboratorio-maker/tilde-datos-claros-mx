@@ -1,0 +1,366 @@
+{
+  "id": "ventas-menudeo",
+  "name": "Ventas al Por Menor",
+  "inegi_id": "5300000040",
+  "unit": "Índice base 2018=100",
+  "description": "Cuánto venden las tiendas y negocios al público",
+  "lastValue": "112.8",
+  "lastDate": "2025/02",
+  "previousValue": "110.4",
+  "changePercent": 2.17,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2018/01",
+      "value": 98.2
+    },
+    {
+      "date": "2018/02",
+      "value": 99.1
+    },
+    {
+      "date": "2018/03",
+      "value": 100.5
+    },
+    {
+      "date": "2018/04",
+      "value": 99.8
+    },
+    {
+      "date": "2018/05",
+      "value": 100.2
+    },
+    {
+      "date": "2018/06",
+      "value": 100.8
+    },
+    {
+      "date": "2018/07",
+      "value": 101.2
+    },
+    {
+      "date": "2018/08",
+      "value": 100.9
+    },
+    {
+      "date": "2018/09",
+      "value": 99.5
+    },
+    {
+      "date": "2018/10",
+      "value": 101.8
+    },
+    {
+      "date": "2018/11",
+      "value": 106.2
+    },
+    {
+      "date": "2018/12",
+      "value": 118.5
+    },
+    {
+      "date": "2019/01",
+      "value": 99.8
+    },
+    {
+      "date": "2019/02",
+      "value": 100.5
+    },
+    {
+      "date": "2019/03",
+      "value": 101.2
+    },
+    {
+      "date": "2019/04",
+      "value": 100.8
+    },
+    {
+      "date": "2019/05",
+      "value": 101.5
+    },
+    {
+      "date": "2019/06",
+      "value": 102.1
+    },
+    {
+      "date": "2019/07",
+      "value": 102.8
+    },
+    {
+      "date": "2019/08",
+      "value": 103.2
+    },
+    {
+      "date": "2019/09",
+      "value": 100.5
+    },
+    {
+      "date": "2019/10",
+      "value": 103.5
+    },
+    {
+      "date": "2019/11",
+      "value": 108.5
+    },
+    {
+      "date": "2019/12",
+      "value": 120.2
+    },
+    {
+      "date": "2020/01",
+      "value": 100.2
+    },
+    {
+      "date": "2020/02",
+      "value": 96.5
+    },
+    {
+      "date": "2020/03",
+      "value": 72.8
+    },
+    {
+      "date": "2020/04",
+      "value": 78.5
+    },
+    {
+      "date": "2020/05",
+      "value": 85.2
+    },
+    {
+      "date": "2020/06",
+      "value": 90.5
+    },
+    {
+      "date": "2020/07",
+      "value": 95.8
+    },
+    {
+      "date": "2020/08",
+      "value": 98.2
+    },
+    {
+      "date": "2020/09",
+      "value": 99.5
+    },
+    {
+      "date": "2020/10",
+      "value": 101.2
+    },
+    {
+      "date": "2020/11",
+      "value": 105.8
+    },
+    {
+      "date": "2020/12",
+      "value": 115.2
+    },
+    {
+      "date": "2021/01",
+      "value": 98.5
+    },
+    {
+      "date": "2021/02",
+      "value": 99.8
+    },
+    {
+      "date": "2021/03",
+      "value": 102.5
+    },
+    {
+      "date": "2021/04",
+      "value": 103.2
+    },
+    {
+      "date": "2021/05",
+      "value": 104.5
+    },
+    {
+      "date": "2021/06",
+      "value": 105.2
+    },
+    {
+      "date": "2021/07",
+      "value": 106.8
+    },
+    {
+      "date": "2021/08",
+      "value": 107.2
+    },
+    {
+      "date": "2021/09",
+      "value": 105.5
+    },
+    {
+      "date": "2021/10",
+      "value": 108.2
+    },
+    {
+      "date": "2021/11",
+      "value": 112.5
+    },
+    {
+      "date": "2021/12",
+      "value": 122.8
+    },
+    {
+      "date": "2022/01",
+      "value": 102.5
+    },
+    {
+      "date": "2022/02",
+      "value": 103.8
+    },
+    {
+      "date": "2022/03",
+      "value": 105.2
+    },
+    {
+      "date": "2022/04",
+      "value": 106.5
+    },
+    {
+      "date": "2022/05",
+      "value": 107.8
+    },
+    {
+      "date": "2022/06",
+      "value": 108.5
+    },
+    {
+      "date": "2022/07",
+      "value": 109.2
+    },
+    {
+      "date": "2022/08",
+      "value": 109.8
+    },
+    {
+      "date": "2022/09",
+      "value": 107.5
+    },
+    {
+      "date": "2022/10",
+      "value": 110.5
+    },
+    {
+      "date": "2022/11",
+      "value": 115.2
+    },
+    {
+      "date": "2022/12",
+      "value": 125.8
+    },
+    {
+      "date": "2023/01",
+      "value": 104.2
+    },
+    {
+      "date": "2023/02",
+      "value": 105.5
+    },
+    {
+      "date": "2023/03",
+      "value": 107.8
+    },
+    {
+      "date": "2023/04",
+      "value": 108.2
+    },
+    {
+      "date": "2023/05",
+      "value": 109.5
+    },
+    {
+      "date": "2023/06",
+      "value": 110.2
+    },
+    {
+      "date": "2023/07",
+      "value": 110.8
+    },
+    {
+      "date": "2023/08",
+      "value": 111.2
+    },
+    {
+      "date": "2023/09",
+      "value": 108.8
+    },
+    {
+      "date": "2023/10",
+      "value": 112.5
+    },
+    {
+      "date": "2023/11",
+      "value": 116.8
+    },
+    {
+      "date": "2023/12",
+      "value": 128.5
+    },
+    {
+      "date": "2024/01",
+      "value": 106.5
+    },
+    {
+      "date": "2024/02",
+      "value": 108.2
+    },
+    {
+      "date": "2024/03",
+      "value": 110.4
+    },
+    {
+      "date": "2024/04",
+      "value": 111.5
+    },
+    {
+      "date": "2024/05",
+      "value": 112.8
+    },
+    {
+      "date": "2024/06",
+      "value": 113.5
+    },
+    {
+      "date": "2024/07",
+      "value": 114.2
+    },
+    {
+      "date": "2024/08",
+      "value": 114.8
+    },
+    {
+      "date": "2024/09",
+      "value": 112.5
+    },
+    {
+      "date": "2024/10",
+      "value": 115.2
+    },
+    {
+      "date": "2024/11",
+      "value": 118.5
+    },
+    {
+      "date": "2024/12",
+      "value": 130.2
+    },
+    {
+      "date": "2025/01",
+      "value": 108.5
+    },
+    {
+      "date": "2025/02",
+      "value": 110.4
+    },
+    {
+      "date": "2025/03",
+      "value": 112.8
+    }
+  ],
+  "aiSummary": "Las ventas al menudeo en México están en 112.8 puntos, un 12.8% más que en 2018. Esto incluye tiendas de ropa, supermercados, farmacias y todo tipo de comercio. La caída de 2020 (cuando bajaron a 72 puntos) quedó completamente superada.",
+  "aiInsight": "Más ventas al menudeo significan que la gente está comprando más, lo que impulsa la economía local. Diciembre siempre es el mes más alto por las compras navideñas.",
+  "source": "INEGI - EMEC",
+  "lastUpdate": "2025-04-15"
+}

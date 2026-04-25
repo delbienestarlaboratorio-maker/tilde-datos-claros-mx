@@ -1,0 +1,78 @@
+{
+  "id": "areas-protegidas",
+  "name": "Áreas Naturales Protegidas",
+  "inegi_id": "5300000174",
+  "unit": "Porcentaje del territorio",
+  "description": "Tierra y mar dedicados a la conservación de especies",
+  "lastValue": "22.3",
+  "lastDate": "2024/01",
+  "previousValue": "15.8",
+  "changePercent": 41.14,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 10.5
+    },
+    {
+      "date": "2011/01",
+      "value": 11
+    },
+    {
+      "date": "2012/01",
+      "value": 11.5
+    },
+    {
+      "date": "2013/01",
+      "value": 12
+    },
+    {
+      "date": "2014/01",
+      "value": 12.5
+    },
+    {
+      "date": "2015/01",
+      "value": 13
+    },
+    {
+      "date": "2016/01",
+      "value": 15.5
+    },
+    {
+      "date": "2017/01",
+      "value": 15.8
+    },
+    {
+      "date": "2018/01",
+      "value": 15.8
+    },
+    {
+      "date": "2019/01",
+      "value": 15.8
+    },
+    {
+      "date": "2020/01",
+      "value": 15.8
+    },
+    {
+      "date": "2021/01",
+      "value": 15.8
+    },
+    {
+      "date": "2022/01",
+      "value": 15.8
+    },
+    {
+      "date": "2023/01",
+      "value": 22.3
+    },
+    {
+      "date": "2024/01",
+      "value": 22.3
+    }
+  ],
+  "aiSummary": "El 22.3% del territorio terrestre y marino mexicano es 'Área Natural Protegida'. Recientemente este número saltó mucho por grandes decretos de protección federal.",
+  "aiInsight": "Tener el papel que dice que está 'protegida' es fácil; el problema de las áreas protegidas en México es la falta de presupuesto y guardabosques para vigilar que nadie construya invasiones.",
+  "source": "INEGI / CONANP",
+  "lastUpdate": "2025-01-15"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "turismo-domestico",
+  "name": "Turismo Doméstico",
+  "inegi_id": "5300000073",
+  "unit": "Millones de viajes",
+  "description": "Viajes que hacen los mexicanos dentro del país",
+  "lastValue": "215.8",
+  "lastDate": "2024/12",
+  "previousValue": "198.5",
+  "changePercent": 8.72,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 162.5
+    },
+    {
+      "date": "2016/01",
+      "value": 168.2
+    },
+    {
+      "date": "2017/01",
+      "value": 174.5
+    },
+    {
+      "date": "2018/01",
+      "value": 180.2
+    },
+    {
+      "date": "2019/01",
+      "value": 185.8
+    },
+    {
+      "date": "2020/01",
+      "value": 105.2
+    },
+    {
+      "date": "2021/01",
+      "value": 135.8
+    },
+    {
+      "date": "2022/01",
+      "value": 165.5
+    },
+    {
+      "date": "2023/01",
+      "value": 198.5
+    },
+    {
+      "date": "2024/01",
+      "value": 215.8
+    }
+  ],
+  "aiSummary": "Los mexicanos hicieron 215.8 millones de viajes dentro del país. El turismo doméstico mueve incluso más dinero que el internacional en México.",
+  "aiInsight": "No necesitas salir del país para hacer turismo. Los pueblos mágicos, playas y ciudades coloniales ofrecen experiencias accesibles para todo presupuesto.",
+  "source": "INEGI / SECTUR",
+  "lastUpdate": "2025-03-15"
+}

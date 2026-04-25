@@ -1,0 +1,58 @@
+{
+  "id": "brecha-salarial",
+  "name": "Brecha Salarial de Género",
+  "inegi_id": "5300000199",
+  "unit": "Porcentaje",
+  "description": "Diferencia de sueldo entre hombres y mujeres por el mismo trabajo",
+  "lastValue": "15.2",
+  "lastDate": "2024/01",
+  "previousValue": "16.1",
+  "changePercent": -5.59,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2015/01",
+      "value": 20.5
+    },
+    {
+      "date": "2016/01",
+      "value": 20
+    },
+    {
+      "date": "2017/01",
+      "value": 19.5
+    },
+    {
+      "date": "2018/01",
+      "value": 18.8
+    },
+    {
+      "date": "2019/01",
+      "value": 18.2
+    },
+    {
+      "date": "2020/01",
+      "value": 17.5
+    },
+    {
+      "date": "2021/01",
+      "value": 17
+    },
+    {
+      "date": "2022/01",
+      "value": 16.8
+    },
+    {
+      "date": "2023/01",
+      "value": 16.1
+    },
+    {
+      "date": "2024/01",
+      "value": 15.2
+    }
+  ],
+  "aiSummary": "Las mujeres en México ganan en promedio 15.2% menos que los hombres por realizar las mismas actividades o tener el mismo nivel de preparación.",
+  "aiInsight": "La brecha se ha cerrado muy lentamente. Parte de esto ocurre porque las mujeres ocupan menos puestos directivos ('techo de cristal') y más empleos de medio tiempo por cuidar a sus hijos.",
+  "source": "INEGI - ENOE",
+  "lastUpdate": "2025-02-15"
+}

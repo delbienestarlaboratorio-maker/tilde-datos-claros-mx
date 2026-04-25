@@ -1,0 +1,102 @@
+{
+  "id": "produccion-petroleo",
+  "name": "Producción de Petróleo",
+  "inegi_id": "5300000232",
+  "unit": "Millones de barriles diarios",
+  "description": "Crudo extraído por PEMEX y privados",
+  "lastValue": "1.58",
+  "lastDate": "2024/01",
+  "previousValue": "1.62",
+  "changePercent": -2.47,
+  "trend": "down",
+  "observations": [
+    {
+      "date": "2004/01",
+      "value": 3.38
+    },
+    {
+      "date": "2005/01",
+      "value": 3.33
+    },
+    {
+      "date": "2006/01",
+      "value": 3.2
+    },
+    {
+      "date": "2007/01",
+      "value": 3
+    },
+    {
+      "date": "2008/01",
+      "value": 2.8
+    },
+    {
+      "date": "2009/01",
+      "value": 2.6
+    },
+    {
+      "date": "2010/01",
+      "value": 2.55
+    },
+    {
+      "date": "2011/01",
+      "value": 2.5
+    },
+    {
+      "date": "2012/01",
+      "value": 2.55
+    },
+    {
+      "date": "2013/01",
+      "value": 2.52
+    },
+    {
+      "date": "2014/01",
+      "value": 2.42
+    },
+    {
+      "date": "2015/01",
+      "value": 2.26
+    },
+    {
+      "date": "2016/01",
+      "value": 2.15
+    },
+    {
+      "date": "2017/01",
+      "value": 1.95
+    },
+    {
+      "date": "2018/01",
+      "value": 1.8
+    },
+    {
+      "date": "2019/01",
+      "value": 1.7
+    },
+    {
+      "date": "2020/01",
+      "value": 1.65
+    },
+    {
+      "date": "2021/01",
+      "value": 1.73
+    },
+    {
+      "date": "2022/01",
+      "value": 1.62
+    },
+    {
+      "date": "2023/01",
+      "value": 1.58
+    },
+    {
+      "date": "2024/01",
+      "value": 1.58
+    }
+  ],
+  "aiSummary": "Se extrajeron solo 1.58 millones de barriles diarios. En el año 2004, en la época dorada de PEMEX, sacábamos 3.38 millones diarios. Ese nivel jamás volverá.",
+  "aiInsight": "Los campos gigantes del Golfo de México se están secando rápido. PEMEX, que es la petrolera más endeudada del mundo, batalla para mantener siquiera este nivel bajo de extracción.",
+  "source": "PEMEX / CNH",
+  "lastUpdate": "2025-02-15"
+}

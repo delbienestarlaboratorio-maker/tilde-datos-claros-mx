@@ -1,0 +1,98 @@
+{
+  "id": "ied",
+  "name": "Inversión Extranjera Directa",
+  "inegi_id": "5300000063",
+  "unit": "Millones de dólares",
+  "description": "Dinero que invierten las empresas extranjeras en México",
+  "lastValue": "36,058",
+  "lastDate": "2024/12",
+  "previousValue": "36,028",
+  "changePercent": 0.08,
+  "trend": "stable",
+  "observations": [
+    {
+      "date": "2005/01",
+      "value": 24407
+    },
+    {
+      "date": "2006/01",
+      "value": 20779
+    },
+    {
+      "date": "2007/01",
+      "value": 31380
+    },
+    {
+      "date": "2008/01",
+      "value": 27853
+    },
+    {
+      "date": "2009/01",
+      "value": 16561
+    },
+    {
+      "date": "2010/01",
+      "value": 26221
+    },
+    {
+      "date": "2011/01",
+      "value": 23553
+    },
+    {
+      "date": "2012/01",
+      "value": 17627
+    },
+    {
+      "date": "2013/01",
+      "value": 46554
+    },
+    {
+      "date": "2014/01",
+      "value": 25653
+    },
+    {
+      "date": "2015/01",
+      "value": 34858
+    },
+    {
+      "date": "2016/01",
+      "value": 32113
+    },
+    {
+      "date": "2017/01",
+      "value": 32915
+    },
+    {
+      "date": "2018/01",
+      "value": 36871
+    },
+    {
+      "date": "2019/01",
+      "value": 32921
+    },
+    {
+      "date": "2020/01",
+      "value": 29079
+    },
+    {
+      "date": "2021/01",
+      "value": 31621
+    },
+    {
+      "date": "2022/01",
+      "value": 35292
+    },
+    {
+      "date": "2023/01",
+      "value": 36028
+    },
+    {
+      "date": "2024/01",
+      "value": 36058
+    }
+  ],
+  "aiSummary": "Empresas extranjeras invirtieron más de 36 mil millones de dólares en México en 2024. El nearshoring (fábricas que se mudan de Asia a México) está atrayendo más inversión que nunca.",
+  "aiInsight": "Cuando una empresa como Tesla, BMW o Samsung abre una fábrica en México, es inversión extranjera directa. Genera empleo, tecnología y desarrollo en las ciudades donde se instala.",
+  "source": "INEGI / SE",
+  "lastUpdate": "2025-03-15"
+}

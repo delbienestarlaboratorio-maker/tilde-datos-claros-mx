@@ -1,0 +1,78 @@
+{
+  "id": "export-manufactura",
+  "name": "Exportaciones Manufactureras",
+  "inegi_id": "5300000055",
+  "unit": "Millones de dólares",
+  "description": "Productos de fábrica que vendemos al mundo",
+  "lastValue": "502,500",
+  "lastDate": "2024/12",
+  "previousValue": "471,200",
+  "changePercent": 6.64,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2010/01",
+      "value": 230000
+    },
+    {
+      "date": "2011/01",
+      "value": 262000
+    },
+    {
+      "date": "2012/01",
+      "value": 286000
+    },
+    {
+      "date": "2013/01",
+      "value": 298000
+    },
+    {
+      "date": "2014/01",
+      "value": 322000
+    },
+    {
+      "date": "2015/01",
+      "value": 327000
+    },
+    {
+      "date": "2016/01",
+      "value": 325000
+    },
+    {
+      "date": "2017/01",
+      "value": 355000
+    },
+    {
+      "date": "2018/01",
+      "value": 390000
+    },
+    {
+      "date": "2019/01",
+      "value": 402000
+    },
+    {
+      "date": "2020/01",
+      "value": 370000
+    },
+    {
+      "date": "2021/01",
+      "value": 432000
+    },
+    {
+      "date": "2022/01",
+      "value": 498000
+    },
+    {
+      "date": "2023/01",
+      "value": 471000
+    },
+    {
+      "date": "2024/01",
+      "value": 502000
+    }
+  ],
+  "aiSummary": "México exportó más de medio billón de dólares en productos manufacturados. Somos potencia mundial en exportación de autos, pantallas, electrónicos y dispositivos médicos.",
+  "aiInsight": "Las fábricas mexicanas son fundamentales para la cadena de suministro mundial. Los autos que se fabrican en Puebla, Saltillo o Aguascalientes se venden en todo el mundo.",
+  "source": "INEGI - Balanza Comercial",
+  "lastUpdate": "2025-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "matrimonios",
+  "name": "Matrimonios Registrados",
+  "inegi_id": "1002000014",
+  "unit": "Miles",
+  "description": "Parejas que se casaron legalmente",
+  "lastValue": "502",
+  "lastDate": "2024/01",
+  "previousValue": "488",
+  "changePercent": 2.87,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 707
+    },
+    {
+      "date": "2001/01",
+      "value": 666
+    },
+    {
+      "date": "2002/01",
+      "value": 620
+    },
+    {
+      "date": "2003/01",
+      "value": 584
+    },
+    {
+      "date": "2004/01",
+      "value": 600
+    },
+    {
+      "date": "2005/01",
+      "value": 595
+    },
+    {
+      "date": "2006/01",
+      "value": 586
+    },
+    {
+      "date": "2007/01",
+      "value": 595
+    },
+    {
+      "date": "2008/01",
+      "value": 589
+    },
+    {
+      "date": "2009/01",
+      "value": 558
+    },
+    {
+      "date": "2010/01",
+      "value": 568
+    },
+    {
+      "date": "2011/01",
+      "value": 570
+    },
+    {
+      "date": "2012/01",
+      "value": 585
+    },
+    {
+      "date": "2013/01",
+      "value": 583
+    },
+    {
+      "date": "2014/01",
+      "value": 577
+    },
+    {
+      "date": "2015/01",
+      "value": 558
+    },
+    {
+      "date": "2016/01",
+      "value": 543
+    },
+    {
+      "date": "2017/01",
+      "value": 528
+    },
+    {
+      "date": "2018/01",
+      "value": 502
+    },
+    {
+      "date": "2019/01",
+      "value": 504
+    },
+    {
+      "date": "2020/01",
+      "value": 335
+    },
+    {
+      "date": "2021/01",
+      "value": 446
+    },
+    {
+      "date": "2022/01",
+      "value": 502
+    },
+    {
+      "date": "2023/01",
+      "value": 488
+    },
+    {
+      "date": "2024/01",
+      "value": 502
+    }
+  ],
+  "aiSummary": "Se registraron 502 mil matrimonios en 2024. En el año 2000 eran 707 mil. Cada vez menos parejas deciden casarse legalmente, optando por la unión libre.",
+  "aiInsight": "La caída de matrimonios no significa menos parejas, sino que más gente vive en unión libre. En 2020, 1 de cada 3 parejas no estaba casada legalmente.",
+  "source": "INEGI - Estadísticas de Nupcialidad",
+  "lastUpdate": "2025-02-15"
+}

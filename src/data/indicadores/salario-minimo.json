@@ -1,0 +1,122 @@
+{
+  "id": "salario-minimo",
+  "name": "Salario Mínimo",
+  "inegi_id": "1002000043",
+  "unit": "Pesos diarios",
+  "description": "Lo mínimo que deben pagarte por un día de trabajo",
+  "lastValue": "278.80",
+  "lastDate": "2025/01",
+  "previousValue": "248.93",
+  "changePercent": 12,
+  "trend": "up",
+  "observations": [
+    {
+      "date": "2000/01",
+      "value": 37.9
+    },
+    {
+      "date": "2001/01",
+      "value": 40.35
+    },
+    {
+      "date": "2002/01",
+      "value": 42.15
+    },
+    {
+      "date": "2003/01",
+      "value": 43.65
+    },
+    {
+      "date": "2004/01",
+      "value": 45.24
+    },
+    {
+      "date": "2005/01",
+      "value": 46.8
+    },
+    {
+      "date": "2006/01",
+      "value": 48.67
+    },
+    {
+      "date": "2007/01",
+      "value": 50.57
+    },
+    {
+      "date": "2008/01",
+      "value": 52.59
+    },
+    {
+      "date": "2009/01",
+      "value": 54.8
+    },
+    {
+      "date": "2010/01",
+      "value": 57.46
+    },
+    {
+      "date": "2011/01",
+      "value": 59.82
+    },
+    {
+      "date": "2012/01",
+      "value": 62.33
+    },
+    {
+      "date": "2013/01",
+      "value": 64.76
+    },
+    {
+      "date": "2014/01",
+      "value": 67.29
+    },
+    {
+      "date": "2015/01",
+      "value": 70.1
+    },
+    {
+      "date": "2016/01",
+      "value": 73.04
+    },
+    {
+      "date": "2017/01",
+      "value": 80.04
+    },
+    {
+      "date": "2018/01",
+      "value": 88.36
+    },
+    {
+      "date": "2019/01",
+      "value": 102.68
+    },
+    {
+      "date": "2020/01",
+      "value": 123.22
+    },
+    {
+      "date": "2021/01",
+      "value": 141.7
+    },
+    {
+      "date": "2022/01",
+      "value": 172.87
+    },
+    {
+      "date": "2023/01",
+      "value": 207.44
+    },
+    {
+      "date": "2024/01",
+      "value": 248.93
+    },
+    {
+      "date": "2025/01",
+      "value": 278.8
+    }
+  ],
+  "aiSummary": "El salario mínimo en México es de $278.80 pesos al día (2025). Ha subido 12% respecto al año pasado y se ha multiplicado por 7 desde el año 2000 cuando era de apenas $37.90.",
+  "aiInsight": "Si ganas el salario mínimo, al mes recibes aproximadamente $8,364 pesos. Hace 5 años era de $3,696 mensuales. El poder adquisitivo ha mejorado significativamente.",
+  "source": "INEGI / CONASAMI",
+  "lastUpdate": "2025-01-01"
+}
