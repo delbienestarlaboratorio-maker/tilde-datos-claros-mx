@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --webpack -p 9100",
-    "build": "next build",
+    "build": "npx tsx scripts/generate-sitemap.ts && next build --webpack",
     "start": "next start -p 9100",
     "lint": "eslint",
     "sync": "node scripts/sync-inegi.mjs"
