@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --webpack -p 9100",
-    "build": "npx tsx scripts/generate-sitemap.ts && next build --webpack",
+    "build": "next build --webpack",
     "start": "next start -p 9100",
     "lint": "eslint",
     "sync": "node scripts/sync-inegi.mjs"
@@ -28,6 +28,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
     "tailwindcss": "^4",
+    "tsx": "^4.19.3",
     "typescript": "^5"
   }
 }

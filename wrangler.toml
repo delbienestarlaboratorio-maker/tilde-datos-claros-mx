@@ -1,0 +1,8 @@
+name = "tilde-datos-claros-mx"
+pages_build_output_dir = "out"
+
+[build]
+command = "npm run build"
+
+[env.production]
+pages_build_output_dir = "out"
