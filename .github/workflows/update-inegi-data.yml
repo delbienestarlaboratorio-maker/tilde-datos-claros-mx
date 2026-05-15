@@ -28,7 +28,7 @@ jobs:
       - name: Run Daily INEGI Update Script
         env:
           INEGI_API_TOKEN: ${{ secrets.INEGI_API_TOKEN }}
-        run: node scripts/update-daily.mjs
+        run: npx tsx scripts/update-daily.mjs
 
       - name: Check for Changes
         id: git-check

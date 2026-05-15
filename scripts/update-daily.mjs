@@ -1,13 +1,12 @@
 import fs from "fs/promises";
 import path from "path";
-import fetch from "node-fetch";
 
 const API_BASE = "https://www.inegi.org.mx/app/api/indicadores/desarrolladores/jsonxml";
 const TOKEN = process.env.INEGI_API_TOKEN;
 
 // The category taxonomy is our source of truth
 // We read it directly from the lib folder
-import { categories } from "../src/lib/inegi/categories.ts";
+import { CATEGORIES } from "../src/lib/inegi/categories.ts";
 
 async function fetchInegi(indicatorId) {
   const url = `${API_BASE}/INDICATOR/${indicatorId}/es/0700/false/BISE/2.0/${TOKEN}?type=json`;
@@ -28,9 +27,9 @@ async function updateAll() {
   let updatedCount = 0;
   let failedCount = 0;
 
-  for (const cat of categories) {
+  for (const cat of CATEGORIES) {
     for (const sub of cat.subcategories) {
-      for (const item of sub.items) {
+      for (const item of sub.indicators) {
         try {
           console.log(`Descargando actualización para: ${item.name} (${item.inegi_id})...`);
           
